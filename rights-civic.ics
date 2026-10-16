@@ -1,0 +1,188 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SD Immigration Calendar//batch//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SD Immigration - Know your rights & civic
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2000326008940@eventbrite.com
+DTSTART:20261013T163000Z
+DTEND:20261013T173000Z
+SUMMARY:Ballot Bootcamp: Be Ballot Ready
+LOCATION:United Portuguese S.E.S. Hall of San Diego - 2818 Avenida De Portu
+ gal - San Diego\, CA 92106
+URL:https://www.eventbrite.com/e/2000326008940
+DTSTAMP:20261013T000000Z
+CATEGORIES:Rights & civic
+END:VEVENT
+BEGIN:VEVENT
+UID:99bdac36dc634c41a188@sd-immigration-calendar
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261015T160000
+DTEND;TZID=America/Los_Angeles:20261015T180000
+SUMMARY:Know Your Rights – Literature Drops
+LOCATION:Central San Diego (in person\; location given on registration)
+DESCRIPTION:Weekly community walk delivering know-your-rights information t
+ o voters\, workers\, and immigrant families in Central San Diego. Registra
+ tion required.
+URL:https://www.alliancesd.org/event/know-your-rights-literature-drops/
+CATEGORIES:Rights & civic
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261016T110000
+DTEND;TZID=America/Los_Angeles:20261016T120000
+DTSTAMP:20260928T171726Z
+UID:4716-1792148400-1792152000@www.lassd.org
+SUMMARY:Fair Housing Basics
+DESCRIPTION:Join Legal Aid for a free webinar on your rights and responsibi
+ lities under anti-discrimination laws. Register: https://attendee.gotowebi
+ nar.com/register/5797482279285635424
+URL:https://www.lassd.org/event/fair-housing-basics-45/
+CATEGORIES:Housing,Rights & civic
+END:VEVENT
+BEGIN:VEVENT
+UID:69a23460491b809c6f1d0cfa@sdcl.bibliocommons.com
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261021T130000
+DTEND;TZID=America/Los_Angeles:20261021T150000
+SUMMARY:CSA San Diego - Fair Housing Table Information Table
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+URL:https://sdcl.bibliocommons.com/events/69a23460491b809c6f1d0cfa
+CATEGORIES:Housing,Rights & civic,Tabling
+END:VEVENT
+BEGIN:VEVENT
+UID:2002974901850@eventbrite.com
+DTSTART:20261022T010000Z
+DTEND:20261022T030000Z
+SUMMARY:Know Your Rights: A Community Legal Education Forum
+LOCATION:Thomas Jefferson School of Law - San Diego\, CA 92101
+URL:https://www.eventbrite.com/e/2002974901850
+DTSTAMP:20261013T000000Z
+CATEGORIES:Rights & civic
+END:VEVENT
+BEGIN:VEVENT
+UID:cf1a4ba91f21e041ec19@sd-immigration-calendar
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261022T160000
+DTEND;TZID=America/Los_Angeles:20261022T180000
+SUMMARY:Know Your Rights – Literature Drops
+LOCATION:Central San Diego (in person\; location given on registration)
+DESCRIPTION:Weekly community walk delivering know-your-rights information t
+ o voters\, workers\, and immigrant families in Central San Diego. Registra
+ tion required.
+URL:https://www.alliancesd.org/event/know-your-rights-literature-drops/
+CATEGORIES:Rights & civic
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261026T120000
+DTEND;TZID=America/Los_Angeles:20261026T130000
+DTSTAMP:20260824T162427Z
+UID:69510-1793016000-1793019600@sdvlp.org
+SUMMARY:Guardianship: Know Your Rights webinar
+DESCRIPTION:Zoom registration: https://us02web.zoom.us/webinar/register/WN_
+ HE-2YqUtT_iFIgF1SoHCJQ
+URL:https://sdvlp.org/event/guardianship-know-your-rights-webinar-3/
+CATEGORIES:Online,Rights & civic
+END:VEVENT
+BEGIN:VEVENT
+UID:5e11aae8f4d135ae9ab6@sd-immigration-calendar
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261027T120000
+SUMMARY:We the People: Claim Our Collective Power – Virtual Civic Engagem
+ ent Training
+LOCATION:Virtual
+DESCRIPTION:Five-part virtual civic engagement training series (public comm
+ ent\, rulemaking\, budgets). Free\; registration required.
+URL:https://www.alliancesd.org/event/we-the-people-claim-our-collective-pow
+ er/
+CATEGORIES:Online,Rights & civic
+END:VEVENT
+BEGIN:VEVENT
+UID:1647de0dcf7c2f1f74b8@sd-immigration-calendar
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261029T160000
+DTEND;TZID=America/Los_Angeles:20261029T180000
+SUMMARY:Know Your Rights – Literature Drops
+LOCATION:Central San Diego (in person\; location given on registration)
+DESCRIPTION:Weekly community walk delivering know-your-rights information t
+ o voters\, workers\, and immigrant families in Central San Diego. Registra
+ tion required.
+URL:https://www.alliancesd.org/event/know-your-rights-literature-drops/
+CATEGORIES:Rights & civic
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261103T120000
+DTEND;TZID=America/Los_Angeles:20261103T140000
+DTSTAMP:20261008T204841Z
+UID:4747-1793707200-1793714400@www.lassd.org
+SUMMARY:Homeowner Rights Clinic
+DESCRIPTION:Free clinic on avoiding foreclosure\, loan modification\, prope
+ rty taxes\, HOA and home repair issues. Registration required: https://tin
+ yurl.com/NovHomeClinic26
+URL:https://www.lassd.org/event/homeowner-rights-clinic-3/
+CATEGORIES:Rights & civic,Health
+END:VEVENT
+BEGIN:VEVENT
+UID:10055-1793898000-1793905200@www.casafamiliar.org
+DTSTART;TZID=America/Los_Angeles:20261105T170000
+DTEND;TZID=America/Los_Angeles:20261105T190000
+SUMMARY:How to Apply to Affordable Housing
+LOCATION:El Salón\, 114 West Hall Avenue\, San Ysidro\, California\, 92173
+ \, United States
+URL:https://www.casafamiliar.org/event/how-to-apply-to-affordable-housing-n
+ ov5/
+DTSTAMP:20261013T000000Z
+CATEGORIES:Housing,Rights & civic
+END:VEVENT
+BEGIN:VEVENT
+UID:69a23460491b809c6f1d0cfb@sdcl.bibliocommons.com
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261106T130000
+DTEND;TZID=America/Los_Angeles:20261106T150000
+SUMMARY:CSA San Diego - Fair Housing Table Information Table
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+URL:https://sdcl.bibliocommons.com/events/69a23460491b809c6f1d0cfb
+CATEGORIES:Housing,Rights & civic,Tabling
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261110T100000
+DTEND;TZID=America/Los_Angeles:20261110T110000
+DTSTAMP:20260928T171901Z
+UID:4718-1794304800-1794308400@www.lassd.org
+SUMMARY:Fair Housing Basics
+DESCRIPTION:Join Legal Aid for a free webinar on your rights and responsibi
+ lities under anti-discrimination laws. Register: https://attendee.gotowebi
+ nar.com/register/3435264010380993629
+URL:https://www.lassd.org/event/fair-housing-basics-46/
+CATEGORIES:Housing,Rights & civic
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261112T170000
+DTEND;TZID=America/Los_Angeles:20261112T180000
+DTSTAMP:20261008T204531Z
+UID:4736-1794502800-1794506400@www.lassd.org
+SUMMARY:Tenants’ Rights webinar
+DESCRIPTION:With Assemblymember Tasha Boerner. Overview of local tenant res
+ ources\, rent increases and evictions. Open to the public. RSVP: https://l
+ cmspubcontact.lc.ca.gov/PublicLCMS/rsvp_main.php?district=AD77&rsvp=2730
+URL:https://www.lassd.org/event/tenants-rights-webinar/
+CATEGORIES:Online,Rights & civic
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SD Immigration Calendar//batch//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SD Immigration - Resource tables
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6a5e859bcca66c2f00a4c666@sdcl.bibliocommons.com
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261013T123000
+DTEND;TZID=America/Los_Angeles:20261013T143000
+SUMMARY:County of San Diego - Department of Aging and Independence Services
+  (AIS)
+LOCATION:Imperial Beach Branch Library\, 810 Imperial Beach Boulevard\, Imp
+ erial Beach\, CA 91932
+URL:https://sdcl.bibliocommons.com/events/6a5e859bcca66c2f00a4c666
+CATEGORIES:Tabling
+END:VEVENT
+BEGIN:VEVENT
+UID:69a234bd1e64afd01e5ea0a1@sdcl.bibliocommons.com
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261013T133000
+DTEND;TZID=America/Los_Angeles:20261013T153000
+SUMMARY:La Maestra Community Health Centers Information Table
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+URL:https://sdcl.bibliocommons.com/events/69a234bd1e64afd01e5ea0a1
+CATEGORIES:Tabling,Health
+END:VEVENT
+BEGIN:VEVENT
+UID:6ab7072b86d845003118d8b6@sdcl.bibliocommons.com
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261013T150000
+DTEND;TZID=America/Los_Angeles:20261013T170000
+SUMMARY:EDD Job Help--Búsqueda de Trabajo por EDD - TABLING
+LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
+  92069
+URL:https://sdcl.bibliocommons.com/events/6ab7072b86d845003118d8b6
+CATEGORIES:Spanish,Tabling,Jobs & money
+END:VEVENT
+BEGIN:VEVENT
+UID:6930d6ff04caba2f00d3258e@sdcl.bibliocommons.com
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261014T120000
+DTEND;TZID=America/Los_Angeles:20261014T160000
+SUMMARY:San Diego Law Library Information Table
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+URL:https://sdcl.bibliocommons.com/events/6930d6ff04caba2f00d3258e
+CATEGORIES:Tabling
+END:VEVENT
+BEGIN:VEVENT
+UID:149
+DTSTART:20261015T170000Z
+DTEND:20261015T210000Z
+SUMMARY:Law Library Support
+LOCATION:239 S Kalmia St\, Escondido\, CA\, 92025\, US
+ROOM:Partner Table (1F)
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/law-library-suppo
+ rt-149
+STATUS:CONFIRMED
+DTSTAMP:20261013T000000Z
+CATEGORIES:Tabling
+END:VEVENT
+BEGIN:VEVENT
+UID:6aac650af9ed2e00385184ef@sdcl.bibliocommons.com
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261015T100000
+DTEND;TZID=America/Los_Angeles:20261015T120000
+SUMMARY:Cuyamaca College CalWORKs S.T.E.P.S. Information Table
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+URL:https://sdcl.bibliocommons.com/events/6aac650af9ed2e00385184ef
+CATEGORIES:Tabling
+END:VEVENT
+BEGIN:VEVENT
+UID:57479
+DTSTART:20261019T190000Z
+DTEND:20261019T210000Z
+SUMMARY:Job Lab
+LOCATION:804 Pier View Wy\, Oceanside\, CA\, 92054\, US
+ROOM:READS Program Space
+URL;VALUE=URI:https://oceansidepl.librarycalendar.com/event/job-lab-57479
+STATUS:CONFIRMED
+DTSTAMP:20261013T000000Z
+CATEGORIES:Tabling,Jobs & money
+END:VEVENT
+BEGIN:VEVENT
+UID:693217ef8b29ea2800c2923e@sdcl.bibliocommons.com
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261020T143000
+DTEND;TZID=America/Los_Angeles:20261020T163000
+SUMMARY:San Diego Community Health Center Information Table
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+URL:https://sdcl.bibliocommons.com/events/693217ef8b29ea2800c2923e
+CATEGORIES:Tabling,Health
+END:VEVENT
+BEGIN:VEVENT
+UID:6a8b864d29a7dd0d67460c9a@sdcl.bibliocommons.com
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261020T150000
+DTEND;TZID=America/Los_Angeles:20261020T170000
+SUMMARY:TABLE: EDD Job Help--Búsqueda de Trabajo por EDD
+LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
+URL:https://sdcl.bibliocommons.com/events/6a8b864d29a7dd0d67460c9a
+CATEGORIES:Spanish,Tabling,Jobs & money
+END:VEVENT
+BEGIN:VEVENT
+UID:6a610e1bc7e02e3d006af08a@sdcl.bibliocommons.com
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261022T130000
+DTEND;TZID=America/Los_Angeles:20261022T150000
+SUMMARY:TABLE: SD PACE
+LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
+URL:https://sdcl.bibliocommons.com/events/6a610e1bc7e02e3d006af08a
+CATEGORIES:Tabling,Health
+END:VEVENT
+BEGIN:VEVENT
+UID:69698fcf992fc18a86ddb465@sdcl.bibliocommons.com
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261026T100000
+DTEND;TZID=America/Los_Angeles:20261026T120000
+SUMMARY:Neighborhood Healthcare Information Table
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+URL:https://sdcl.bibliocommons.com/events/69698fcf992fc18a86ddb465
+CATEGORIES:Tabling,Health
+END:VEVENT
+BEGIN:VEVENT
+UID:6acd0d89a85a2c00337ef44d@sdcl.bibliocommons.com
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261027T120000
+DTEND;TZID=America/Los_Angeles:20261027T143000
+SUMMARY:TABLE: CSA San Diego County
+LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
+URL:https://sdcl.bibliocommons.com/events/6acd0d89a85a2c00337ef44d
+CATEGORIES:Spanish,Tabling
+END:VEVENT
+BEGIN:VEVENT
+UID:69a234bd1e64afd01e5ea0a2@sdcl.bibliocommons.com
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261027T133000
+DTEND;TZID=America/Los_Angeles:20261027T153000
+SUMMARY:La Maestra Community Health Centers Information Table
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+URL:https://sdcl.bibliocommons.com/events/69a234bd1e64afd01e5ea0a2
+CATEGORIES:Tabling,Health
+END:VEVENT
+BEGIN:VEVENT
+UID:6a397397296ea565de2df8ed@sdcl.bibliocommons.com
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261027T150000
+DTEND;TZID=America/Los_Angeles:20261027T170000
+SUMMARY:TrueCare tabling
+LOCATION:Ramona Branch Library\, 1275 Main Street\, Ramona\, CA 92065
+URL:https://sdcl.bibliocommons.com/events/6a397397296ea565de2df8ed
+CATEGORIES:Tabling,Health
+END:VEVENT
+BEGIN:VEVENT
+UID:6a0e2d88fab4ff0f649a84a0@sdcl.bibliocommons.com
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261027T150000
+DTEND;TZID=America/Los_Angeles:20261027T170000
+SUMMARY:TABLE: EDD Job Help--Búsqueda de Trabajo por EDD
+LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
+URL:https://sdcl.bibliocommons.com/events/6a0e2d88fab4ff0f649a84a0
+CATEGORIES:Spanish,Tabling,Jobs & money
+END:VEVENT
+BEGIN:VEVENT
+UID:6930d6ff04caba2f00d3258f@sdcl.bibliocommons.com
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261028T120000
+DTEND;TZID=America/Los_Angeles:20261028T160000
+SUMMARY:San Diego Law Library Information Table
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+URL:https://sdcl.bibliocommons.com/events/6930d6ff04caba2f00d3258f
+CATEGORIES:Tabling
+END:VEVENT
+BEGIN:VEVENT
+UID:57480
+DTSTART:20261102T200000Z
+DTEND:20261102T220000Z
+SUMMARY:Job Lab
+LOCATION:804 Pier View Wy\, Oceanside\, CA\, 92054\, US
+ROOM:READS Program Space
+URL;VALUE=URI:https://oceansidepl.librarycalendar.com/event/job-lab-57480
+STATUS:CONFIRMED
+DTSTAMP:20261013T000000Z
+CATEGORIES:Tabling,Jobs & money
+END:VEVENT
+BEGIN:VEVENT
+UID:693217156724c63d00e5503a@sdcl.bibliocommons.com
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261103T140000
+DTEND;TZID=America/Los_Angeles:20261103T160000
+SUMMARY:San Diego Community Health Center
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+URL:https://sdcl.bibliocommons.com/events/693217156724c63d00e5503a
+CATEGORIES:Tabling,Health
+END:VEVENT
+BEGIN:VEVENT
+UID:6a8b864d29a7dd0d67460c9c@sdcl.bibliocommons.com
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261103T150000
+DTEND;TZID=America/Los_Angeles:20261103T170000
+SUMMARY:TABLE: EDD Job Help--Búsqueda de Trabajo por EDD
+LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
+URL:https://sdcl.bibliocommons.com/events/6a8b864d29a7dd0d67460c9c
+CATEGORIES:Spanish,Tabling,Jobs & money
+END:VEVENT
+BEGIN:VEVENT
+UID:69a233391e64afd01e5e9ff6@sdcl.bibliocommons.com
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261105T100000
+DTEND;TZID=America/Los_Angeles:20261105T120000
+SUMMARY:Family Health Centers of San Diego Information Table
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+URL:https://sdcl.bibliocommons.com/events/69a233391e64afd01e5e9ff6
+CATEGORIES:Tabling,Health
+END:VEVENT
+BEGIN:VEVENT
+UID:69a234bd1e64afd01e5ea0a3@sdcl.bibliocommons.com
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261110T133000
+DTEND;TZID=America/Los_Angeles:20261110T153000
+SUMMARY:La Maestra Community Health Centers Information Table
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+URL:https://sdcl.bibliocommons.com/events/69a234bd1e64afd01e5ea0a3
+CATEGORIES:Tabling,Health
+END:VEVENT
+BEGIN:VEVENT
+UID:6930d6ff04caba2f00d32590@sdcl.bibliocommons.com
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261111T120000
+DTEND;TZID=America/Los_Angeles:20261111T160000
+SUMMARY:San Diego Law Library Information Table
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+URL:https://sdcl.bibliocommons.com/events/6930d6ff04caba2f00d32590
+CATEGORIES:Tabling
+END:VEVENT
+END:VCALENDAR

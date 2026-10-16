@@ -1,0 +1,158 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SD Immigration Calendar//batch//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SD Immigration - More events (possibly relevant)
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:10127-1792058400-1792062000@www.casafamiliar.org
+DTSTART;TZID=America/Los_Angeles:20261015T100000
+DTEND;TZID=America/Los_Angeles:20261015T110000
+SUMMARY:How to Manage Your Money - How to Build an Emergency Fund
+LOCATION:El Salón\, 114 West Hall Avenue\, San Ysidro\, California\, 92173
+ \, United States
+URL:https://www.casafamiliar.org/event/how-to-build-an-emergency-fund/
+DTSTAMP:20261013T000000Z
+CATEGORIES:Jobs & money,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261015T120000
+DTEND;TZID=America/Los_Angeles:20261015T140000
+DTSTAMP:20261001T211231Z
+UID:4724-1792065600-1792072800@www.lassd.org
+SUMMARY:Student Loan Clinic
+DESCRIPTION:Do you have questions about your student loans? In this Clinic\
+ , you will have an opportunity to speak one-on-one with a student loan law
+ yer. This Clinic is FREE\, but you need to sign up.
+URL:https://www.lassd.org/event/student-loan-clinic-13/
+CATEGORIES:Health,Jobs & money,Online,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:ad7a32f1a83251180f21@sd-immigration-calendar
+DTSTAMP:20261013T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Beyond the Headlines: Understanding & Combatting Anti-Muslim Hate
+LOCATION:San Diego (venue not stated)
+DESCRIPTION:CAIR-SD's second annual conference on Islamophobia\; panels on 
+ policy\, media\, education and civil rights. $25 including lunch.
+URL:https://bit.ly/beyondtheheadlines26
+CATEGORIES:Rights & civic,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:0be4e9756090d6b3e4cd@sd-immigration-calendar
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261016T173000
+DTEND;TZID=America/Los_Angeles:20261016T193000
+SUMMARY:Pom-Pom Crafting for Día de los Muertos (The Front)
+LOCATION:The Front Gallery\, San Ysidro
+DESCRIPTION:All-ages craft evening making pom-poms for Casa Familiar's Día
+  de los Muertos installation.
+CATEGORIES:Community & culture,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:2716664edb84cb6de86b@sd-immigration-calendar
+DTSTAMP:20261013T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Women-Owned Small Business Bazaar and Girls Youth Group Art Install
+ ation
+LOCATION:El Cajon (venue not stated)
+DESCRIPTION:Bazaar of women entrepreneurs with an art installation by the G
+ irls Youth Group\, live music\, fashion show\, henna and food.
+URL:https://licensetofreedom.org/upcoming-events/
+CATEGORIES:Jobs & money,Community & culture,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:6000f607f4a1531a29eb@sd-immigration-calendar
+DTSTAMP:20261013T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Day of the Dead Caravan to Tijuana (volunteers)
+LOCATION:Tijuana (departure details after volunteer application)
+DESCRIPTION:Volunteers drive donations into Tijuana. Requires passport/SENT
+ RI\, a vehicle\, a volunteer application and waiver.
+CATEGORIES:Volunteer,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:9ce3a5f2033971e56370@sd-immigration-calendar
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261017T100000
+DTEND;TZID=America/Los_Angeles:20261017T133000
+SUMMARY:Free Family Financial Resource Fair
+LOCATION:MAAC Community Room\, 1387 Third Ave\, Chula Vista\, CA
+DESCRIPTION:Free family-friendly fair: credit education with FICO\, Bank On
+  accounts\, free tax assistance and community resources.
+CATEGORIES:Jobs & money,Family & youth,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:936e96d3cdc65a500405@sd-immigration-calendar
+DTSTART;TZID=America/Los_Angeles:20261017T133000
+DTEND;TZID=America/Los_Angeles:20261017T150000
+SUMMARY:CIVIC: Filipinos of South Bay Exhibit (FOSBE) Presentation & Panel-
+  Focus on Filipinos in Government
+LOCATION:Civic Center Library\, 356 F Street Chula Vista\, California 91910
+URL:https://www.chulavistaca.gov/Home/Components/Calendar/Event/41271
+DTSTAMP:20261013T000000Z
+CATEGORIES:Community & culture,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:10100-1792683000-1792693800@www.casafamiliar.org
+DTSTART;TZID=America/Los_Angeles:20261022T153000
+DTEND;TZID=America/Los_Angeles:20261022T183000
+SUMMARY:2026 Fall Festival
+LOCATION:San Ysidro Civic Center\, 212 W Park Ave\, San Ysidro\, CA\, 92173
+ \, United States
+URL:https://www.casafamiliar.org/event/2026-fall-festival/
+DTSTAMP:20261013T000000Z
+CATEGORIES:Community & culture,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:799d4570c391fb34ec07@sd-immigration-calendar
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261026T183000
+SUMMARY:Border Angels Book Club: Fresh Fruit\, Broken Bodies
+LOCATION:Virtual
+DESCRIPTION:Bimonthly book club on borderlands and immigration\; this month
+  Fresh Fruit\, Broken Bodies by Seth M. Holmes.
+CATEGORIES:Online,Community & culture,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:10162-1793638800-1793649600@www.casafamiliar.org
+DTSTART;TZID=America/Los_Angeles:20261102T170000
+DTEND;TZID=America/Los_Angeles:20261102T200000
+SUMMARY:2026 Día de los Muertos Celebration
+LOCATION:San Ysidro Civic Center\, 212 W Park Ave\, San Ysidro\, CA\, 92173
+ \, United States
+URL:https://www.casafamiliar.org/event/2026-dia-de-los-muertos/
+DTSTAMP:20261013T000000Z
+CATEGORIES:Community & culture,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:afd57edb96942834bffd@sd-immigration-calendar
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Los_Angeles:20261110T160000
+SUMMARY:Rhythms of East Africa
+LOCATION:San Diego (venue not stated)
+DESCRIPTION:Evening celebrating East African culture with art\, food\, cult
+ ural activities and stories. RSVP / tickets via link in bio.
+CATEGORIES:Community & culture,Possibly relevant
+END:VEVENT
+END:VCALENDAR
