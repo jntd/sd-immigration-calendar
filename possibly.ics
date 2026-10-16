@@ -22,39 +22,12 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:10127-1792058400-1792062000@www.casafamiliar.org
-DTSTART;TZID=America/Los_Angeles:20261015T100000
-DTEND;TZID=America/Los_Angeles:20261015T110000
-DESCRIPTION:More info: https://www.casafamiliar.org/event/how-to-build-an-e
- mergency-fund/\nListed by: Casa Familiar
-SUMMARY:How to Manage Your Money - How to Build an Emergency Fund
-LOCATION:El Salón\, 114 West Hall Avenue\, San Ysidro\, California\, 92173
- \, United States
-URL:https://www.casafamiliar.org/event/how-to-build-an-emergency-fund/
-DTSTAMP:20261013T000000Z
-CATEGORIES:Jobs & money,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20261015T120000
-DTEND;TZID=America/Los_Angeles:20261015T140000
-DTSTAMP:20261001T211231Z
-UID:4724-1792065600-1792072800@www.lassd.org
-SUMMARY:Student Loan Clinic
-DESCRIPTION:Do you have questions about your student loans? In this Clinic\
- , you will have an opportunity to speak one-on-one with a student loan law
- yer. This Clinic is FREE\, but you need to sign up.\n\nMore info: https://
- www.lassd.org/event/student-loan-clinic-13/\nListed by: Legal Aid Society 
- of San Diego
-URL:https://www.lassd.org/event/student-loan-clinic-13/
-CATEGORIES:Health,Jobs & money,Online,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
 UID:ad7a32f1a83251180f21@sd-immigration-calendar
-DTSTAMP:20261013T000000Z
+DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Beyond the Headlines: Understanding & Combatting Anti-Muslim Hate
-LOCATION:San Diego (venue not stated)
+LOCATION:San Diego City College\, San Diego
 DESCRIPTION:CAIR-SD's second annual conference on Islamophobia\; panels on 
  policy\, media\, education and civil rights. $25 including lunch.\n\nMore 
  info: https://bit.ly/beyondtheheadlines26\nListed by: CAIR San Diego
@@ -63,7 +36,7 @@ CATEGORIES:Rights & civic,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:0be4e9756090d6b3e4cd@sd-immigration-calendar
-DTSTAMP:20261013T000000Z
+DTSTAMP:20261016T000000Z
 DTSTART;TZID=America/Los_Angeles:20261016T173000
 DTEND;TZID=America/Los_Angeles:20261016T193000
 SUMMARY:Pom-Pom Crafting for Día de los Muertos (The Front)
@@ -74,7 +47,7 @@ CATEGORIES:Community & culture,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:2716664edb84cb6de86b@sd-immigration-calendar
-DTSTAMP:20261013T000000Z
+DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Women-Owned Small Business Bazaar and Girls Youth Group Art Install
@@ -89,7 +62,7 @@ CATEGORIES:Jobs & money,Community & culture,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:6000f607f4a1531a29eb@sd-immigration-calendar
-DTSTAMP:20261013T000000Z
+DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Day of the Dead Caravan to Tijuana (volunteers)
@@ -101,7 +74,7 @@ CATEGORIES:Volunteer,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:9ce3a5f2033971e56370@sd-immigration-calendar
-DTSTAMP:20261013T000000Z
+DTSTAMP:20261016T000000Z
 DTSTART;TZID=America/Los_Angeles:20261017T100000
 DTEND;TZID=America/Los_Angeles:20261017T133000
 SUMMARY:Free Family Financial Resource Fair
@@ -121,25 +94,155 @@ SUMMARY:CIVIC: Filipinos of South Bay Exhibit (FOSBE) Presentation & Panel-
   Focus on Filipinos in Government
 LOCATION:Civic Center Library\, 356 F Street Chula Vista\, California 91910
 URL:https://www.chulavistaca.gov/Home/Components/Calendar/Event/41271
-DTSTAMP:20261013T000000Z
+DTSTAMP:20261016T000000Z
 CATEGORIES:Community & culture,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:57479
+DTSTART:20261019T190000Z
+DTEND:20261019T210000Z
+SUMMARY:Job Lab
+LOCATION:804 Pier View Wy\, Oceanside\, CA\, 92054\, US
+ROOM:READS Program Space
+URL;VALUE=URI:https://oceansidepl.librarycalendar.com/event/job-lab-57479
+STATUS:CONFIRMED
+DESCRIPTION:If you have recently graduated\, are looking for a job\, changi
+ ng careers or simply wish to improve your resume or interviewing skills\, 
+ come to receive free\, individualized support with resumes\, job applicati
+ ons\, navigating the job search process\, interviewing practice\, coaching
+  and more. …\n\nMore info: https://oceansidepl.librarycalendar.com/event
+ /job-lab-57479\nListed by: Oceanside Public Library
+DTSTAMP:20261016T000000Z
+CATEGORIES:Tabling,Jobs & money,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:693217ef8b29ea2800c2923e@sdcl.bibliocommons.com
+DTSTAMP:20261016T000000Z
+DTSTART;TZID=America/Los_Angeles:20261020T143000
+DTEND;TZID=America/Los_Angeles:20261020T163000
+SUMMARY:San Diego Community Health Center Information Table
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:The San Diego American Indian Health Center (SDAIHC)\, also kno
+ wn as San Diego Community Health Center\, is a 501(c)(3) nonprofit organiz
+ ation and a patient-centered health home that offers comprehensive medical
+ \, dental\, behavioral health\, and community wellness services available 
+ to all people of …\n\nMore info: https://sdcl.bibliocommons.com/events/6
+ 93217ef8b29ea2800c2923e\nListed by: San Diego County Library
+URL:https://sdcl.bibliocommons.com/events/693217ef8b29ea2800c2923e
+CATEGORIES:Tabling,Health,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:6a8b864d29a7dd0d67460c9a@sdcl.bibliocommons.com
+DTSTAMP:20261016T000000Z
+DTSTART;TZID=America/Los_Angeles:20261020T150000
+DTEND;TZID=America/Los_Angeles:20261020T170000
+SUMMARY:TABLE: EDD Job Help--Búsqueda de Trabajo por EDD
+LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
+DESCRIPTION:Employee Development Department will be in the library providin
+ g job leads\, coaching\, and resources in English and Spanish.El Departame
+ nto de Desarrollo de Empleados estará en el vestíbulo brindando pistas l
+ aborales\, entrenamiento y recursos en inglés y español.\n\nMore info: h
+ ttps://sdcl.bibliocommons.com/events/6a8b864d29a7dd0d67460c9a\nListed by: 
+ San Diego County Library
+URL:https://sdcl.bibliocommons.com/events/6a8b864d29a7dd0d67460c9a
+CATEGORIES:Spanish,Tabling,Jobs & money,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:69a23460491b809c6f1d0cfa@sdcl.bibliocommons.com
+DTSTAMP:20261016T000000Z
+DTSTART;TZID=America/Los_Angeles:20261021T130000
+DTEND;TZID=America/Los_Angeles:20261021T150000
+SUMMARY:CSA San Diego - Fair Housing Table Information Table
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:CSA San Diego County is a 501(c)(3) nonprofit organization whos
+ e primary mission is to promote social justice and public welfare through 
+ programs\, services\, and advocacy against all forms of discrimination\, i
+ ncluding advocacy for the eradication of housing discrimination to assure 
+ equal housing …\n\nMore info: https://sdcl.bibliocommons.com/events/69a2
+ 3460491b809c6f1d0cfa\nListed by: San Diego County Library
+URL:https://sdcl.bibliocommons.com/events/69a23460491b809c6f1d0cfa
+CATEGORIES:Housing,Rights & civic,Tabling,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:10100-1792683000-1792693800@www.casafamiliar.org
 DTSTART;TZID=America/Los_Angeles:20261022T153000
 DTEND;TZID=America/Los_Angeles:20261022T183000
-DESCRIPTION:More info: https://www.casafamiliar.org/event/2026-fall-festiva
- l/\nListed by: Casa Familiar
 SUMMARY:2026 Fall Festival
-LOCATION:San Ysidro Civic Center\, 212 W Park Ave\, San Ysidro\, CA\, 92173
- \, United States
+LOCATION:San Ysidro Civic Center\, 212 W Park Ave. San Ysidro\, CA 92173\, 
+ San Ysidro\, CA\, 92173\, United States
 URL:https://www.casafamiliar.org/event/2026-fall-festival/
-DTSTAMP:20261013T000000Z
+DESCRIPTION:Join us for Casa Familiar’s 2026 Fall Festival! Our Fall Fest
+ ival is a FREE family-friendly event for community members to enjoy a trad
+ itional pumpkin patch in the heart of the San Ysidro. This year\, let your
+  cowboy spirit shine or surprise us with your favorite costume\, and come 
+ celebrate with …\n\nMore info: https://www.casafamiliar.org/event/2026-f
+ all-festival/\nListed by: Casa Familiar
+DTSTAMP:20261016T000000Z
 CATEGORIES:Community & culture,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
+UID:40d632db65aac1a52815@sd-immigration-calendar
+DTSTAMP:20261016T000000Z
+DTSTART;TZID=America/Los_Angeles:20261022T173000
+DTEND;TZID=America/Los_Angeles:20261022T193000
+SUMMARY:Noche de Lotería Cívica
+LOCATION:Barrio Station\, 2175 Newton Ave\, San Diego\, CA
+DESCRIPTION:Spanish-language voter information night: learn about the 14 st
+ ate propositions and 2 San Diego County measures\, what a yes or no vote m
+ eans\, and your rights as a voter. Free\; coffee\, pan dulce and prizes. R
+ egistration requested.\n\nMore info: https://tinyurl.com/loteriacivica\nLi
+ sted by: Chicano Federation
+URL:https://tinyurl.com/loteriacivica
+CATEGORIES:Rights & civic,Spanish,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:a38ada75e4ad51701907@sd-immigration-calendar
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Business 101: Financial Literacy (online workshop)
+LOCATION:Online
+DESCRIPTION:Free online workshop on tools and resources to protect financia
+ l data and improve business operations.\n\nMore info: https://tinyurl.com/
+ eaut3ne9\nListed by: Somali Family Service
+URL:https://tinyurl.com/eaut3ne9
+CATEGORIES:Online,Jobs & money,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:c48dfca7cc217d733ccf@sd-immigration-calendar
+DTSTAMP:20261016T000000Z
+DTSTART;TZID=America/Los_Angeles:20261024T110000
+DTEND;TZID=America/Los_Angeles:20261024T150000
+SUMMARY:We The People's Field Day
+LOCATION:Partnership for the Advancement of New Americans (PANA)\, 5577 Uni
+ versity Ave\, San Diego\, CA 92105
+DESCRIPTION:Family-friendly day: learn your voting rights\, get help unders
+ tanding the voting process and returning your ballot securely\, games\, mu
+ sic\, food and community resources. Bring your ballot. Registration reques
+ ted.\n\nMore info: https://www.alliancesd.org/event/we-the-peoples-field-d
+ ay/\nListed by: Alliance San Diego
+URL:https://www.alliancesd.org/event/we-the-peoples-field-day/
+CATEGORIES:Rights & civic,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:69698fcf992fc18a86ddb465@sdcl.bibliocommons.com
+DTSTAMP:20261016T000000Z
+DTSTART;TZID=America/Los_Angeles:20261026T100000
+DTEND;TZID=America/Los_Angeles:20261026T120000
+SUMMARY:Neighborhood Healthcare Information Table
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:Neighborhood Healthcare goal is to provide kindness and empathy
+  as essential to the health of the community. Our mission is to improve th
+ e health and happiness of the communities we serve by providing quality ca
+ re to all\, regardless of situation or circumstance.\n\nMore info: https:/
+ /sdcl.bibliocommons.com/events/69698fcf992fc18a86ddb465\nListed by: San Di
+ ego County Library
+URL:https://sdcl.bibliocommons.com/events/69698fcf992fc18a86ddb465
+CATEGORIES:Tabling,Health,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
 UID:799d4570c391fb34ec07@sd-immigration-calendar
-DTSTAMP:20261013T000000Z
+DTSTAMP:20261016T000000Z
 DTSTART;TZID=America/Los_Angeles:20261026T183000
 SUMMARY:Border Angels Book Club: Fresh Fruit\, Broken Bodies
 LOCATION:Virtual
@@ -149,21 +252,266 @@ DESCRIPTION:Bimonthly book club on borderlands and immigration\; this month
 CATEGORIES:Online,Community & culture,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
+UID:6acd0d89a85a2c00337ef44d@sdcl.bibliocommons.com
+DTSTAMP:20261016T000000Z
+DTSTART;TZID=America/Los_Angeles:20261027T120000
+DTEND;TZID=America/Los_Angeles:20261027T143000
+SUMMARY:TABLE: CSA San Diego County
+LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
+DESCRIPTION:CSA San Diego County is a 501(c)(3) nonprofit organization whos
+ e primary mission is to promote social justice and public welfare through 
+ programs\, services\, and advocacy against all forms of discrimination\, i
+ ncluding advocacy for the eradication of housing discrimination to assure 
+ equal housing …\n\nMore info: https://sdcl.bibliocommons.com/events/6acd
+ 0d89a85a2c00337ef44d\nListed by: San Diego County Library
+URL:https://sdcl.bibliocommons.com/events/6acd0d89a85a2c00337ef44d
+CATEGORIES:Spanish,Tabling,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:69a234bd1e64afd01e5ea0a2@sdcl.bibliocommons.com
+DTSTAMP:20261016T000000Z
+DTSTART;TZID=America/Los_Angeles:20261027T133000
+DTEND;TZID=America/Los_Angeles:20261027T153000
+SUMMARY:La Maestra Community Health Centers Information Table
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:La Maestra Community Health Centers is a clinic that provides q
+ uality health care as well as social services to improve the overall well-
+ being of our communities. Some of the services offered through our circle 
+ of care services include: accesses to our food pantry\, community garden\,
+  immigration …\n\nMore info: https://sdcl.bibliocommons.com/events/69a23
+ 4bd1e64afd01e5ea0a2\nListed by: San Diego County Library
+URL:https://sdcl.bibliocommons.com/events/69a234bd1e64afd01e5ea0a2
+CATEGORIES:Tabling,Health,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:6a0e2d88fab4ff0f649a84a0@sdcl.bibliocommons.com
+DTSTAMP:20261016T000000Z
+DTSTART;TZID=America/Los_Angeles:20261027T150000
+DTEND;TZID=America/Los_Angeles:20261027T170000
+SUMMARY:TABLE: EDD Job Help--Búsqueda de Trabajo por EDD
+LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
+DESCRIPTION:Employee Development Department will be in the library providin
+ g job leads\, coaching\, and resources in English and Spanish.El Departame
+ nto de Desarrollo de Empleados estará en el vestíbulo brindando pistas l
+ aborales\, entrenamiento y recursos en inglés y español.\n\nMore info: h
+ ttps://sdcl.bibliocommons.com/events/6a0e2d88fab4ff0f649a84a0\nListed by: 
+ San Diego County Library
+URL:https://sdcl.bibliocommons.com/events/6a0e2d88fab4ff0f649a84a0
+CATEGORIES:Spanish,Tabling,Jobs & money,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:9c43db830709a74af293@sd-immigration-calendar
+DTSTAMP:20261016T000000Z
+DTSTART;TZID=America/Los_Angeles:20261027T173000
+DTEND;TZID=America/Los_Angeles:20261027T193000
+SUMMARY:Noche de Lotería Cívica
+LOCATION:Barrio Station\, 2175 Newton Ave\, San Diego\, CA
+DESCRIPTION:Spanish-language voter information night: learn about the 14 st
+ ate propositions and 2 San Diego County measures\, what a yes or no vote m
+ eans\, and your rights as a voter. Free\; coffee\, pan dulce and prizes. R
+ egistration requested.\n\nMore info: https://tinyurl.com/loteriacivica\nLi
+ sted by: Chicano Federation
+URL:https://tinyurl.com/loteriacivica
+CATEGORIES:Rights & civic,Spanish,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:ee5c0c01910410369ce5@sd-immigration-calendar
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:We the People: Claim Our Collective Power – Virtual Civic Engagem
+ ent Training (Spanish session)
+LOCATION:Virtual
+DESCRIPTION:Spanish-language session of the free virtual civic engagement t
+ raining series. Register at bit.ly/asdtraining2026.\n\nMore info: https://
+ www.alliancesd.org/event/we-the-people-claim-our-collective-power/\nListed
+  by: Alliance San Diego
+URL:https://www.alliancesd.org/event/we-the-people-claim-our-collective-pow
+ er/
+CATEGORIES:Online,Spanish,Rights & civic,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:86538364711607b78f3e@sd-immigration-calendar
+DTSTAMP:20261016T000000Z
+DTSTART;TZID=America/Los_Angeles:20261029T173000
+DTEND;TZID=America/Los_Angeles:20261029T193000
+SUMMARY:Noche de Lotería Cívica
+LOCATION:Barrio Station\, 2175 Newton Ave\, San Diego\, CA
+DESCRIPTION:Spanish-language voter information night: learn about the 14 st
+ ate propositions and 2 San Diego County measures\, what a yes or no vote m
+ eans\, and your rights as a voter. Free\; coffee\, pan dulce and prizes. R
+ egistration requested.\n\nMore info: https://tinyurl.com/loteriacivica\nLi
+ sted by: Chicano Federation
+URL:https://tinyurl.com/loteriacivica
+CATEGORIES:Rights & civic,Spanish,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:57480
+DTSTART:20261102T200000Z
+DTEND:20261102T220000Z
+SUMMARY:Job Lab
+LOCATION:804 Pier View Wy\, Oceanside\, CA\, 92054\, US
+ROOM:READS Program Space
+URL;VALUE=URI:https://oceansidepl.librarycalendar.com/event/job-lab-57480
+STATUS:CONFIRMED
+DESCRIPTION:If you have recently graduated\, are looking for a job\, changi
+ ng careers or simply wish to improve your resume or interviewing skills\, 
+ come to receive free\, individualized support with resumes\, job applicati
+ ons\, navigating the job search process\, interviewing practice\, coaching
+  and more. …\n\nMore info: https://oceansidepl.librarycalendar.com/event
+ /job-lab-57480\nListed by: Oceanside Public Library
+DTSTAMP:20261016T000000Z
+CATEGORIES:Tabling,Jobs & money,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
 UID:10162-1793638800-1793649600@www.casafamiliar.org
 DTSTART;TZID=America/Los_Angeles:20261102T170000
 DTEND;TZID=America/Los_Angeles:20261102T200000
-DESCRIPTION:More info: https://www.casafamiliar.org/event/2026-dia-de-los-m
- uertos/\nListed by: Casa Familiar
 SUMMARY:2026 Día de los Muertos Celebration
-LOCATION:San Ysidro Civic Center\, 212 W Park Ave\, San Ysidro\, CA\, 92173
- \, United States
+LOCATION:San Ysidro Civic Center\, 212 W Park Ave. San Ysidro\, CA 92173\, 
+ San Ysidro\, CA\, 92173\, United States
 URL:https://www.casafamiliar.org/event/2026-dia-de-los-muertos/
-DTSTAMP:20261013T000000Z
+DESCRIPTION:Join us for Casa Familiar’s 2026 Día de los Muertos Celebrat
+ ion! We’re excited to bring back our annual celebration\, where we come 
+ together to honor and remember our loved ones through an evening of art\, 
+ culture\, and community. Everyone is welcome. Bring your family\, friends\
+ , neighbors\, and …\n\nMore info: https://www.casafamiliar.org/event/202
+ 6-dia-de-los-muertos/\nListed by: Casa Familiar
+DTSTAMP:20261016T000000Z
 CATEGORIES:Community & culture,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
+UID:693217156724c63d00e5503a@sdcl.bibliocommons.com
+DTSTAMP:20261016T000000Z
+DTSTART;TZID=America/Los_Angeles:20261103T140000
+DTEND;TZID=America/Los_Angeles:20261103T160000
+SUMMARY:San Diego Community Health Center
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:The San Diego American Indian Health Center (SDAIHC)\, also kno
+ wn as San Diego Community Health Center\, is a 501(c)(3) nonprofit organiz
+ ation and a patient-centered health home that offers comprehensive medical
+ \, dental\, behavioral health\, and community wellness services available 
+ to all people of …\n\nMore info: https://sdcl.bibliocommons.com/events/6
+ 93217156724c63d00e5503a\nListed by: San Diego County Library
+URL:https://sdcl.bibliocommons.com/events/693217156724c63d00e5503a
+CATEGORIES:Tabling,Health,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:6a8b864d29a7dd0d67460c9c@sdcl.bibliocommons.com
+DTSTAMP:20261016T000000Z
+DTSTART;TZID=America/Los_Angeles:20261103T150000
+DTEND;TZID=America/Los_Angeles:20261103T170000
+SUMMARY:TABLE: EDD Job Help--Búsqueda de Trabajo por EDD
+LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
+DESCRIPTION:Employee Development Department will be in the library providin
+ g job leads\, coaching\, and resources in English and Spanish.El Departame
+ nto de Desarrollo de Empleados estará en el vestíbulo brindando pistas l
+ aborales\, entrenamiento y recursos en inglés y español.\n\nMore info: h
+ ttps://sdcl.bibliocommons.com/events/6a8b864d29a7dd0d67460c9c\nListed by: 
+ San Diego County Library
+URL:https://sdcl.bibliocommons.com/events/6a8b864d29a7dd0d67460c9c
+CATEGORIES:Spanish,Tabling,Jobs & money,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:4965-1793872800-1793876400@www.lassd.org
+DTSTART;TZID=America/Los_Angeles:20261105T100000
+DTEND;TZID=America/Los_Angeles:20261105T110000
+SUMMARY:Family Law Information Session
+LOCATION:https://www.lassd.org/event/family-law-information-session/
+URL:https://www.lassd.org/event/family-law-information-session/
+DESCRIPTION:Want to learn about divorce\, child custody\, child support\, s
+ pousal support and more? Join the Family Law Team for a virtual informatio
+ nal presentation! This virtual presentation is for: People with active cas
+ es. People who want more information before starting a case. Anyone who wa
+ nts to learn …\n\nMore info: https://www.lassd.org/event/family-law-info
+ rmation-session/\nListed by: Legal Aid Society of San Diego
+DTSTAMP:20261016T000000Z
+CATEGORIES:Tabling,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:69a233391e64afd01e5e9ff6@sdcl.bibliocommons.com
+DTSTAMP:20261016T000000Z
+DTSTART;TZID=America/Los_Angeles:20261105T100000
+DTEND;TZID=America/Los_Angeles:20261105T120000
+SUMMARY:Family Health Centers of San Diego Information Table
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:Family Health Centers of San Diego is dedicated to providing ca
+ ring\, affordable\, high-quality healthcare and supportive services to eve
+ ryone\, with special commitment to uninsured low-income and medically unde
+ rserved persons.\n\nMore info: https://sdcl.bibliocommons.com/events/69a23
+ 3391e64afd01e5e9ff6\nListed by: San Diego County Library
+URL:https://sdcl.bibliocommons.com/events/69a233391e64afd01e5e9ff6
+CATEGORIES:Tabling,Health,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:10055-1793898000-1793905200@www.casafamiliar.org
+DTSTART;TZID=America/Los_Angeles:20261105T170000
+DTEND;TZID=America/Los_Angeles:20261105T190000
+SUMMARY:How to Apply to Affordable Housing
+LOCATION:El Salón\, 114 West Hall Avenue\, San Ysidro\, California\, 92173
+ \, United States
+URL:https://www.casafamiliar.org/event/how-to-apply-to-affordable-housing-n
+ ov5/
+DESCRIPTION:Join us for a FREE workshop designed to help residents better u
+ nderstand the Affordable Housing application process. What we will cover: 
+ What is Affordable Housing Eligibility and Income Limits Overview of the a
+ pplication process Review the required documentation for your application 
+ Choose a date …\n\nMore info: https://www.casafamiliar.org/event/how-to-
+ apply-to-affordable-housing-nov5/\nListed by: Casa Familiar
+DTSTAMP:20261016T000000Z
+CATEGORIES:Housing,Rights & civic,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:69a23460491b809c6f1d0cfb@sdcl.bibliocommons.com
+DTSTAMP:20261016T000000Z
+DTSTART;TZID=America/Los_Angeles:20261106T130000
+DTEND;TZID=America/Los_Angeles:20261106T150000
+SUMMARY:CSA San Diego - Fair Housing Table Information Table
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:CSA San Diego County is a 501(c)(3) nonprofit organization whos
+ e primary mission is to promote social justice and public welfare through 
+ programs\, services\, and advocacy against all forms of discrimination\, i
+ ncluding advocacy for the eradication of housing discrimination to assure 
+ equal housing …\n\nMore info: https://sdcl.bibliocommons.com/events/69a2
+ 3460491b809c6f1d0cfb\nListed by: San Diego County Library
+URL:https://sdcl.bibliocommons.com/events/69a23460491b809c6f1d0cfb
+CATEGORIES:Housing,Rights & civic,Tabling,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:4718-1794304800-1794308400@www.lassd.org
+DTSTART;TZID=America/Los_Angeles:20261110T100000
+DTEND;TZID=America/Los_Angeles:20261110T110000
+SUMMARY:Fair Housing Basics
+LOCATION:https://www.lassd.org/event/fair-housing-basics-46/
+URL:https://www.lassd.org/event/fair-housing-basics-46/
+DESCRIPTION:Fair Housing Basics on Nov 10\, 2026\, 10:00 AM – 11:00 AM at
+ : https://attendee.gotowebinar.com/register/3435264010380993629 Join Legal
+  Aid for a free webinar on your rights and responsibilities under anti-dis
+ crimination laws. This training is open to anyone.\n\nMore info: https://w
+ ww.lassd.org/event/fair-housing-basics-46/\nListed by: Legal Aid Society o
+ f San Diego
+DTSTAMP:20261016T000000Z
+CATEGORIES:Housing,Rights & civic,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:69a234bd1e64afd01e5ea0a3@sdcl.bibliocommons.com
+DTSTAMP:20261016T000000Z
+DTSTART;TZID=America/Los_Angeles:20261110T133000
+DTEND;TZID=America/Los_Angeles:20261110T153000
+SUMMARY:La Maestra Community Health Centers Information Table
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:La Maestra Community Health Centers is a clinic that provides q
+ uality health care as well as social services to improve the overall well-
+ being of our communities. Some of the services offered through our circle 
+ of care services include: accesses to our food pantry\, community garden\,
+  immigration …\n\nMore info: https://sdcl.bibliocommons.com/events/69a23
+ 4bd1e64afd01e5ea0a3\nListed by: San Diego County Library
+URL:https://sdcl.bibliocommons.com/events/69a234bd1e64afd01e5ea0a3
+CATEGORIES:Tabling,Health,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
 UID:afd57edb96942834bffd@sd-immigration-calendar
-DTSTAMP:20261013T000000Z
+DTSTAMP:20261016T000000Z
 DTSTART;TZID=America/Los_Angeles:20261110T160000
 SUMMARY:Rhythms of East Africa
 LOCATION:San Diego (venue not stated)
@@ -171,5 +519,53 @@ DESCRIPTION:Evening celebrating East African culture with art\, food\, cult
  ural activities and stories. RSVP / tickets via link in bio.\n\nListed by:
   UWEAST
 CATEGORIES:Community & culture,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:4736-1794502800-1794506400@www.lassd.org
+DTSTART;TZID=America/Los_Angeles:20261112T170000
+DTEND;TZID=America/Los_Angeles:20261112T180000
+SUMMARY:Tenants’ Rights Webinar
+URL:https://www.lassd.org/event/tenants-rights-webinar/
+DESCRIPTION:In partnership with Assemblymember Tasha Boerner\, Director of 
+ the Housing Justice Collaborative and LASSD housing law expert Gil Vera wi
+ ll present at the upcoming Tenants’ Rights webinar on November 12\, 5-6 
+ p.m. This event is open to the public. Gil will share important informatio
+ n about local …\n\nMore info: https://www.lassd.org/event/tenants-rights
+ -webinar/\nListed by: Legal Aid Society of San Diego
+DTSTAMP:20261016T000000Z
+CATEGORIES:Online,Rights & civic,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:69335bb994297d36009e7fe8@sdcl.bibliocommons.com
+DTSTAMP:20261016T000000Z
+DTSTART;TZID=America/Los_Angeles:20261114T100000
+DTEND;TZID=America/Los_Angeles:20261114T140000
+SUMMARY:Child Support Services
+LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
+DESCRIPTION:Department of Child Support Services will be onsite\, the secon
+ d Saturday of the month from 10AM-2PM\, to help with your child support ne
+ eds and to provide resources. If you can’t make it\, join us on Zoom. Cl
+ ick bit.ly/ZoomNowWithDCSS More information here: Department of Child Supp
+ ort Services …\n\nMore info: https://sdcl.bibliocommons.com/events/69335
+ bb994297d36009e7fe8\nListed by: San Diego County Library
+URL:https://sdcl.bibliocommons.com/events/69335bb994297d36009e7fe8
+CATEGORIES:Spanish,Tabling,Family & youth,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:0112b9eafbe590a038a4@sd-immigration-calendar
+DTSTART;TZID=America/Los_Angeles:20261114T110000
+DTEND;TZID=America/Los_Angeles:20261114T120000
+SUMMARY:Free Notary Service
+LOCATION:National City Public Library\, 1401 National City Blvd National Ci
+ ty\, California 91950
+URL:https://www.nationalcityca.gov/Home/Components/Calendar/Event/24484
+DESCRIPTION:Are you in need of a reliable notary service? Look no further! 
+ National City Public Library will be offering FREE Notary Services on the 
+ 2nd Saturday of the month from 11:00 am - 12:00PM. Notary Services provide
+ d by Ditas Yamane. National City Public Library card required. Walk-ins we
+ lcome but …\n\nMore info: https://www.nationalcityca.gov/Home/Components
+ /Calendar/Event/24484\nListed by: National City Public Library
+DTSTAMP:20261016T000000Z
+CATEGORIES:Tabling,Possibly relevant
 END:VEVENT
 END:VCALENDAR
