@@ -26,6 +26,8 @@ UID:6a5a72e782c03c5c17d8b2fd@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261013T090000
 DTEND;TZID=America/Los_Angeles:20261013T121500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a5a72e782c03c
+ 5c17d8b2fd\nListed by: San Diego County Library
 SUMMARY:ESL 122
 LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
  91963
@@ -36,6 +38,8 @@ BEGIN:VEVENT
 UID:fa4253d1560fc39c3ecd@sd-immigration-calendar
 DTSTART;TZID=America/Los_Angeles:20261013T093000
 DTEND;TZID=America/Los_Angeles:20261013T123500
+DESCRIPTION:More info: https://library.carlsbadca.gov/Home/Components/Calen
+ dar/Event/21610\nListed by: Carlsbad City Library
 SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
  Library Learning Center)
 LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
@@ -49,6 +53,8 @@ UID:6a8795e4be1482002988e7a7@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261013T120000
 DTEND;TZID=America/Los_Angeles:20261013T141500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a8795e4be1482
+ 002988e7a7\nListed by: San Diego County Library
 SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
  s!
 LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
@@ -61,6 +67,8 @@ UID:6aa9a4b4d6577100383d1538@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261013T130000
 DTEND;TZID=America/Los_Angeles:20261013T143000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6aa9a4b4d65771
+ 00383d1538\nListed by: San Diego County Library
 SUMMARY:ESL English Language Class Registration
 LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
 URL:https://sdcl.bibliocommons.com/events/6aa9a4b4d6577100383d1538
@@ -71,6 +79,8 @@ UID:6a5a70a97b79214226a9440d@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261014T090000
 DTEND;TZID=America/Los_Angeles:20261014T134500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a5a70a97b7921
+ 4226a9440d\nListed by: San Diego County Library
 SUMMARY:ESL 50 & 50S
 LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
  91963
@@ -82,6 +92,8 @@ UID:6aa31a7888820d0031702568@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261014T113000
 DTEND;TZID=America/Los_Angeles:20261014T123000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6aa31a7888820d
+ 0031702568\nListed by: San Diego County Library
 SUMMARY:ESL Beginners Class
 LOCATION:Ramona Branch Library\, 1275 Main Street\, Ramona\, CA 92065
 URL:https://sdcl.bibliocommons.com/events/6aa31a7888820d0031702568
@@ -92,6 +104,8 @@ UID:6a3d85b94407827f8aa761aa@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261014T133000
 DTEND;TZID=America/Los_Angeles:20261014T150000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a3d85b9440782
+ 7f8aa761aa\nListed by: San Diego County Library
 SUMMARY:English as a Second Language
 LOCATION:4S Ranch Branch Library\, 10433 Reserve Drive\, San Diego\, CA 921
  27
@@ -102,6 +116,8 @@ BEGIN:VEVENT
 UID:55581
 DTSTART:20261014T223000Z
 DTEND:20261014T233000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55581\nListed by: Oceanside Public Library
 SUMMARY:Cafecito: English Practice
 LOCATION:2855 Cedar Rd\, Oceanside\, CA\, 92056\, US
 ROOM:John Landes Community Center Study Room
@@ -116,6 +132,8 @@ UID:6a5a72e782c03c5c17d8b2fe@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261015T090000
 DTEND;TZID=America/Los_Angeles:20261015T121500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a5a72e782c03c
+ 5c17d8b2fe\nListed by: San Diego County Library
 SUMMARY:ESL 122
 LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
  91963
@@ -126,6 +144,8 @@ BEGIN:VEVENT
 UID:cfb5514457b9ddfbd742@sd-immigration-calendar
 DTSTART;TZID=America/Los_Angeles:20261015T093000
 DTEND;TZID=America/Los_Angeles:20261015T123500
+DESCRIPTION:More info: https://library.carlsbadca.gov/Home/Components/Calen
+ dar/Event/21628\nListed by: Carlsbad City Library
 SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
  Library Learning Center)
 LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
@@ -139,6 +159,8 @@ UID:6a8795e4be1482002988e7a8@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261015T120000
 DTEND;TZID=America/Los_Angeles:20261015T141500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a8795e4be1482
+ 002988e7a8\nListed by: San Diego County Library
 SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
  s!
 LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
@@ -151,6 +173,8 @@ UID:6aa0882b4378382c2abf677e@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261015T153000
 DTEND;TZID=America/Los_Angeles:20261015T173000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6aa0882b437838
+ 2c2abf677e\nListed by: San Diego County Library
 SUMMARY:ESL English Language Class: Intermediate
 LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
 URL:https://sdcl.bibliocommons.com/events/6aa0882b4378382c2abf677e
@@ -160,6 +184,8 @@ BEGIN:VEVENT
 UID:55603
 DTSTART:20261016T001500Z
 DTEND:20261016T010000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55603\nListed by: Oceanside Public Library
 SUMMARY:Cafecito: English Practice
 LOCATION:330 North Coast Hwy\, Oceanside\, CA\, 92054\, US
 ROOM:Foundation Room
@@ -174,6 +200,8 @@ UID:6abff8b8901b02002cbf94a6@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261016T110000
 DTEND;TZID=America/Los_Angeles:20261016T133000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6abff8b8901b02
+ 002cbf94a6\nListed by: San Diego County Library
 SUMMARY:ESL English Language Class: Intermediate
 LOCATION:Bonita-Sunnyside Branch Library\, 4375 Bonita Road\, Bonita\, CA 9
  1902
@@ -185,6 +213,8 @@ UID:6a5a70a97b79214226a9440e@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261019T090000
 DTEND;TZID=America/Los_Angeles:20261019T134500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a5a70a97b7921
+ 4226a9440e\nListed by: San Diego County Library
 SUMMARY:ESL 50 & 50S
 LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
  91963
@@ -195,6 +225,8 @@ BEGIN:VEVENT
 UID:55490
 DTSTART:20261020T003000Z
 DTEND:20261020T013000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55490\nListed by: Oceanside Public Library
 SUMMARY:Cafecito: English Practice
 LOCATION:4700 N River Rd\, Oceanside\, CA\, 92057\, US
 URL;VALUE=URI:https://oceansidepl.librarycalendar.com/event/cafecito-englis
@@ -208,6 +240,8 @@ UID:6a5a72e782c03c5c17d8b2ff@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261020T090000
 DTEND;TZID=America/Los_Angeles:20261020T121500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a5a72e782c03c
+ 5c17d8b2ff\nListed by: San Diego County Library
 SUMMARY:ESL 122
 LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
  91963
@@ -218,6 +252,8 @@ BEGIN:VEVENT
 UID:9ac9d4d505a5dd6b769e@sd-immigration-calendar
 DTSTART;TZID=America/Los_Angeles:20261020T093000
 DTEND;TZID=America/Los_Angeles:20261020T123500
+DESCRIPTION:More info: https://library.carlsbadca.gov/Home/Components/Calen
+ dar/Event/21629\nListed by: Carlsbad City Library
 SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
  Library Learning Center)
 LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
@@ -230,6 +266,8 @@ BEGIN:VEVENT
 UID:55513
 DTSTART:20261020T170000Z
 DTEND:20261020T180000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55513\nListed by: Oceanside Public Library
 SUMMARY:Cafecito: English Practice
 LOCATION:804 Pier View Wy\, Oceanside\, CA\, 92054\, US
 ROOM:READS Program Space
@@ -244,6 +282,8 @@ UID:6a8795e4be1482002988e7a9@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261020T120000
 DTEND;TZID=America/Los_Angeles:20261020T141500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a8795e4be1482
+ 002988e7a9\nListed by: San Diego County Library
 SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
  s!
 LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
@@ -255,6 +295,8 @@ BEGIN:VEVENT
 UID:55559
 DTSTART:20261020T193000Z
 DTEND:20261020T203000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55559\nListed by: Oceanside Public Library
 SUMMARY:Cafecito: English Practice
 LOCATION:455 Country Club Lane\, Oceanside\, CA\, 92054\, US
 URL;VALUE=URI:https://oceansidepl.librarycalendar.com/event/cafecito-englis
@@ -268,6 +310,8 @@ UID:6aa9a1b356fe62004a2fe5a8@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261020T133000
 DTEND;TZID=America/Los_Angeles:20261020T153000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6aa9a1b356fe62
+ 004a2fe5a8\nListed by: San Diego County Library
 SUMMARY:ESL English Language Class: Beginning
 LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
 URL:https://sdcl.bibliocommons.com/events/6aa9a1b356fe62004a2fe5a8
@@ -278,6 +322,8 @@ UID:6aad603f4ea230006f348622@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261020T163000
 DTEND;TZID=America/Los_Angeles:20261020T173000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6aad603f4ea230
+ 006f348622\nListed by: San Diego County Library
 SUMMARY:ESL Beginners Class
 LOCATION:Ramona Branch Library\, 1275 Main Street\, Ramona\, CA 92065
 URL:https://sdcl.bibliocommons.com/events/6aad603f4ea230006f348622
@@ -288,6 +334,8 @@ UID:6a5a70a97b79214226a9440f@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261021T090000
 DTEND;TZID=America/Los_Angeles:20261021T134500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a5a70a97b7921
+ 4226a9440f\nListed by: San Diego County Library
 SUMMARY:ESL 50 & 50S
 LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
  91963
@@ -299,6 +347,8 @@ UID:6a3d85b94407827f8aa761ab@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261021T133000
 DTEND;TZID=America/Los_Angeles:20261021T150000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a3d85b9440782
+ 7f8aa761ab\nListed by: San Diego County Library
 SUMMARY:English as a Second Language
 LOCATION:4S Ranch Branch Library\, 10433 Reserve Drive\, San Diego\, CA 921
  27
@@ -310,6 +360,8 @@ UID:6aa9a1d4a433d308573baabd@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261021T133000
 DTEND;TZID=America/Los_Angeles:20261021T153000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6aa9a1d4a433d3
+ 08573baabd\nListed by: San Diego County Library
 SUMMARY:ESL English Language Class: Beginning
 LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
 URL:https://sdcl.bibliocommons.com/events/6aa9a1d4a433d308573baabd
@@ -319,6 +371,8 @@ BEGIN:VEVENT
 UID:55582
 DTSTART:20261021T223000Z
 DTEND:20261021T233000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55582\nListed by: Oceanside Public Library
 SUMMARY:Cafecito: English Practice
 LOCATION:2855 Cedar Rd\, Oceanside\, CA\, 92056\, US
 ROOM:John Landes Community Center Study Room
@@ -333,6 +387,8 @@ UID:6a5a72e782c03c5c17d8b300@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261022T090000
 DTEND;TZID=America/Los_Angeles:20261022T121500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a5a72e782c03c
+ 5c17d8b300\nListed by: San Diego County Library
 SUMMARY:ESL 122
 LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
  91963
@@ -343,6 +399,8 @@ BEGIN:VEVENT
 UID:eb4892e48b6ed38b5fa8@sd-immigration-calendar
 DTSTART;TZID=America/Los_Angeles:20261022T093000
 DTEND;TZID=America/Los_Angeles:20261022T123500
+DESCRIPTION:More info: https://library.carlsbadca.gov/Home/Components/Calen
+ dar/Event/21630\nListed by: Carlsbad City Library
 SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
  Library Learning Center)
 LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
@@ -356,6 +414,8 @@ UID:6a8795e4be1482002988e7aa@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261022T120000
 DTEND;TZID=America/Los_Angeles:20261022T141500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a8795e4be1482
+ 002988e7aa\nListed by: San Diego County Library
 SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
  s!
 LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
@@ -368,6 +428,8 @@ UID:6aa0882b4378382c2abf677f@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261022T153000
 DTEND;TZID=America/Los_Angeles:20261022T173000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6aa0882b437838
+ 2c2abf677f\nListed by: San Diego County Library
 SUMMARY:ESL English Language Class: Intermediate
 LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
 URL:https://sdcl.bibliocommons.com/events/6aa0882b4378382c2abf677f
@@ -377,6 +439,8 @@ BEGIN:VEVENT
 UID:55604
 DTSTART:20261023T001500Z
 DTEND:20261023T010000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55604\nListed by: Oceanside Public Library
 SUMMARY:Cafecito: English Practice
 LOCATION:330 North Coast Hwy\, Oceanside\, CA\, 92054\, US
 ROOM:Foundation Room
@@ -391,6 +455,8 @@ UID:6abff8b8901b02002cbf94a7@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261023T110000
 DTEND;TZID=America/Los_Angeles:20261023T133000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6abff8b8901b02
+ 002cbf94a7\nListed by: San Diego County Library
 SUMMARY:ESL English Language Class: Intermediate
 LOCATION:Bonita-Sunnyside Branch Library\, 4375 Bonita Road\, Bonita\, CA 9
  1902
@@ -402,6 +468,8 @@ UID:6aa72c5d7825b4006406bcd7@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261023T150000
 DTEND;TZID=America/Los_Angeles:20261023T170000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6aa72c5d7825b4
+ 006406bcd7\nListed by: San Diego County Library
 SUMMARY:ESL English classes/ Clases de Ingles
 LOCATION:Encinitas Branch Library\, Cornish Drive\, Encinitas\, CA 92024
 URL:https://sdcl.bibliocommons.com/events/6aa72c5d7825b4006406bcd7
@@ -412,6 +480,8 @@ UID:6a5a70a97b79214226a94410@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261026T090000
 DTEND;TZID=America/Los_Angeles:20261026T134500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a5a70a97b7921
+ 4226a94410\nListed by: San Diego County Library
 SUMMARY:ESL 50 & 50S
 LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
  91963
@@ -422,6 +492,8 @@ BEGIN:VEVENT
 UID:55491
 DTSTART:20261027T003000Z
 DTEND:20261027T013000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55491\nListed by: Oceanside Public Library
 SUMMARY:Cafecito: English Practice
 LOCATION:4700 N River Rd\, Oceanside\, CA\, 92057\, US
 URL;VALUE=URI:https://oceansidepl.librarycalendar.com/event/cafecito-englis
@@ -435,6 +507,8 @@ UID:6a5a72e782c03c5c17d8b301@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261027T090000
 DTEND;TZID=America/Los_Angeles:20261027T121500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a5a72e782c03c
+ 5c17d8b301\nListed by: San Diego County Library
 SUMMARY:ESL 122
 LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
  91963
@@ -445,6 +519,8 @@ BEGIN:VEVENT
 UID:9339c18aa38ffb4589c7@sd-immigration-calendar
 DTSTART;TZID=America/Los_Angeles:20261027T093000
 DTEND;TZID=America/Los_Angeles:20261027T123500
+DESCRIPTION:More info: https://library.carlsbadca.gov/Home/Components/Calen
+ dar/Event/21631\nListed by: Carlsbad City Library
 SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
  Library Learning Center)
 LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
@@ -457,6 +533,8 @@ BEGIN:VEVENT
 UID:55514
 DTSTART:20261027T170000Z
 DTEND:20261027T180000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55514\nListed by: Oceanside Public Library
 SUMMARY:Cafecito: English Practice
 LOCATION:804 Pier View Wy\, Oceanside\, CA\, 92054\, US
 ROOM:READS Program Space
@@ -471,6 +549,8 @@ UID:6a8795e4be1482002988e7ab@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261027T120000
 DTEND;TZID=America/Los_Angeles:20261027T141500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a8795e4be1482
+ 002988e7ab\nListed by: San Diego County Library
 SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
  s!
 LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
@@ -482,6 +562,8 @@ BEGIN:VEVENT
 UID:55560
 DTSTART:20261027T193000Z
 DTEND:20261027T203000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55560\nListed by: Oceanside Public Library
 SUMMARY:Cafecito: English Practice
 LOCATION:455 Country Club Lane\, Oceanside\, CA\, 92054\, US
 URL;VALUE=URI:https://oceansidepl.librarycalendar.com/event/cafecito-englis
@@ -495,6 +577,8 @@ UID:6aa9a1b356fe62004a2fe5a9@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261027T133000
 DTEND;TZID=America/Los_Angeles:20261027T153000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6aa9a1b356fe62
+ 004a2fe5a9\nListed by: San Diego County Library
 SUMMARY:ESL English Language Class: Beginning
 LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
 URL:https://sdcl.bibliocommons.com/events/6aa9a1b356fe62004a2fe5a9
@@ -505,6 +589,8 @@ UID:6aad603f4ea230006f348623@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261027T163000
 DTEND;TZID=America/Los_Angeles:20261027T173000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6aad603f4ea230
+ 006f348623\nListed by: San Diego County Library
 SUMMARY:ESL Beginners Class
 LOCATION:Ramona Branch Library\, 1275 Main Street\, Ramona\, CA 92065
 URL:https://sdcl.bibliocommons.com/events/6aad603f4ea230006f348623
@@ -515,6 +601,8 @@ UID:6a5a70a97b79214226a94411@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261028T090000
 DTEND;TZID=America/Los_Angeles:20261028T134500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a5a70a97b7921
+ 4226a94411\nListed by: San Diego County Library
 SUMMARY:ESL 50 & 50S
 LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
  91963
@@ -526,6 +614,8 @@ UID:6a3d85b94407827f8aa761ac@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261028T133000
 DTEND;TZID=America/Los_Angeles:20261028T150000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a3d85b9440782
+ 7f8aa761ac\nListed by: San Diego County Library
 SUMMARY:English as a Second Language
 LOCATION:4S Ranch Branch Library\, 10433 Reserve Drive\, San Diego\, CA 921
  27
@@ -537,6 +627,8 @@ UID:6aa9a1d4a433d308573baabf@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261028T133000
 DTEND;TZID=America/Los_Angeles:20261028T153000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6aa9a1d4a433d3
+ 08573baabf\nListed by: San Diego County Library
 SUMMARY:ESL English Language Class: Beginning
 LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
 URL:https://sdcl.bibliocommons.com/events/6aa9a1d4a433d308573baabf
@@ -546,6 +638,8 @@ BEGIN:VEVENT
 UID:55583
 DTSTART:20261028T223000Z
 DTEND:20261028T233000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55583\nListed by: Oceanside Public Library
 SUMMARY:Cafecito: English Practice
 LOCATION:2855 Cedar Rd\, Oceanside\, CA\, 92056\, US
 ROOM:John Landes Community Center Study Room
@@ -560,6 +654,8 @@ UID:6a5a72e782c03c5c17d8b302@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261029T090000
 DTEND;TZID=America/Los_Angeles:20261029T121500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a5a72e782c03c
+ 5c17d8b302\nListed by: San Diego County Library
 SUMMARY:ESL 122
 LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
  91963
@@ -570,6 +666,8 @@ BEGIN:VEVENT
 UID:3ef2d7f04ad497875f5b@sd-immigration-calendar
 DTSTART;TZID=America/Los_Angeles:20261029T093000
 DTEND;TZID=America/Los_Angeles:20261029T123500
+DESCRIPTION:More info: https://library.carlsbadca.gov/Home/Components/Calen
+ dar/Event/21632\nListed by: Carlsbad City Library
 SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
  Library Learning Center)
 LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
@@ -583,6 +681,8 @@ UID:6a8795e4be1482002988e7ac@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261029T120000
 DTEND;TZID=America/Los_Angeles:20261029T141500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a8795e4be1482
+ 002988e7ac\nListed by: San Diego County Library
 SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
  s!
 LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
@@ -595,6 +695,8 @@ UID:6aa0882b4378382c2abf6780@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261029T153000
 DTEND;TZID=America/Los_Angeles:20261029T173000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6aa0882b437838
+ 2c2abf6780\nListed by: San Diego County Library
 SUMMARY:ESL English Language Class: Intermediate
 LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
 URL:https://sdcl.bibliocommons.com/events/6aa0882b4378382c2abf6780
@@ -604,6 +706,8 @@ BEGIN:VEVENT
 UID:55605
 DTSTART:20261030T001500Z
 DTEND:20261030T010000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55605\nListed by: Oceanside Public Library
 SUMMARY:Cafecito: English Practice
 LOCATION:330 North Coast Hwy\, Oceanside\, CA\, 92054\, US
 ROOM:Foundation Room
@@ -618,6 +722,8 @@ UID:6abff8b8901b02002cbf94a8@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261030T110000
 DTEND;TZID=America/Los_Angeles:20261030T133000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6abff8b8901b02
+ 002cbf94a8\nListed by: San Diego County Library
 SUMMARY:ESL English Language Class: Intermediate
 LOCATION:Bonita-Sunnyside Branch Library\, 4375 Bonita Road\, Bonita\, CA 9
  1902
@@ -629,6 +735,8 @@ UID:6a5a70a97b79214226a94412@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261102T090000
 DTEND;TZID=America/Los_Angeles:20261102T134500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a5a70a97b7921
+ 4226a94412\nListed by: San Diego County Library
 SUMMARY:ESL 50 & 50S
 LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
  91963
@@ -639,6 +747,8 @@ BEGIN:VEVENT
 UID:55492
 DTSTART:20261103T013000Z
 DTEND:20261103T023000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55492\nListed by: Oceanside Public Library
 SUMMARY:Cafecito: English Practice
 LOCATION:4700 N River Rd\, Oceanside\, CA\, 92057\, US
 URL;VALUE=URI:https://oceansidepl.librarycalendar.com/event/cafecito-englis
@@ -652,6 +762,8 @@ UID:6a5a72e782c03c5c17d8b303@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261103T090000
 DTEND;TZID=America/Los_Angeles:20261103T121500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a5a72e782c03c
+ 5c17d8b303\nListed by: San Diego County Library
 SUMMARY:ESL 122
 LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
  91963
@@ -662,6 +774,8 @@ BEGIN:VEVENT
 UID:db17f906895bd76b61a6@sd-immigration-calendar
 DTSTART;TZID=America/Los_Angeles:20261103T093000
 DTEND;TZID=America/Los_Angeles:20261103T123500
+DESCRIPTION:More info: https://library.carlsbadca.gov/Home/Components/Calen
+ dar/Event/21633\nListed by: Carlsbad City Library
 SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
  Library Learning Center)
 LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
@@ -674,6 +788,8 @@ BEGIN:VEVENT
 UID:55515
 DTSTART:20261103T180000Z
 DTEND:20261103T190000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55515\nListed by: Oceanside Public Library
 SUMMARY:Cafecito: English Practice
 LOCATION:804 Pier View Wy\, Oceanside\, CA\, 92054\, US
 ROOM:READS Program Space
@@ -688,6 +804,8 @@ UID:6a8795e4be1482002988e7ad@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261103T120000
 DTEND;TZID=America/Los_Angeles:20261103T141500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a8795e4be1482
+ 002988e7ad\nListed by: San Diego County Library
 SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
  s!
 LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
@@ -699,6 +817,8 @@ BEGIN:VEVENT
 UID:55561
 DTSTART:20261103T203000Z
 DTEND:20261103T213000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55561\nListed by: Oceanside Public Library
 SUMMARY:Cafecito: English Practice
 LOCATION:455 Country Club Lane\, Oceanside\, CA\, 92054\, US
 URL;VALUE=URI:https://oceansidepl.librarycalendar.com/event/cafecito-englis
@@ -712,6 +832,8 @@ UID:6aa9a1b356fe62004a2fe5aa@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261103T133000
 DTEND;TZID=America/Los_Angeles:20261103T153000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6aa9a1b356fe62
+ 004a2fe5aa\nListed by: San Diego County Library
 SUMMARY:ESL English Language Class: Beginning
 LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
 URL:https://sdcl.bibliocommons.com/events/6aa9a1b356fe62004a2fe5aa
@@ -722,6 +844,8 @@ UID:6aad603f4ea230006f348624@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261103T163000
 DTEND;TZID=America/Los_Angeles:20261103T173000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6aad603f4ea230
+ 006f348624\nListed by: San Diego County Library
 SUMMARY:ESL Beginners Class
 LOCATION:Ramona Branch Library\, 1275 Main Street\, Ramona\, CA 92065
 URL:https://sdcl.bibliocommons.com/events/6aad603f4ea230006f348624
@@ -732,6 +856,8 @@ UID:6a5a70a97b79214226a94413@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261104T090000
 DTEND;TZID=America/Los_Angeles:20261104T134500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a5a70a97b7921
+ 4226a94413\nListed by: San Diego County Library
 SUMMARY:ESL 50 & 50S
 LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
  91963
@@ -743,6 +869,8 @@ UID:6a3d85b94407827f8aa761ad@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261104T133000
 DTEND;TZID=America/Los_Angeles:20261104T150000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a3d85b9440782
+ 7f8aa761ad\nListed by: San Diego County Library
 SUMMARY:English as a Second Language
 LOCATION:4S Ranch Branch Library\, 10433 Reserve Drive\, San Diego\, CA 921
  27
@@ -754,6 +882,8 @@ UID:6aa9a1d4a433d308573baac1@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261104T133000
 DTEND;TZID=America/Los_Angeles:20261104T153000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6aa9a1d4a433d3
+ 08573baac1\nListed by: San Diego County Library
 SUMMARY:ESL English Language Class: Beginning
 LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
 URL:https://sdcl.bibliocommons.com/events/6aa9a1d4a433d308573baac1
@@ -763,6 +893,8 @@ BEGIN:VEVENT
 UID:55584
 DTSTART:20261104T233000Z
 DTEND:20261105T003000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55584\nListed by: Oceanside Public Library
 SUMMARY:Cafecito: English Practice
 LOCATION:2855 Cedar Rd\, Oceanside\, CA\, 92056\, US
 ROOM:John Landes Community Center Study Room
@@ -777,6 +909,8 @@ UID:6a5a72e782c03c5c17d8b304@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261105T090000
 DTEND;TZID=America/Los_Angeles:20261105T121500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a5a72e782c03c
+ 5c17d8b304\nListed by: San Diego County Library
 SUMMARY:ESL 122
 LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
  91963
@@ -787,6 +921,8 @@ BEGIN:VEVENT
 UID:fca2ad3b49a9ce11252f@sd-immigration-calendar
 DTSTART;TZID=America/Los_Angeles:20261105T093000
 DTEND;TZID=America/Los_Angeles:20261105T123500
+DESCRIPTION:More info: https://library.carlsbadca.gov/Home/Components/Calen
+ dar/Event/21634\nListed by: Carlsbad City Library
 SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
  Library Learning Center)
 LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
@@ -800,6 +936,8 @@ UID:6a8795e4be1482002988e7ae@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261105T120000
 DTEND;TZID=America/Los_Angeles:20261105T141500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a8795e4be1482
+ 002988e7ae\nListed by: San Diego County Library
 SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
  s!
 LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
@@ -812,6 +950,8 @@ UID:6aa0882b4378382c2abf6781@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261105T153000
 DTEND;TZID=America/Los_Angeles:20261105T173000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6aa0882b437838
+ 2c2abf6781\nListed by: San Diego County Library
 SUMMARY:ESL English Language Class: Intermediate
 LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
 URL:https://sdcl.bibliocommons.com/events/6aa0882b4378382c2abf6781
@@ -821,6 +961,8 @@ BEGIN:VEVENT
 UID:55606
 DTSTART:20261106T011500Z
 DTEND:20261106T020000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55606\nListed by: Oceanside Public Library
 SUMMARY:Cafecito: English Practice
 LOCATION:330 North Coast Hwy\, Oceanside\, CA\, 92054\, US
 ROOM:Foundation Room
@@ -835,6 +977,8 @@ UID:6abff8b8901b02002cbf94a9@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261106T110000
 DTEND;TZID=America/Los_Angeles:20261106T133000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6abff8b8901b02
+ 002cbf94a9\nListed by: San Diego County Library
 SUMMARY:ESL English Language Class: Intermediate
 LOCATION:Bonita-Sunnyside Branch Library\, 4375 Bonita Road\, Bonita\, CA 9
  1902
@@ -846,6 +990,8 @@ UID:6a5a70a97b79214226a94414@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261109T090000
 DTEND;TZID=America/Los_Angeles:20261109T134500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a5a70a97b7921
+ 4226a94414\nListed by: San Diego County Library
 SUMMARY:ESL 50 & 50S
 LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
  91963
@@ -856,6 +1002,8 @@ BEGIN:VEVENT
 UID:55493
 DTSTART:20261110T013000Z
 DTEND:20261110T023000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55493\nListed by: Oceanside Public Library
 SUMMARY:Cafecito: English Practice
 LOCATION:4700 N River Rd\, Oceanside\, CA\, 92057\, US
 URL;VALUE=URI:https://oceansidepl.librarycalendar.com/event/cafecito-englis
@@ -869,6 +1017,8 @@ UID:6a5a72e782c03c5c17d8b305@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261110T090000
 DTEND;TZID=America/Los_Angeles:20261110T121500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a5a72e782c03c
+ 5c17d8b305\nListed by: San Diego County Library
 SUMMARY:ESL 122
 LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
  91963
@@ -879,6 +1029,8 @@ BEGIN:VEVENT
 UID:8139d90bb8f6cef9bf47@sd-immigration-calendar
 DTSTART;TZID=America/Los_Angeles:20261110T093000
 DTEND;TZID=America/Los_Angeles:20261110T123500
+DESCRIPTION:More info: https://library.carlsbadca.gov/Home/Components/Calen
+ dar/Event/21635\nListed by: Carlsbad City Library
 SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
  Library Learning Center)
 LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
@@ -891,6 +1043,8 @@ BEGIN:VEVENT
 UID:55516
 DTSTART:20261110T180000Z
 DTEND:20261110T190000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55516\nListed by: Oceanside Public Library
 SUMMARY:Cafecito: English Practice
 LOCATION:804 Pier View Wy\, Oceanside\, CA\, 92054\, US
 ROOM:READS Program Space
@@ -905,6 +1059,8 @@ UID:6a8795e4be1482002988e7af@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261110T120000
 DTEND;TZID=America/Los_Angeles:20261110T141500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a8795e4be1482
+ 002988e7af\nListed by: San Diego County Library
 SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
  s!
 LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
@@ -916,6 +1072,8 @@ BEGIN:VEVENT
 UID:55562
 DTSTART:20261110T203000Z
 DTEND:20261110T213000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55562\nListed by: Oceanside Public Library
 SUMMARY:Cafecito: English Practice
 LOCATION:455 Country Club Lane\, Oceanside\, CA\, 92054\, US
 URL;VALUE=URI:https://oceansidepl.librarycalendar.com/event/cafecito-englis
@@ -929,6 +1087,8 @@ UID:6aa9a1b356fe62004a2fe5ab@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261110T133000
 DTEND;TZID=America/Los_Angeles:20261110T153000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6aa9a1b356fe62
+ 004a2fe5ab\nListed by: San Diego County Library
 SUMMARY:ESL English Language Class: Beginning
 LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
 URL:https://sdcl.bibliocommons.com/events/6aa9a1b356fe62004a2fe5ab
@@ -939,6 +1099,8 @@ UID:6aad603f4ea230006f348625@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261110T163000
 DTEND;TZID=America/Los_Angeles:20261110T173000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6aad603f4ea230
+ 006f348625\nListed by: San Diego County Library
 SUMMARY:ESL Beginners Class
 LOCATION:Ramona Branch Library\, 1275 Main Street\, Ramona\, CA 92065
 URL:https://sdcl.bibliocommons.com/events/6aad603f4ea230006f348625
@@ -949,6 +1111,8 @@ UID:6a3d85b94407827f8aa761ae@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261111T133000
 DTEND;TZID=America/Los_Angeles:20261111T150000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a3d85b9440782
+ 7f8aa761ae\nListed by: San Diego County Library
 SUMMARY:English as a Second Language
 LOCATION:4S Ranch Branch Library\, 10433 Reserve Drive\, San Diego\, CA 921
  27
@@ -960,6 +1124,8 @@ UID:6a5a72e782c03c5c17d8b306@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261112T090000
 DTEND;TZID=America/Los_Angeles:20261112T121500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a5a72e782c03c
+ 5c17d8b306\nListed by: San Diego County Library
 SUMMARY:ESL 122
 LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
  91963
@@ -970,6 +1136,8 @@ BEGIN:VEVENT
 UID:8c0915a45c4a8e827295@sd-immigration-calendar
 DTSTART;TZID=America/Los_Angeles:20261112T093000
 DTEND;TZID=America/Los_Angeles:20261112T123500
+DESCRIPTION:More info: https://library.carlsbadca.gov/Home/Components/Calen
+ dar/Event/21636\nListed by: Carlsbad City Library
 SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
  Library Learning Center)
 LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
@@ -983,6 +1151,8 @@ UID:6a8795e4be1482002988e7b0@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261112T120000
 DTEND;TZID=America/Los_Angeles:20261112T141500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a8795e4be1482
+ 002988e7b0\nListed by: San Diego County Library
 SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
  s!
 LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
@@ -995,6 +1165,8 @@ UID:6aa0882b4378382c2abf6782@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261112T153000
 DTEND;TZID=America/Los_Angeles:20261112T173000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6aa0882b437838
+ 2c2abf6782\nListed by: San Diego County Library
 SUMMARY:ESL English Language Class: Intermediate
 LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
 URL:https://sdcl.bibliocommons.com/events/6aa0882b4378382c2abf6782
@@ -1004,6 +1176,8 @@ BEGIN:VEVENT
 UID:55607
 DTSTART:20261113T011500Z
 DTEND:20261113T020000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55607\nListed by: Oceanside Public Library
 SUMMARY:Cafecito: English Practice
 LOCATION:330 North Coast Hwy\, Oceanside\, CA\, 92054\, US
 ROOM:Foundation Room

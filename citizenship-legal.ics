@@ -26,6 +26,8 @@ UID:6a84c281b20478002993c763@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261013T100000
 DTEND;TZID=America/Los_Angeles:20261013T120000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a84c281b20478
+ 002993c763\nListed by: San Diego County Library
 SUMMARY:Citizenship Course
 LOCATION:Rancho San Diego Branch Library\, 11555 Via Rancho San Diego\, El 
  Cajon\, CA 92019
@@ -37,6 +39,8 @@ UID:6a60025aa41369ab2c67c041@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261013T123000
 DTEND;TZID=America/Los_Angeles:20261013T153000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a60025aa41369
+ ab2c67c041\nListed by: San Diego County Library
 SUMMARY:Clases de Ciudadanía por VAS Escuela para Adultos
 LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
 URL:https://sdcl.bibliocommons.com/events/6a60025aa41369ab2c67c041
@@ -47,6 +51,8 @@ UID:6a85079ebf1aec09082b9035@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261013T160000
 DTEND;TZID=America/Los_Angeles:20261013T180000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a85079ebf1aec
+ 09082b9035\nListed by: San Diego County Library
 SUMMARY:Citizenship Course
 LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
  91963
@@ -58,6 +64,8 @@ UID:6a874d6736204e08fbb5e78f@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261014T100000
 DTEND;TZID=America/Los_Angeles:20261014T120000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a874d6736204e
+ 08fbb5e78f\nListed by: San Diego County Library
 SUMMARY:Citizenship Course
 LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
 URL:https://sdcl.bibliocommons.com/events/6a874d6736204e08fbb5e78f
@@ -71,7 +79,8 @@ DTEND;TZID=America/Los_Angeles:20261014T190000
 SUMMARY:Free Citizenship Course (Virtual)
 LOCATION:Online via Zoom
 DESCRIPTION:Free citizenship classes offered by JFS in partnership with San
-  Diego County Library.
+  Diego County Library.\n\nMore info: https://www.jfssd.org/event/free-citi
+ zenship-course-virtual-3/\nListed by: Jewish Family Service of San Diego
 URL:https://www.jfssd.org/event/free-citizenship-course-virtual-3/
 CATEGORIES:Online,Citizenship
 END:VEVENT
@@ -80,6 +89,8 @@ UID:69488c3a8b29ea2800c55ccb@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261014T173000
 DTEND;TZID=America/Los_Angeles:20261014T184500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/69488c3a8b29ea
+ 2800c55ccb\nListed by: San Diego County Library
 SUMMARY:Pathways to Citizenship Tutoring Hour
 LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
 URL:https://sdcl.bibliocommons.com/events/69488c3a8b29ea2800c55ccb
@@ -94,7 +105,8 @@ SUMMARY:Immigration Policy Webinar
 LOCATION:Online
 DESCRIPTION:Higher Education Legal Services and JFS on immigration policy c
  hanges\, from JFS's Director of Policy. Confidential\; Q&A included. Open 
- to all. Free.
+ to all. Free.\n\nMore info: https://www.jfssd.org/calendar/\nListed by: Je
+ wish Family Service of San Diego
 URL:https://www.jfssd.org/calendar/
 CATEGORIES:Online,Immigration legal
 END:VEVENT
@@ -102,6 +114,8 @@ BEGIN:VEVENT
 UID:9c61b101e7c1978222d6@sd-immigration-calendar
 DTSTART;TZID=America/Los_Angeles:20261015T170000
 DTEND;TZID=America/Los_Angeles:20261015T190000
+DESCRIPTION:More info: https://www.chulavistaca.gov/Home/Components/Calenda
+ r/Event/39788\nListed by: Chula Vista Public Library
 SUMMARY:SOUTH: Citizenship Study Tables
 LOCATION:South Chula Vista Library\, 389 Orange Avenue Chula Vista\, Califo
  rnia 91911
@@ -114,6 +128,8 @@ UID:69a235101e64afd01e5ea0b4@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261019T100000
 DTEND;TZID=America/Los_Angeles:20261019T130000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/69a235101e64af
+ d01e5ea0b4\nListed by: San Diego County Library
 SUMMARY:Office of Immigrant and Refugee Affairs Information Table
 LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
 URL:https://sdcl.bibliocommons.com/events/69a235101e64afd01e5ea0b4
@@ -124,6 +140,8 @@ UID:6a836d10d4b10d003007224e@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261019T103000
 DTEND;TZID=America/Los_Angeles:20261019T123000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a836d10d4b10d
+ 003007224e\nListed by: San Diego County Library
 SUMMARY:Citizenship Course
 LOCATION:Lemon Grove Branch Library\, 3001 School Lane\, Lemon Grove\, CA 9
  1945
@@ -135,6 +153,8 @@ UID:6a84c281b20478002993c764@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261020T100000
 DTEND;TZID=America/Los_Angeles:20261020T120000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a84c281b20478
+ 002993c764\nListed by: San Diego County Library
 SUMMARY:Citizenship Course
 LOCATION:Rancho San Diego Branch Library\, 11555 Via Rancho San Diego\, El 
  Cajon\, CA 92019
@@ -146,6 +166,8 @@ UID:6a60025aa41369ab2c67c042@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261020T123000
 DTEND;TZID=America/Los_Angeles:20261020T153000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a60025aa41369
+ ab2c67c042\nListed by: San Diego County Library
 SUMMARY:Clases de Ciudadanía por VAS Escuela para Adultos
 LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
 URL:https://sdcl.bibliocommons.com/events/6a60025aa41369ab2c67c042
@@ -156,6 +178,8 @@ UID:6a85079ebf1aec09082b9036@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261020T160000
 DTEND;TZID=America/Los_Angeles:20261020T180000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a85079ebf1aec
+ 09082b9036\nListed by: San Diego County Library
 SUMMARY:Citizenship Course
 LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
  91963
@@ -167,6 +191,8 @@ UID:6a874d6736204e08fbb5e790@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261021T100000
 DTEND;TZID=America/Los_Angeles:20261021T120000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a874d6736204e
+ 08fbb5e790\nListed by: San Diego County Library
 SUMMARY:Citizenship Course
 LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
 URL:https://sdcl.bibliocommons.com/events/6a874d6736204e08fbb5e790
@@ -180,7 +206,8 @@ DTEND;TZID=America/Los_Angeles:20261021T190000
 SUMMARY:Free Citizenship Course (Virtual)
 LOCATION:Online via Zoom
 DESCRIPTION:Free citizenship classes offered by JFS in partnership with San
-  Diego County Library.
+  Diego County Library.\n\nMore info: https://www.jfssd.org/event/free-citi
+ zenship-course-virtual-3/\nListed by: Jewish Family Service of San Diego
 URL:https://www.jfssd.org/event/free-citizenship-course-virtual-3/
 CATEGORIES:Online,Citizenship
 END:VEVENT
@@ -189,6 +216,8 @@ UID:69488c3a8b29ea2800c55ccc@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261021T173000
 DTEND;TZID=America/Los_Angeles:20261021T184500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/69488c3a8b29ea
+ 2800c55ccc\nListed by: San Diego County Library
 SUMMARY:Pathways to Citizenship Tutoring Hour
 LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
 URL:https://sdcl.bibliocommons.com/events/69488c3a8b29ea2800c55ccc
@@ -198,6 +227,8 @@ BEGIN:VEVENT
 UID:2d34bb57c6e71c5ce19f@sd-immigration-calendar
 DTSTART;TZID=America/Los_Angeles:20261022T170000
 DTEND;TZID=America/Los_Angeles:20261022T190000
+DESCRIPTION:More info: https://www.chulavistaca.gov/Home/Components/Calenda
+ r/Event/39789\nListed by: Chula Vista Public Library
 SUMMARY:SOUTH: Citizenship Study Tables
 LOCATION:South Chula Vista Library\, 389 Orange Avenue Chula Vista\, Califo
  rnia 91911
@@ -210,6 +241,8 @@ UID:6a836d10d4b10d003007224f@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261026T103000
 DTEND;TZID=America/Los_Angeles:20261026T123000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a836d10d4b10d
+ 003007224f\nListed by: San Diego County Library
 SUMMARY:Citizenship Course
 LOCATION:Lemon Grove Branch Library\, 3001 School Lane\, Lemon Grove\, CA 9
  1945
@@ -221,6 +254,8 @@ UID:6a84c281b20478002993c765@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261027T100000
 DTEND;TZID=America/Los_Angeles:20261027T120000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a84c281b20478
+ 002993c765\nListed by: San Diego County Library
 SUMMARY:Citizenship Course
 LOCATION:Rancho San Diego Branch Library\, 11555 Via Rancho San Diego\, El 
  Cajon\, CA 92019
@@ -232,6 +267,8 @@ UID:6a60025aa41369ab2c67c043@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261027T123000
 DTEND;TZID=America/Los_Angeles:20261027T153000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a60025aa41369
+ ab2c67c043\nListed by: San Diego County Library
 SUMMARY:Clases de Ciudadanía por VAS Escuela para Adultos
 LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
 URL:https://sdcl.bibliocommons.com/events/6a60025aa41369ab2c67c043
@@ -242,6 +279,8 @@ UID:6a85079ebf1aec09082b9037@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261027T160000
 DTEND;TZID=America/Los_Angeles:20261027T180000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a85079ebf1aec
+ 09082b9037\nListed by: San Diego County Library
 SUMMARY:Citizenship Course
 LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
  91963
@@ -253,6 +292,8 @@ UID:6a874d6736204e08fbb5e791@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261028T100000
 DTEND;TZID=America/Los_Angeles:20261028T120000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a874d6736204e
+ 08fbb5e791\nListed by: San Diego County Library
 SUMMARY:Citizenship Course
 LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
 URL:https://sdcl.bibliocommons.com/events/6a874d6736204e08fbb5e791
@@ -266,7 +307,8 @@ DTEND;TZID=America/Los_Angeles:20261028T190000
 SUMMARY:Free Citizenship Course (Virtual)
 LOCATION:Online via Zoom
 DESCRIPTION:Free citizenship classes offered by JFS in partnership with San
-  Diego County Library.
+  Diego County Library.\n\nMore info: https://www.jfssd.org/event/free-citi
+ zenship-course-virtual-3/\nListed by: Jewish Family Service of San Diego
 URL:https://www.jfssd.org/event/free-citizenship-course-virtual-3/
 CATEGORIES:Online,Citizenship
 END:VEVENT
@@ -275,6 +317,8 @@ UID:69488c3a8b29ea2800c55ccd@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261028T173000
 DTEND;TZID=America/Los_Angeles:20261028T184500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/69488c3a8b29ea
+ 2800c55ccd\nListed by: San Diego County Library
 SUMMARY:Pathways to Citizenship Tutoring Hour
 LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
 URL:https://sdcl.bibliocommons.com/events/69488c3a8b29ea2800c55ccd
@@ -284,6 +328,8 @@ BEGIN:VEVENT
 UID:8c66290ce0755882423d@sd-immigration-calendar
 DTSTART;TZID=America/Los_Angeles:20261029T170000
 DTEND;TZID=America/Los_Angeles:20261029T190000
+DESCRIPTION:More info: https://www.chulavistaca.gov/Home/Components/Calenda
+ r/Event/39790\nListed by: Chula Vista Public Library
 SUMMARY:SOUTH: Citizenship Study Tables
 LOCATION:South Chula Vista Library\, 389 Orange Avenue Chula Vista\, Califo
  rnia 91911
@@ -296,6 +342,8 @@ UID:6a836d10d4b10d0030072250@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261102T103000
 DTEND;TZID=America/Los_Angeles:20261102T123000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a836d10d4b10d
+ 0030072250\nListed by: San Diego County Library
 SUMMARY:Citizenship Course
 LOCATION:Lemon Grove Branch Library\, 3001 School Lane\, Lemon Grove\, CA 9
  1945
@@ -307,6 +355,8 @@ UID:6a84c281b20478002993c766@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261103T100000
 DTEND;TZID=America/Los_Angeles:20261103T120000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a84c281b20478
+ 002993c766\nListed by: San Diego County Library
 SUMMARY:Citizenship Course
 LOCATION:Rancho San Diego Branch Library\, 11555 Via Rancho San Diego\, El 
  Cajon\, CA 92019
@@ -318,6 +368,8 @@ UID:6a60025aa41369ab2c67c044@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261103T123000
 DTEND;TZID=America/Los_Angeles:20261103T153000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a60025aa41369
+ ab2c67c044\nListed by: San Diego County Library
 SUMMARY:Clases de Ciudadanía por VAS Escuela para Adultos
 LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
 URL:https://sdcl.bibliocommons.com/events/6a60025aa41369ab2c67c044
@@ -328,6 +380,8 @@ UID:6a85079ebf1aec09082b9038@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261103T160000
 DTEND;TZID=America/Los_Angeles:20261103T180000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a85079ebf1aec
+ 09082b9038\nListed by: San Diego County Library
 SUMMARY:Citizenship Course
 LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
  91963
@@ -339,6 +393,8 @@ UID:6a874d6736204e08fbb5e792@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261104T100000
 DTEND;TZID=America/Los_Angeles:20261104T120000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a874d6736204e
+ 08fbb5e792\nListed by: San Diego County Library
 SUMMARY:Citizenship Course
 LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
 URL:https://sdcl.bibliocommons.com/events/6a874d6736204e08fbb5e792
@@ -352,7 +408,8 @@ DTEND;TZID=America/Los_Angeles:20261104T190000
 SUMMARY:Free Citizenship Course (Virtual)
 LOCATION:Online via Zoom
 DESCRIPTION:Free citizenship classes offered by JFS in partnership with San
-  Diego County Library.
+  Diego County Library.\n\nMore info: https://www.jfssd.org/event/free-citi
+ zenship-course-virtual-3/\nListed by: Jewish Family Service of San Diego
 URL:https://www.jfssd.org/event/free-citizenship-course-virtual-3/
 CATEGORIES:Online,Citizenship
 END:VEVENT
@@ -361,6 +418,8 @@ UID:69488c3a8b29ea2800c55cce@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261104T173000
 DTEND;TZID=America/Los_Angeles:20261104T184500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/69488c3a8b29ea
+ 2800c55cce\nListed by: San Diego County Library
 SUMMARY:Pathways to Citizenship Tutoring Hour
 LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
 URL:https://sdcl.bibliocommons.com/events/69488c3a8b29ea2800c55cce
@@ -370,6 +429,8 @@ BEGIN:VEVENT
 UID:9bf71784d09d27eb656a@sd-immigration-calendar
 DTSTART;TZID=America/Los_Angeles:20261105T170000
 DTEND;TZID=America/Los_Angeles:20261105T190000
+DESCRIPTION:More info: https://www.chulavistaca.gov/Home/Components/Calenda
+ r/Event/39791\nListed by: Chula Vista Public Library
 SUMMARY:SOUTH: Citizenship Study Tables
 LOCATION:South Chula Vista Library\, 389 Orange Avenue Chula Vista\, Califo
  rnia 91911
@@ -382,6 +443,8 @@ UID:6a836d10d4b10d0030072251@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261109T103000
 DTEND;TZID=America/Los_Angeles:20261109T123000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a836d10d4b10d
+ 0030072251\nListed by: San Diego County Library
 SUMMARY:Citizenship Course
 LOCATION:Lemon Grove Branch Library\, 3001 School Lane\, Lemon Grove\, CA 9
  1945
@@ -393,6 +456,8 @@ UID:6a84c281b20478002993c767@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261110T100000
 DTEND;TZID=America/Los_Angeles:20261110T120000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a84c281b20478
+ 002993c767\nListed by: San Diego County Library
 SUMMARY:Citizenship Course
 LOCATION:Rancho San Diego Branch Library\, 11555 Via Rancho San Diego\, El 
  Cajon\, CA 92019
@@ -404,6 +469,8 @@ UID:6a60025aa41369ab2c67c045@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261110T123000
 DTEND;TZID=America/Los_Angeles:20261110T153000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a60025aa41369
+ ab2c67c045\nListed by: San Diego County Library
 SUMMARY:Clases de Ciudadanía por VAS Escuela para Adultos
 LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
 URL:https://sdcl.bibliocommons.com/events/6a60025aa41369ab2c67c045
@@ -414,6 +481,8 @@ UID:6a85079ebf1aec09082b9039@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261110T160000
 DTEND;TZID=America/Los_Angeles:20261110T180000
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/6a85079ebf1aec
+ 09082b9039\nListed by: San Diego County Library
 SUMMARY:Citizenship Course
 LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
  91963
@@ -428,7 +497,8 @@ DTEND;TZID=America/Los_Angeles:20261111T120000
 SUMMARY:Free Citizenship Course (El Cajon)
 LOCATION:El Cajon Library\, 201 E Douglas Ave\, El Cajon\, CA 92020
 DESCRIPTION:Free citizenship classes offered by JFS in partnership with San
-  Diego County Library.
+  Diego County Library.\n\nMore info: https://www.jfssd.org/event/free-citi
+ zenship-course-el-cajon-3/\nListed by: Jewish Family Service of San Diego
 URL:https://www.jfssd.org/event/free-citizenship-course-el-cajon-3/
 CATEGORIES:Citizenship
 END:VEVENT
@@ -440,7 +510,8 @@ DTEND;TZID=America/Los_Angeles:20261111T190000
 SUMMARY:Free Citizenship Course (Virtual)
 LOCATION:Online via Zoom
 DESCRIPTION:Free citizenship classes offered by JFS in partnership with San
-  Diego County Library.
+  Diego County Library.\n\nMore info: https://www.jfssd.org/event/free-citi
+ zenship-course-virtual-3/\nListed by: Jewish Family Service of San Diego
 URL:https://www.jfssd.org/event/free-citizenship-course-virtual-3/
 CATEGORIES:Online,Citizenship
 END:VEVENT
@@ -449,6 +520,8 @@ UID:69488c3a8b29ea2800c55ccf@sdcl.bibliocommons.com
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Los_Angeles:20261111T173000
 DTEND;TZID=America/Los_Angeles:20261111T184500
+DESCRIPTION:More info: https://sdcl.bibliocommons.com/events/69488c3a8b29ea
+ 2800c55ccf\nListed by: San Diego County Library
 SUMMARY:Pathways to Citizenship Tutoring Hour
 LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
 URL:https://sdcl.bibliocommons.com/events/69488c3a8b29ea2800c55ccf
@@ -458,6 +531,8 @@ BEGIN:VEVENT
 UID:a672e089cc97013abe93@sd-immigration-calendar
 DTSTART;TZID=America/Los_Angeles:20261112T170000
 DTEND;TZID=America/Los_Angeles:20261112T190000
+DESCRIPTION:More info: https://www.chulavistaca.gov/Home/Components/Calenda
+ r/Event/39781\nListed by: Chula Vista Public Library
 SUMMARY:SOUTH: Citizenship Study Tables
 LOCATION:South Chula Vista Library\, 389 Orange Avenue Chula Vista\, Califo
  rnia 91911
