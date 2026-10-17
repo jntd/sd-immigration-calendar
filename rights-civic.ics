@@ -27,18 +27,18 @@ DTSTART:20261022T010000Z
 DTEND:20261022T030000Z
 SUMMARY:Know Your Rights: A Community Legal Education Forum
 LOCATION:Thomas Jefferson School of Law - Thomas Jefferson School of Law - 
- San Diego\, CA 92101
+ San Diego, CA 92101
 URL:https://www.eventbrite.com/e/2002974901850
 DESCRIPTION:Organized by H.O.L.S.\, this Know Your Rights panel covers immi
  gration\, housing\, constitutional protections\, and resources for victims
  .\n\nMore info: https://www.eventbrite.com/e/2002974901850\nListed by: Eve
  ntbrite
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 CATEGORIES:Rights & civic
 END:VEVENT
 BEGIN:VEVENT
 UID:cf1a4ba91f21e041ec19@sd-immigration-calendar
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 DTSTART;TZID=America/Los_Angeles:20261022T160000
 DTEND;TZID=America/Los_Angeles:20261022T180000
 SUMMARY:Know Your Rights – Literature Drops
@@ -59,27 +59,12 @@ URL:https://sdvlp.org/event/guardianship-know-your-rights-webinar-3/
 DESCRIPTION:https://us02web.zoom.us/webinar/register/WN_HE-2YqUtT_iFIgF1SoH
  CJQ\n\nMore info: https://sdvlp.org/event/guardianship-know-your-rights-we
  binar-3/\nListed by: San Diego Volunteer Lawyer Program
-DTSTAMP:20261016T000000Z
-CATEGORIES:Online,Rights & civic
-END:VEVENT
-BEGIN:VEVENT
-UID:5e11aae8f4d135ae9ab6@sd-immigration-calendar
-DTSTAMP:20261016T000000Z
-DTSTART;TZID=America/Los_Angeles:20261027T120000
-SUMMARY:We the People: Claim Our Collective Power – Virtual Civic Engagem
- ent Training
-LOCATION:Virtual
-DESCRIPTION:Five-part virtual civic engagement training series (public comm
- ent\, rulemaking\, budgets). Free\; registration required.\n\nMore info: h
- ttps://www.alliancesd.org/event/we-the-people-claim-our-collective-power/\
- nListed by: Alliance San Diego
-URL:https://www.alliancesd.org/event/we-the-people-claim-our-collective-pow
- er/
+DTSTAMP:20261017T000000Z
 CATEGORIES:Online,Rights & civic
 END:VEVENT
 BEGIN:VEVENT
 UID:1647de0dcf7c2f1f74b8@sd-immigration-calendar
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 DTSTART;TZID=America/Los_Angeles:20261029T160000
 DTEND;TZID=America/Los_Angeles:20261029T180000
 SUMMARY:Know Your Rights – Literature Drops
@@ -90,5 +75,18 @@ DESCRIPTION:Weekly community walk delivering know-your-rights information t
  ghts-literature-drops/\nListed by: Alliance San Diego
 URL:https://www.alliancesd.org/event/know-your-rights-literature-drops/
 CATEGORIES:Rights & civic
+END:VEVENT
+BEGIN:VEVENT
+UID:69516-1794830400-1794834000@sdvlp.org
+DTSTART;TZID=America/Los_Angeles:20261116T120000
+DTEND;TZID=America/Los_Angeles:20261116T130000
+SUMMARY:Guardianship: Know Your Rights webinar
+URL:https://sdvlp.org/event/guardianship-know-your-rights-webinar-6/
+DESCRIPTION:Welcome! You are invited to join a webinar: Know Your Rights: P
+ robate Guardianship Information for P…\n\nMore info: https://sdvlp.org/e
+ vent/guardianship-know-your-rights-webinar-6/\nListed by: San Diego Volunt
+ eer Lawyer Program
+DTSTAMP:20261017T000000Z
+CATEGORIES:Online,Rights & civic
 END:VEVENT
 END:VCALENDAR

@@ -22,32 +22,8 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ad7a32f1a83251180f21@sd-immigration-calendar
-DTSTAMP:20261016T000000Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Beyond the Headlines: Understanding & Combatting Anti-Muslim Hate
-LOCATION:San Diego City College\, San Diego
-DESCRIPTION:CAIR-SD's second annual conference on Islamophobia\; panels on 
- policy\, media\, education and civil rights. $25 including lunch.\n\nMore 
- info: https://bit.ly/beyondtheheadlines26\nListed by: CAIR San Diego
-URL:https://bit.ly/beyondtheheadlines26
-CATEGORIES:Rights & civic,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:0be4e9756090d6b3e4cd@sd-immigration-calendar
-DTSTAMP:20261016T000000Z
-DTSTART;TZID=America/Los_Angeles:20261016T173000
-DTEND;TZID=America/Los_Angeles:20261016T193000
-SUMMARY:Pom-Pom Crafting for Día de los Muertos (The Front)
-LOCATION:The Front Gallery\, San Ysidro
-DESCRIPTION:All-ages craft evening making pom-poms for Casa Familiar's Día
-  de los Muertos installation.\n\nListed by: Casa Familiar
-CATEGORIES:Community & culture,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
 UID:2716664edb84cb6de86b@sd-immigration-calendar
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Women-Owned Small Business Bazaar and Girls Youth Group Art Install
@@ -62,7 +38,7 @@ CATEGORIES:Jobs & money,Community & culture,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:6000f607f4a1531a29eb@sd-immigration-calendar
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Day of the Dead Caravan to Tijuana (volunteers)
@@ -74,7 +50,7 @@ CATEGORIES:Volunteer,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:9ce3a5f2033971e56370@sd-immigration-calendar
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 DTSTART;TZID=America/Los_Angeles:20261017T100000
 DTEND;TZID=America/Los_Angeles:20261017T133000
 SUMMARY:Free Family Financial Resource Fair
@@ -94,7 +70,7 @@ SUMMARY:CIVIC: Filipinos of South Bay Exhibit (FOSBE) Presentation & Panel-
   Focus on Filipinos in Government
 LOCATION:Civic Center Library\, 356 F Street Chula Vista\, California 91910
 URL:https://www.chulavistaca.gov/Home/Components/Calendar/Event/41271
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 CATEGORIES:Community & culture,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
@@ -112,12 +88,12 @@ DESCRIPTION:If you have recently graduated\, are looking for a job\, changi
  ons\, navigating the job search process\, interviewing practice\, coaching
   and more. …\n\nMore info: https://oceansidepl.librarycalendar.com/event
  /job-lab-57479\nListed by: Oceanside Public Library
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 CATEGORIES:Tabling,Jobs & money,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:693217ef8b29ea2800c2923e@sdcl.bibliocommons.com
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 DTSTART;TZID=America/Los_Angeles:20261020T143000
 DTEND;TZID=America/Los_Angeles:20261020T163000
 SUMMARY:San Diego Community Health Center Information Table
@@ -133,7 +109,7 @@ CATEGORIES:Tabling,Health,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:6a8b864d29a7dd0d67460c9a@sdcl.bibliocommons.com
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 DTSTART;TZID=America/Los_Angeles:20261020T150000
 DTEND;TZID=America/Los_Angeles:20261020T170000
 SUMMARY:TABLE: EDD Job Help--Búsqueda de Trabajo por EDD
@@ -149,7 +125,7 @@ CATEGORIES:Spanish,Tabling,Jobs & money,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:69a23460491b809c6f1d0cfa@sdcl.bibliocommons.com
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 DTSTART;TZID=America/Los_Angeles:20261021T130000
 DTEND;TZID=America/Los_Angeles:20261021T150000
 SUMMARY:CSA San Diego - Fair Housing Table Information Table
@@ -177,12 +153,12 @@ DESCRIPTION:Join us for Casa Familiar’s 2026 Fall Festival! Our Fall Fest
   cowboy spirit shine or surprise us with your favorite costume\, and come 
  celebrate with …\n\nMore info: https://www.casafamiliar.org/event/2026-f
  all-festival/\nListed by: Casa Familiar
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 CATEGORIES:Community & culture,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:40d632db65aac1a52815@sd-immigration-calendar
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 DTSTART;TZID=America/Los_Angeles:20261022T173000
 DTEND;TZID=America/Los_Angeles:20261022T193000
 SUMMARY:Noche de Lotería Cívica
@@ -197,7 +173,7 @@ CATEGORIES:Rights & civic,Spanish,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:a38ada75e4ad51701907@sd-immigration-calendar
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Business 101: Financial Literacy (online workshop)
@@ -210,7 +186,7 @@ CATEGORIES:Online,Jobs & money,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:c48dfca7cc217d733ccf@sd-immigration-calendar
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 DTSTART;TZID=America/Los_Angeles:20261024T110000
 DTEND;TZID=America/Los_Angeles:20261024T150000
 SUMMARY:We The People's Field Day
@@ -226,7 +202,7 @@ CATEGORIES:Rights & civic,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:69698fcf992fc18a86ddb465@sdcl.bibliocommons.com
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 DTSTART;TZID=America/Los_Angeles:20261026T100000
 DTEND;TZID=America/Los_Angeles:20261026T120000
 SUMMARY:Neighborhood Healthcare Information Table
@@ -242,7 +218,7 @@ CATEGORIES:Tabling,Health,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:799d4570c391fb34ec07@sd-immigration-calendar
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 DTSTART;TZID=America/Los_Angeles:20261026T183000
 SUMMARY:Border Angels Book Club: Fresh Fruit\, Broken Bodies
 LOCATION:Virtual
@@ -253,7 +229,7 @@ CATEGORIES:Online,Community & culture,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:6acd0d89a85a2c00337ef44d@sdcl.bibliocommons.com
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 DTSTART;TZID=America/Los_Angeles:20261027T120000
 DTEND;TZID=America/Los_Angeles:20261027T143000
 SUMMARY:TABLE: CSA San Diego County
@@ -269,7 +245,7 @@ CATEGORIES:Spanish,Tabling,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:69a234bd1e64afd01e5ea0a2@sdcl.bibliocommons.com
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 DTSTART;TZID=America/Los_Angeles:20261027T133000
 DTEND;TZID=America/Los_Angeles:20261027T153000
 SUMMARY:La Maestra Community Health Centers Information Table
@@ -285,7 +261,7 @@ CATEGORIES:Tabling,Health,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:6a0e2d88fab4ff0f649a84a0@sdcl.bibliocommons.com
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 DTSTART;TZID=America/Los_Angeles:20261027T150000
 DTEND;TZID=America/Los_Angeles:20261027T170000
 SUMMARY:TABLE: EDD Job Help--Búsqueda de Trabajo por EDD
@@ -301,7 +277,7 @@ CATEGORIES:Spanish,Tabling,Jobs & money,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:9c43db830709a74af293@sd-immigration-calendar
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 DTSTART;TZID=America/Los_Angeles:20261027T173000
 DTEND;TZID=America/Los_Angeles:20261027T193000
 SUMMARY:Noche de Lotería Cívica
@@ -316,7 +292,7 @@ CATEGORIES:Rights & civic,Spanish,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:ee5c0c01910410369ce5@sd-immigration-calendar
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:We the People: Claim Our Collective Power – Virtual Civic Engagem
@@ -332,7 +308,7 @@ CATEGORIES:Online,Spanish,Rights & civic,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:86538364711607b78f3e@sd-immigration-calendar
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 DTSTART;TZID=America/Los_Angeles:20261029T173000
 DTEND;TZID=America/Los_Angeles:20261029T193000
 SUMMARY:Noche de Lotería Cívica
@@ -360,7 +336,7 @@ DESCRIPTION:If you have recently graduated\, are looking for a job\, changi
  ons\, navigating the job search process\, interviewing practice\, coaching
   and more. …\n\nMore info: https://oceansidepl.librarycalendar.com/event
  /job-lab-57480\nListed by: Oceanside Public Library
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 CATEGORIES:Tabling,Jobs & money,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
@@ -377,12 +353,12 @@ DESCRIPTION:Join us for Casa Familiar’s 2026 Día de los Muertos Celebrat
  culture\, and community. Everyone is welcome. Bring your family\, friends\
  , neighbors\, and …\n\nMore info: https://www.casafamiliar.org/event/202
  6-dia-de-los-muertos/\nListed by: Casa Familiar
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 CATEGORIES:Community & culture,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:693217156724c63d00e5503a@sdcl.bibliocommons.com
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 DTSTART;TZID=America/Los_Angeles:20261103T140000
 DTEND;TZID=America/Los_Angeles:20261103T160000
 SUMMARY:San Diego Community Health Center
@@ -398,7 +374,7 @@ CATEGORIES:Tabling,Health,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:6a8b864d29a7dd0d67460c9c@sdcl.bibliocommons.com
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 DTSTART;TZID=America/Los_Angeles:20261103T150000
 DTEND;TZID=America/Los_Angeles:20261103T170000
 SUMMARY:TABLE: EDD Job Help--Búsqueda de Trabajo por EDD
@@ -425,12 +401,12 @@ DESCRIPTION:Want to learn about divorce\, child custody\, child support\, s
  es. People who want more information before starting a case. Anyone who wa
  nts to learn …\n\nMore info: https://www.lassd.org/event/family-law-info
  rmation-session/\nListed by: Legal Aid Society of San Diego
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 CATEGORIES:Tabling,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:69a233391e64afd01e5e9ff6@sdcl.bibliocommons.com
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 DTSTART;TZID=America/Los_Angeles:20261105T100000
 DTEND;TZID=America/Los_Angeles:20261105T120000
 SUMMARY:Family Health Centers of San Diego Information Table
@@ -458,12 +434,12 @@ DESCRIPTION:Join us for a FREE workshop designed to help residents better u
  pplication process Review the required documentation for your application 
  Choose a date …\n\nMore info: https://www.casafamiliar.org/event/how-to-
  apply-to-affordable-housing-nov5/\nListed by: Casa Familiar
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 CATEGORIES:Housing,Rights & civic,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:69a23460491b809c6f1d0cfb@sdcl.bibliocommons.com
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 DTSTART;TZID=America/Los_Angeles:20261106T130000
 DTEND;TZID=America/Los_Angeles:20261106T150000
 SUMMARY:CSA San Diego - Fair Housing Table Information Table
@@ -490,12 +466,12 @@ DESCRIPTION:Fair Housing Basics on Nov 10\, 2026\, 10:00 AM – 11:00 AM at
  crimination laws. This training is open to anyone.\n\nMore info: https://w
  ww.lassd.org/event/fair-housing-basics-46/\nListed by: Legal Aid Society o
  f San Diego
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 CATEGORIES:Housing,Rights & civic,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:69a234bd1e64afd01e5ea0a3@sdcl.bibliocommons.com
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 DTSTART;TZID=America/Los_Angeles:20261110T133000
 DTEND;TZID=America/Los_Angeles:20261110T153000
 SUMMARY:La Maestra Community Health Centers Information Table
@@ -511,7 +487,7 @@ CATEGORIES:Tabling,Health,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:afd57edb96942834bffd@sd-immigration-calendar
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 DTSTART;TZID=America/Los_Angeles:20261110T160000
 SUMMARY:Rhythms of East Africa
 LOCATION:San Diego (venue not stated)
@@ -532,12 +508,12 @@ DESCRIPTION:In partnership with Assemblymember Tasha Boerner\, Director of
  p.m. This event is open to the public. Gil will share important informatio
  n about local …\n\nMore info: https://www.lassd.org/event/tenants-rights
  -webinar/\nListed by: Legal Aid Society of San Diego
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 CATEGORIES:Online,Rights & civic,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:69335bb994297d36009e7fe8@sdcl.bibliocommons.com
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 DTSTART;TZID=America/Los_Angeles:20261114T100000
 DTEND;TZID=America/Los_Angeles:20261114T140000
 SUMMARY:Child Support Services
@@ -565,7 +541,25 @@ DESCRIPTION:Are you in need of a reliable notary service? Look no further!
  d by Ditas Yamane. National City Public Library card required. Walk-ins we
  lcome but …\n\nMore info: https://www.nationalcityca.gov/Home/Components
  /Calendar/Event/24484\nListed by: National City Public Library
-DTSTAMP:20261016T000000Z
+DTSTAMP:20261017T000000Z
 CATEGORIES:Tabling,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:57481
+DTSTART:20261116T200000Z
+DTEND:20261116T220000Z
+SUMMARY:Job Lab
+LOCATION:804 Pier View Wy\, Oceanside\, CA\, 92054\, US
+ROOM:READS Program Space
+URL;VALUE=URI:https://oceansidepl.librarycalendar.com/event/job-lab-57481
+STATUS:CONFIRMED
+DESCRIPTION:If you have recently graduated\, are looking for a job\, changi
+ ng careers or simply wish to improve your resume or interviewing skills\, 
+ come to receive free\, individualized support with resumes\, job applicati
+ ons\, navigating the job search process\, interviewing practice\, coaching
+  and more. …\n\nMore info: https://oceansidepl.librarycalendar.com/event
+ /job-lab-57481\nListed by: Oceanside Public Library
+DTSTAMP:20261017T000000Z
+CATEGORIES:Tabling,Jobs & money,Possibly relevant
 END:VEVENT
 END:VCALENDAR
