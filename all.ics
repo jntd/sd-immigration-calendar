@@ -22,1868 +22,10 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2716664edb84cb6de86b@sd-immigration-calendar
-DTSTAMP:20261017T000000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:Women-Owned Small Business Bazaar and Girls Youth Group Art Install
- ation
-LOCATION:El Cajon (venue not stated)
-DESCRIPTION:Bazaar of women entrepreneurs with an art installation by the G
- irls Youth Group\, live music\, fashion show\, henna and food.\n\nMore inf
- o: https://licensetofreedom.org/upcoming-events/\nListed by: License to Fr
- eedom
-CATEGORIES:Jobs & money,Community & culture,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:6000f607f4a1531a29eb@sd-immigration-calendar
-DTSTAMP:20261017T000000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:Day of the Dead Caravan to Tijuana (volunteers)
-LOCATION:Tijuana (departure details after volunteer application)
-DESCRIPTION:Volunteers drive donations into Tijuana. Requires passport/SENT
- RI\, a vehicle\, a volunteer application and waiver.\n\nListed by: Border 
- Angels
-CATEGORIES:Volunteer,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:9ce3a5f2033971e56370@sd-immigration-calendar
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261017T100000
-DTEND;TZID=America/Los_Angeles:20261017T133000
-SUMMARY:Free Family Financial Resource Fair
-LOCATION:MAAC Community Room\, 1387 Third Ave\, Chula Vista\, CA
-DESCRIPTION:Free family-friendly fair: credit education with FICO\, Bank On
-  accounts\, free tax assistance and community resources.\n\nListed by: MAA
- C
-CATEGORIES:Jobs & money,Family & youth,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:936e96d3cdc65a500405@sd-immigration-calendar
-DTSTART;TZID=America/Los_Angeles:20261017T133000
-DTEND;TZID=America/Los_Angeles:20261017T150000
-DESCRIPTION:More info: https://www.chulavistaca.gov/Home/Components/Calenda
- r/Event/41271\nListed by: Chula Vista Public Library
-SUMMARY:CIVIC: Filipinos of South Bay Exhibit (FOSBE) Presentation & Panel-
-  Focus on Filipinos in Government
-LOCATION:Civic Center Library\, 356 F Street Chula Vista\, California 91910
-DTSTAMP:20261017T000000Z
-CATEGORIES:Community & culture,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:6a5a70a97b79214226a9440e@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261019T090000
-DTEND;TZID=America/Los_Angeles:20261019T134500
-SUMMARY:ESL 50 & 50S
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
-  general information line at (619) 660-4264 or email district.specialproje
- cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a70a9
- 7b79214226a9440e\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:69a235101e64afd01e5ea0b4@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261019T100000
-DTEND;TZID=America/Los_Angeles:20261019T130000
-SUMMARY:Office of Immigrant and Refugee Affairs Information Table
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:The County of San Diego\, Health and Human Services Agency\, De
- partment of Homeless Solutions and Equitable Communities\, Office of Immig
- rant and Refugee Affairs serves as the regional expert and lead in immigra
- nt and refugee affairs and provides resources and information through a va
- riety of …\n\nMore info: https://sdcl.bibliocommons.com/events/69a235101
- e64afd01e5ea0b4\nListed by: San Diego County Library
-CATEGORIES:Immigration legal,Tabling
-END:VEVENT
-BEGIN:VEVENT
-UID:6a836d10d4b10d003007224e@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261019T103000
-DTEND;TZID=America/Los_Angeles:20261019T123000
-SUMMARY:Citizenship Course
-LOCATION:Lemon Grove Branch Library\, 3001 School Lane\, Lemon Grove\, CA 9
- 1945
-DESCRIPTION:Join a free 10-week Citizenship course with Jewish Family Servi
- ces conducted in English. You'll receive textbooks\, supplies\, access to 
- tablets for online assignments and test preparation. Enhance your speaking
- \, reading\, and writing skills for your Naturalization interview. Registe
- r today! Únete al …\n\nMore info: https://sdcl.bibliocommons.com/events
- /6a836d10d4b10d003007224e\nListed by: San Diego County Library
-CATEGORIES:Citizenship
-END:VEVENT
-BEGIN:VEVENT
-UID:57479
-DTSTART:20261019T190000Z
-DTEND:20261019T210000Z
-SUMMARY:Job Lab
-LOCATION:804 Pier View Wy\, Oceanside\, CA\, 92054\, US
-ROOM:READS Program Space
-STATUS:CONFIRMED
-DESCRIPTION:If you have recently graduated\, are looking for a job\, changi
- ng careers or simply wish to improve your resume or interviewing skills\, 
- come to receive free\, individualized support with resumes\, job applicati
- ons\, navigating the job search process\, interviewing practice\, coaching
-  and more. …\n\nMore info: https://oceansidepl.librarycalendar.com/event
- /job-lab-57479\nListed by: Oceanside Public Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:Tabling,Jobs & money,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:55490
-DTSTART:20261020T003000Z
-DTEND:20261020T013000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55490\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:4700 N River Rd\, Oceanside\, CA\, 92057\, US
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:11a132fcf667d3c72ac0@sandiego.events.mylibrary.digital
-DTSTART;TZID=America/Los_Angeles:20261019T180000
-DTEND;TZID=America/Los_Angeles:20261019T193000
-SUMMARY:English Language Conversation
-LOCATION:Central Library\, San Diego
-STATUS:CONFIRMED
-DESCRIPTION:Enjoy practicing your English with other adults in a relaxed en
- vironment. Registration is preferred\, but not required. Drop-in attendees
-  are welcome. This group is for adult English Language learners who alread
- y speak some English and would like additional practice using it in spoken
-  conversation. Groups take place each Monday evening\, even if there is a 
- Padres Game. Please register to be notified of... Registration required.\n
- \nMore info: https://sandiego.events.mylibrary.digital\nListed by: San Die
- go Public Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a5a72e782c03c5c17d8b2ff@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261020T090000
-DTEND;TZID=America/Los_Angeles:20261020T121500
-SUMMARY:ESL 122
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
-  general information line at (619) 660-4264 or email district.specialproje
- cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a72e7
- 82c03c5c17d8b2ff\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:9ac9d4d505a5dd6b769e@sd-immigration-calendar
-DTSTART;TZID=America/Los_Angeles:20261020T093000
-DTEND;TZID=America/Los_Angeles:20261020T123500
-SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
- Library Learning Center)
-LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
- Centro de Aprendizaje\, 3368 Eureka Place Carlsbad\, California 92008
-DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
- ialized courses in English for non-native speakers. Apply online at miraco
- sta.edu/ncapply or drop in early and apply in person before the session be
- gins. ESL classes at the Library Learning Center will take place on the se
- cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
- ents/Calendar/Event/21629\nListed by: Carlsbad City Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:55513
-DTSTART:20261020T170000Z
-DTEND:20261020T180000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55513\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:804 Pier View Wy\, Oceanside\, CA\, 92054\, US
-ROOM:READS Program Space
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a84c281b20478002993c764@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261020T100000
-DTEND;TZID=America/Los_Angeles:20261020T120000
-SUMMARY:Citizenship Course
-LOCATION:Rancho San Diego Branch Library\, 11555 Via Rancho San Diego\, El 
- Cajon\, CA 92019
-DESCRIPTION:Join this free 10-week Citizenship Course instructed by Jewish 
- Family Service and conducted in English. Participants will receive a textb
- ook\, supplies\, and access to resources for online assignments and test p
- reparation. Strengthen your speaking\, reading\, and writing skills to con
- fidently prepare …\n\nMore info: https://sdcl.bibliocommons.com/events/6
- a84c281b20478002993c764\nListed by: San Diego County Library
-CATEGORIES:Citizenship
-END:VEVENT
-BEGIN:VEVENT
-UID:6a8795e4be1482002988e7a9@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261020T120000
-DTEND;TZID=America/Los_Angeles:20261020T141500
-SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
- s!
-LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
-  92069
-DESCRIPTION:Improve your conversation\, listening\, writing\, and reading s
- kills.Mejore sus habilidades de conversación\, escuchar\, escritura y lec
- tura.\n\nMore info: https://sdcl.bibliocommons.com/events/6a8795e4be148200
- 2988e7a9\nListed by: San Diego County Library
-CATEGORIES:Spanish,ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:55559
-DTSTART:20261020T193000Z
-DTEND:20261020T203000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55559\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:455 Country Club Lane\, Oceanside\, CA\, 92054\, US
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a60025aa41369ab2c67c042@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261020T123000
-DTEND;TZID=America/Los_Angeles:20261020T153000
-SUMMARY:Clases de Ciudadanía por VAS Escuela para Adultos
-LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
-DESCRIPTION:La escuela de Adultos de Vista también ofrece clases de Ciudad
- anía. Enfoque de preparación en los examenes aprobados por USCIS\, prepa
- ración para la entrevista oral de USCIS\, y al mismo tiempo refuerza las 
- habilidades orales de lectura en Inglés. Pre-Requisito: Debe estar minimo
-  a nivel Comienzo …\n\nMore info: https://sdcl.bibliocommons.com/events/
- 6a60025aa41369ab2c67c042\nListed by: San Diego County Library
-CATEGORIES:Spanish,Citizenship
-END:VEVENT
-BEGIN:VEVENT
-UID:6aa9a1b356fe62004a2fe5a8@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261020T133000
-DTEND;TZID=America/Los_Angeles:20261020T153000
-SUMMARY:ESL English Language Class: Beginning
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
- nglish Language Class in partnership with the Laubach Literacy Council San
-  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa9a1b356fe62
- 004a2fe5a8\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:693217ef8b29ea2800c2923e@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261020T143000
-DTEND;TZID=America/Los_Angeles:20261020T163000
-SUMMARY:San Diego Community Health Center Information Table
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:The San Diego American Indian Health Center (SDAIHC)\, also kno
- wn as San Diego Community Health Center\, is a 501(c)(3) nonprofit organiz
- ation and a patient-centered health home that offers comprehensive medical
- \, dental\, behavioral health\, and community wellness services available 
- to all people of …\n\nMore info: https://sdcl.bibliocommons.com/events/6
- 93217ef8b29ea2800c2923e\nListed by: San Diego County Library
-CATEGORIES:Tabling,Health,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:6a8b864d29a7dd0d67460c9a@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261020T150000
-DTEND;TZID=America/Los_Angeles:20261020T170000
-SUMMARY:TABLE: EDD Job Help--Búsqueda de Trabajo por EDD
-LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
-DESCRIPTION:Employee Development Department will be in the library providin
- g job leads\, coaching\, and resources in English and Spanish.El Departame
- nto de Desarrollo de Empleados estará en el vestíbulo brindando pistas l
- aborales\, entrenamiento y recursos en inglés y español.\n\nMore info: h
- ttps://sdcl.bibliocommons.com/events/6a8b864d29a7dd0d67460c9a\nListed by: 
- San Diego County Library
-CATEGORIES:Spanish,Tabling,Jobs & money,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:6a85079ebf1aec09082b9036@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261020T160000
-DTEND;TZID=America/Los_Angeles:20261020T180000
-SUMMARY:Citizenship Course
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:Join this free 10-week Citizenship Course instructed by Jewish 
- Family Service and conducted in English. Participants will receive a textb
- ook\, supplies\, and access to resources for online assignments and test p
- reparation. Strengthen your speaking\, reading\, and writing skills to con
- fidently prepare …\n\nMore info: https://sdcl.bibliocommons.com/events/6
- a85079ebf1aec09082b9036\nListed by: San Diego County Library
-CATEGORIES:Citizenship
-END:VEVENT
-BEGIN:VEVENT
-UID:6aad603f4ea230006f348622@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261020T163000
-DTEND;TZID=America/Los_Angeles:20261020T173000
-SUMMARY:ESL Beginners Class
-LOCATION:Ramona Branch Library\, 1275 Main Street\, Ramona\, CA 92065
-DESCRIPTION:English as a second language classesInstructor led class for no
- n-English speakers. Please inquire at front desk for more information. Cla
- ses de inglés como segundo lenguajeClase dirigida por una instructora par
- a personas que no hablan inglés. Por favor\, pregunte en la recepción pa
- ra obtener más …\n\nMore info: https://sdcl.bibliocommons.com/events/6a
- ad603f4ea230006f348622\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:cf6d6740663f647bfd2d@sandiego.events.mylibrary.digital
-DTSTART;TZID=America/Los_Angeles:20261020T183000
-DTEND;TZID=America/Los_Angeles:20261020T193000
-SUMMARY:ESL Conversation Group
-LOCATION:Mira Mesa Library\, San Diego
-STATUS:CONFIRMED
-DESCRIPTION:Join us for casual\, friendly conversation designed to increase
-  participants'comfort with the English language and maybe make new friends
- .\n\nMore info: https://sandiego.events.mylibrary.digital\nListed by: San 
- Diego Public Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a5a70a97b79214226a9440f@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261021T090000
-DTEND;TZID=America/Los_Angeles:20261021T134500
-SUMMARY:ESL 50 & 50S
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
-  general information line at (619) 660-4264 or email district.specialproje
- cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a70a9
- 7b79214226a9440f\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a874d6736204e08fbb5e790@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261021T100000
-DTEND;TZID=America/Los_Angeles:20261021T120000
-SUMMARY:Citizenship Course
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:Join this free 10-week Citizenship Course instructed by Jewish 
- Family Service and conducted in English. Participants will receive a textb
- ook\, supplies\, and access to resources for online assignments and test p
- reparation. Strengthen your speaking\, reading\, and writing skills to con
- fidently prepare …\n\nMore info: https://sdcl.bibliocommons.com/events/6
- a874d6736204e08fbb5e790\nListed by: San Diego County Library
-CATEGORIES:Citizenship
-END:VEVENT
-BEGIN:VEVENT
-UID:41a155861c8614e2f28b@sandiego.events.mylibrary.digital
-DTSTART;TZID=America/Los_Angeles:20261021T130000
-DTEND;TZID=America/Los_Angeles:20261021T143000
-SUMMARY:Basic English Class
-LOCATION:Pacific Highlands Ranch Library\, San Diego
-STATUS:CONFIRMED
-DESCRIPTION:Learn basic English! This FREE six-week program is for beginnin
- g English speakers and no registration is required. Class meets Wednesdays
-  and Fridays from 1-2:30pm\, starting Wednesday\, October 7. Presented by 
- Poway Adult School and sponsored by the Friends of Rancho Penasquitos Bran
- ch Library. Class Dates: Wednesday\, October 7 - Community Room Friday\, O
- ctober - Room 123 Wednesday\, October 14 - Community Ro...\n\nMore info: h
- ttps://sandiego.events.mylibrary.digital\nListed by: San Diego Public Libr
- ary
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:69a23460491b809c6f1d0cfa@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261021T130000
-DTEND;TZID=America/Los_Angeles:20261021T150000
-SUMMARY:CSA San Diego - Fair Housing Table Information Table
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:CSA San Diego County is a 501(c)(3) nonprofit organization whos
- e primary mission is to promote social justice and public welfare through 
- programs\, services\, and advocacy against all forms of discrimination\, i
- ncluding advocacy for the eradication of housing discrimination to assure 
- equal housing …\n\nMore info: https://sdcl.bibliocommons.com/events/69a2
- 3460491b809c6f1d0cfa\nListed by: San Diego County Library
-CATEGORIES:Housing,Rights & civic,Tabling,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:6a3d85b94407827f8aa761ab@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261021T133000
-DTEND;TZID=America/Los_Angeles:20261021T150000
-SUMMARY:English as a Second Language
-LOCATION:4S Ranch Branch Library\, 10433 Reserve Drive\, San Diego\, CA 921
- 27
-DESCRIPTION:English as a Second Language Instructor led class for non-Engli
- sh speakers. No registration necessary. Meets in the 4S Ranch community ro
- om.\n\nMore info: https://sdcl.bibliocommons.com/events/6a3d85b94407827f8a
- a761ab\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6aa9a1d4a433d308573baabd@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261021T133000
-DTEND;TZID=America/Los_Angeles:20261021T153000
-SUMMARY:ESL English Language Class: Beginning
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
- nglish Language Class in partnership with the Laubach Literacy Council San
-  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa9a1d4a433d3
- 08573baabd\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:55582
-DTSTART:20261021T223000Z
-DTEND:20261021T233000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55582\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:2855 Cedar Rd\, Oceanside\, CA\, 92056\, US
-ROOM:John Landes Community Center Study Room
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:0cfedf58514b93eb331b@sandiego.events.mylibrary.digital
-DTSTART;TZID=America/Los_Angeles:20261021T163000
-DTEND;TZID=America/Los_Angeles:20261021T173000
-SUMMARY:English Corner: English Conversation
-LOCATION:North University Community Library\, San Diego
-STATUS:CONFIRMED
-DESCRIPTION:Community members with a basic grasp of English language can ha
- ve fun themed conversations and build relationships with one another. We w
- ill talk about ourselves\, our cultures\, and more.\n\nMore info: https://
- sandiego.events.mylibrary.digital\nListed by: San Diego Public Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:8d491910546f3817f700@sd-immigration-calendar
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261021T170000
-DTEND;TZID=America/Los_Angeles:20261021T190000
-SUMMARY:Free Citizenship Course (Virtual)
-LOCATION:Online via Zoom
-DESCRIPTION:Free citizenship classes offered by JFS in partnership with San
-  Diego County Library.\n\nMore info: https://www.jfssd.org/event/free-citi
- zenship-course-virtual-3/\nListed by: Jewish Family Service of San Diego
-CATEGORIES:Online,Citizenship
-END:VEVENT
-BEGIN:VEVENT
-UID:69488c3a8b29ea2800c55ccc@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261021T173000
-DTEND;TZID=America/Los_Angeles:20261021T184500
-SUMMARY:Pathways to Citizenship Tutoring Hour
-LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
-DESCRIPTION:Pathways to Citizenship will provide ESL & Citizenship tutoring
- . Learn more about specific eligibility requirements for naturalization. C
- ome get information to help navigate the pathway to Citizenship.\n\nMore i
- nfo: https://sdcl.bibliocommons.com/events/69488c3a8b29ea2800c55ccc\nListe
- d by: San Diego County Library
-CATEGORIES:Spanish,Citizenship,ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:2002974901850@eventbrite.com
-DTSTART:20261022T010000Z
-DTEND:20261022T030000Z
-SUMMARY:Know Your Rights: A Community Legal Education Forum
-LOCATION:Thomas Jefferson School of Law - Thomas Jefferson School of Law - 
- San Diego, CA 92101
-DESCRIPTION:Organized by H.O.L.S.\, this Know Your Rights panel covers immi
- gration\, housing\, constitutional protections\, and resources for victims
- .\n\nMore info: https://www.eventbrite.com/e/2002974901850\nListed by: Eve
- ntbrite
-DTSTAMP:20261017T000000Z
-CATEGORIES:Rights & civic
-END:VEVENT
-BEGIN:VEVENT
-UID:6a5a72e782c03c5c17d8b300@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261022T090000
-DTEND;TZID=America/Los_Angeles:20261022T121500
-SUMMARY:ESL 122
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
-  general information line at (619) 660-4264 or email district.specialproje
- cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a72e7
- 82c03c5c17d8b300\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:eb4892e48b6ed38b5fa8@sd-immigration-calendar
-DTSTART;TZID=America/Los_Angeles:20261022T093000
-DTEND;TZID=America/Los_Angeles:20261022T123500
-SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
- Library Learning Center)
-LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
- Centro de Aprendizaje\, 3368 Eureka Place Carlsbad\, California 92008
-DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
- ialized courses in English for non-native speakers. Apply online at miraco
- sta.edu/ncapply or drop in early and apply in person before the session be
- gins. ESL classes at the Library Learning Center will take place on the se
- cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
- ents/Calendar/Event/21630\nListed by: Carlsbad City Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a8795e4be1482002988e7aa@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261022T120000
-DTEND;TZID=America/Los_Angeles:20261022T141500
-SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
- s!
-LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
-  92069
-DESCRIPTION:Improve your conversation\, listening\, writing\, and reading s
- kills.Mejore sus habilidades de conversación\, escuchar\, escritura y lec
- tura.\n\nMore info: https://sdcl.bibliocommons.com/events/6a8795e4be148200
- 2988e7aa\nListed by: San Diego County Library
-CATEGORIES:Spanish,ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:10100-1792683000-1792693800@www.casafamiliar.org
-DTSTART;TZID=America/Los_Angeles:20261022T153000
-DTEND;TZID=America/Los_Angeles:20261022T183000
-SUMMARY:2026 Fall Festival
-LOCATION:San Ysidro Civic Center\, 212 W Park Ave. San Ysidro\, CA 92173\, 
- San Ysidro\, CA\, 92173\, United States
-DESCRIPTION:Join us for Casa Familiar’s 2026 Fall Festival! Our Fall Fest
- ival is a FREE family-friendly event for community members to enjoy a trad
- itional pumpkin patch in the heart of the San Ysidro. This year\, let your
-  cowboy spirit shine or surprise us with your favorite costume\, and come 
- celebrate with …\n\nMore info: https://www.casafamiliar.org/event/2026-f
- all-festival/\nListed by: Casa Familiar
-DTSTAMP:20261017T000000Z
-CATEGORIES:Community & culture,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:6aa0882b4378382c2abf677f@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261022T153000
-DTEND;TZID=America/Los_Angeles:20261022T173000
-SUMMARY:ESL English Language Class: Intermediate
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
- nglish Language Class in partnership with the Laubach Literacy Council San
-  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa0882b437838
- 2c2abf677f\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:cf1a4ba91f21e041ec19@sd-immigration-calendar
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261022T160000
-DTEND;TZID=America/Los_Angeles:20261022T180000
-SUMMARY:Know Your Rights – Literature Drops
-LOCATION:Central San Diego (in person\; location given on registration)
-DESCRIPTION:Weekly community walk delivering know-your-rights information t
- o voters\, workers\, and immigrant families in Central San Diego. Registra
- tion required.\n\nMore info: https://www.alliancesd.org/event/know-your-ri
- ghts-literature-drops/\nListed by: Alliance San Diego
-CATEGORIES:Rights & civic
-END:VEVENT
-BEGIN:VEVENT
-UID:2d34bb57c6e71c5ce19f@sd-immigration-calendar
-DTSTART;TZID=America/Los_Angeles:20261022T170000
-DTEND;TZID=America/Los_Angeles:20261022T190000
-SUMMARY:SOUTH: Citizenship Study Tables
-LOCATION:South Chula Vista Library\, 389 Orange Avenue Chula Vista\, Califo
- rnia 91911
-DESCRIPTION:The study table sessions will cover the main aspects of the cit
- izenship test: requirements and process, basic vocabulary, and specific qu
- estions and answers. The sessions will be in Spanish and English. For any 
- questions or concerns, please call South Chula Vista Library at (619)585-5
- 755.\n\nMore info: https://www.chulavistaca.gov/Home/Components/Calendar/E
- vent/39789\nListed by: Chula Vista Public Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:Citizenship
-END:VEVENT
-BEGIN:VEVENT
-UID:55604
-DTSTART:20261023T001500Z
-DTEND:20261023T010000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55604\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:330 North Coast Hwy\, Oceanside\, CA\, 92054\, US
-ROOM:Foundation Room
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:40d632db65aac1a52815@sd-immigration-calendar
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261022T173000
-DTEND;TZID=America/Los_Angeles:20261022T193000
-SUMMARY:Noche de Lotería Cívica
-LOCATION:Barrio Station\, 2175 Newton Ave\, San Diego\, CA
-DESCRIPTION:Spanish-language voter information night: learn about the 14 st
- ate propositions and 2 San Diego County measures\, what a yes or no vote m
- eans\, and your rights as a voter. Free\; coffee\, pan dulce and prizes. R
- egistration requested.\n\nMore info: https://tinyurl.com/loteriacivica\nLi
- sted by: Chicano Federation
-CATEGORIES:Rights & civic,Spanish,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:a38ada75e4ad51701907@sd-immigration-calendar
-DTSTAMP:20261017T000000Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Business 101: Financial Literacy (online workshop)
-LOCATION:Online
-DESCRIPTION:Free online workshop on tools and resources to protect financia
- l data and improve business operations.\n\nMore info: https://tinyurl.com/
- eaut3ne9\nListed by: Somali Family Service
-CATEGORIES:Online,Jobs & money,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:6abff8b8901b02002cbf94a7@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261023T110000
-DTEND;TZID=America/Los_Angeles:20261023T133000
-SUMMARY:ESL English Language Class: Intermediate
-LOCATION:Bonita-Sunnyside Branch Library\, 4375 Bonita Road\, Bonita\, CA 9
- 1902
-DESCRIPTION:Free English Language Class in partnership with the Laubach Lit
- eracy Council San Diego\, Fridays 11a - 1:30p\n\nMore info: https://sdcl.b
- ibliocommons.com/events/6abff8b8901b02002cbf94a7\nListed by: San Diego Cou
- nty Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:4e29de679654baf4ca7d@sandiego.events.mylibrary.digital
-DTSTART;TZID=America/Los_Angeles:20261023T130000
-DTEND;TZID=America/Los_Angeles:20261023T143000
-SUMMARY:Basic English Class
-LOCATION:Pacific Highlands Ranch Library\, San Diego
-STATUS:CONFIRMED
-DESCRIPTION:Learn basic English! This FREE six-week program is for beginnin
- g English speakers and no registration is required. Class meets Wednesdays
-  and Fridays from 1-2:30pm\, starting Wednesday\, October 7. Presented by 
- Poway Adult School and sponsored by the Friends of Rancho Penasquitos Bran
- ch Library. Class Dates: Wednesday\, October 7 - Community Room Friday\, O
- ctober - Room 123 Wednesday\, October 14 - Community Ro...\n\nMore info: h
- ttps://sandiego.events.mylibrary.digital\nListed by: San Diego Public Libr
- ary
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6aa72c5d7825b4006406bcd7@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261023T150000
-DTEND;TZID=America/Los_Angeles:20261023T170000
-SUMMARY:ESL English classes/ Clases de Ingles
-LOCATION:Encinitas Branch Library\, 540 Cornish Drive\, Encinitas\, CA 9202
- 4
-DESCRIPTION:Laubach Literacy Council of San Diego\, in partnership with the
-  County library\, is offering English classes. All materials are provided.
-  Space is limited. Please reach out to the library for registration. Lauba
- ch Literacy Council of San Diego en alianza con la Biblioteca del Condado 
- de San Diego …\n\nMore info: https://sdcl.bibliocommons.com/events/6aa72
- c5d7825b4006406bcd7\nListed by: San Diego County Library
-CATEGORIES:Spanish,ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:c48dfca7cc217d733ccf@sd-immigration-calendar
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261024T110000
-DTEND;TZID=America/Los_Angeles:20261024T150000
-SUMMARY:We The People's Field Day
-LOCATION:Partnership for the Advancement of New Americans (PANA)\, 5577 Uni
- versity Ave\, San Diego\, CA 92105
-DESCRIPTION:Family-friendly day: learn your voting rights\, get help unders
- tanding the voting process and returning your ballot securely\, games\, mu
- sic\, food and community resources. Bring your ballot. Registration reques
- ted.\n\nMore info: https://www.alliancesd.org/event/we-the-peoples-field-d
- ay/\nListed by: Alliance San Diego
-CATEGORIES:Rights & civic,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:6a5a70a97b79214226a94410@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261026T090000
-DTEND;TZID=America/Los_Angeles:20261026T134500
-SUMMARY:ESL 50 & 50S
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
-  general information line at (619) 660-4264 or email district.specialproje
- cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a70a9
- 7b79214226a94410\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:69698fcf992fc18a86ddb465@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261026T100000
-DTEND;TZID=America/Los_Angeles:20261026T120000
-SUMMARY:Neighborhood Healthcare Information Table
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:Neighborhood Healthcare goal is to provide kindness and empathy
-  as essential to the health of the community. Our mission is to improve th
- e health and happiness of the communities we serve by providing quality ca
- re to all\, regardless of situation or circumstance.\n\nMore info: https:/
- /sdcl.bibliocommons.com/events/69698fcf992fc18a86ddb465\nListed by: San Di
- ego County Library
-CATEGORIES:Tabling,Health,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:6a836d10d4b10d003007224f@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261026T103000
-DTEND;TZID=America/Los_Angeles:20261026T123000
-SUMMARY:Citizenship Course
-LOCATION:Lemon Grove Branch Library\, 3001 School Lane\, Lemon Grove\, CA 9
- 1945
-DESCRIPTION:Join a free 10-week Citizenship course with Jewish Family Servi
- ces conducted in English. You'll receive textbooks\, supplies\, access to 
- tablets for online assignments and test preparation. Enhance your speaking
- \, reading\, and writing skills for your Naturalization interview. Registe
- r today! Únete al …\n\nMore info: https://sdcl.bibliocommons.com/events
- /6a836d10d4b10d003007224f\nListed by: San Diego County Library
-CATEGORIES:Citizenship
-END:VEVENT
-BEGIN:VEVENT
-UID:69510-1793016000-1793019600@sdvlp.org
-DTSTART;TZID=America/Los_Angeles:20261026T120000
-DTEND;TZID=America/Los_Angeles:20261026T130000
-SUMMARY:Guardianship: Know Your Rights webinar
-DESCRIPTION:https://us02web.zoom.us/webinar/register/WN_HE-2YqUtT_iFIgF1SoH
- CJQ\n\nMore info: https://sdvlp.org/event/guardianship-know-your-rights-we
- binar-3/\nListed by: San Diego Volunteer Lawyer Program
-DTSTAMP:20261017T000000Z
-CATEGORIES:Online,Rights & civic
-END:VEVENT
-BEGIN:VEVENT
-UID:55491
-DTSTART:20261027T003000Z
-DTEND:20261027T013000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55491\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:4700 N River Rd\, Oceanside\, CA\, 92057\, US
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6ca089bcb2000116d633@sandiego.events.mylibrary.digital
-DTSTART;TZID=America/Los_Angeles:20261026T180000
-DTEND;TZID=America/Los_Angeles:20261026T193000
-SUMMARY:English Language Conversation
-LOCATION:Central Library\, San Diego
-STATUS:CONFIRMED
-DESCRIPTION:Enjoy practicing your English with other adults in a relaxed en
- vironment. Registration is preferred\, but not required. Drop-in attendees
-  are welcome. This group is for adult English Language learners who alread
- y speak some English and would like additional practice using it in spoken
-  conversation. Groups take place each Monday evening\, even if there is a 
- Padres Game. Please register to be notified of... Registration required.\n
- \nMore info: https://sandiego.events.mylibrary.digital\nListed by: San Die
- go Public Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:799d4570c391fb34ec07@sd-immigration-calendar
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261026T183000
-SUMMARY:Border Angels Book Club: Fresh Fruit\, Broken Bodies
-LOCATION:Virtual
-DESCRIPTION:Bimonthly book club on borderlands and immigration\; this month
-  Fresh Fruit\, Broken Bodies by Seth M. Holmes.\n\nListed by: Border Angel
- s
-CATEGORIES:Online,Community & culture,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:10194-1793091600-1793095200@www.casafamiliar.org
-DTSTART;TZID=America/Los_Angeles:20261027T090000
-DTEND;TZID=America/Los_Angeles:20261027T100000
-SUMMARY:Immigration Services
-LOCATION:Villa Nueva Apartments\, 1901 Del Sur Blvd\, 2nd Floor\, San Ysidr
- o\, CA\, 92173\, United States
-DESCRIPTION:Attend our free workshop to explore the immigration services of
- fered by Casa Familiar. Plus\, an opportunity to receive individual guidan
- ce and counselling after the session! You will learn about: Green Card Ren
- ewal Naturalization Family-Based Adjustment of Status Replacement Naturali
- zation …\n\nMore info: https://www.casafamiliar.org/event/immigration-se
- rvices/\nListed by: Casa Familiar
-DTSTAMP:20261017T000000Z
-CATEGORIES:Immigration legal
-END:VEVENT
-BEGIN:VEVENT
-UID:6a5a72e782c03c5c17d8b301@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261027T090000
-DTEND;TZID=America/Los_Angeles:20261027T121500
-SUMMARY:ESL 122
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
-  general information line at (619) 660-4264 or email district.specialproje
- cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a72e7
- 82c03c5c17d8b301\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:9339c18aa38ffb4589c7@sd-immigration-calendar
-DTSTART;TZID=America/Los_Angeles:20261027T093000
-DTEND;TZID=America/Los_Angeles:20261027T123500
-SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
- Library Learning Center)
-LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
- Centro de Aprendizaje\, 3368 Eureka Place Carlsbad\, California 92008
-DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
- ialized courses in English for non-native speakers. Apply online at miraco
- sta.edu/ncapply or drop in early and apply in person before the session be
- gins. ESL classes at the Library Learning Center will take place on the se
- cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
- ents/Calendar/Event/21631\nListed by: Carlsbad City Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:55514
-DTSTART:20261027T170000Z
-DTEND:20261027T180000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55514\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:804 Pier View Wy\, Oceanside\, CA\, 92054\, US
-ROOM:READS Program Space
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a84c281b20478002993c765@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261027T100000
-DTEND;TZID=America/Los_Angeles:20261027T120000
-SUMMARY:Citizenship Course
-LOCATION:Rancho San Diego Branch Library\, 11555 Via Rancho San Diego\, El 
- Cajon\, CA 92019
-DESCRIPTION:Join this free 10-week Citizenship Course instructed by Jewish 
- Family Service and conducted in English. Participants will receive a textb
- ook\, supplies\, and access to resources for online assignments and test p
- reparation. Strengthen your speaking\, reading\, and writing skills to con
- fidently prepare …\n\nMore info: https://sdcl.bibliocommons.com/events/6
- a84c281b20478002993c765\nListed by: San Diego County Library
-CATEGORIES:Citizenship
-END:VEVENT
-BEGIN:VEVENT
-UID:6a8795e4be1482002988e7ab@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261027T120000
-DTEND;TZID=America/Los_Angeles:20261027T141500
-SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
- s!
-LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
-  92069
-DESCRIPTION:Improve your conversation\, listening\, writing\, and reading s
- kills.Mejore sus habilidades de conversación\, escuchar\, escritura y lec
- tura.\n\nMore info: https://sdcl.bibliocommons.com/events/6a8795e4be148200
- 2988e7ab\nListed by: San Diego County Library
-CATEGORIES:Spanish,ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6acd0d89a85a2c00337ef44d@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261027T120000
-DTEND;TZID=America/Los_Angeles:20261027T143000
-SUMMARY:TABLE: CSA San Diego County
-LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
-DESCRIPTION:CSA San Diego County is a 501(c)(3) nonprofit organization whos
- e primary mission is to promote social justice and public welfare through 
- programs\, services\, and advocacy against all forms of discrimination\, i
- ncluding advocacy for the eradication of housing discrimination to assure 
- equal housing …\n\nMore info: https://sdcl.bibliocommons.com/events/6acd
- 0d89a85a2c00337ef44d\nListed by: San Diego County Library
-CATEGORIES:Spanish,Tabling,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:55560
-DTSTART:20261027T193000Z
-DTEND:20261027T203000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55560\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:455 Country Club Lane\, Oceanside\, CA\, 92054\, US
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a60025aa41369ab2c67c043@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261027T123000
-DTEND;TZID=America/Los_Angeles:20261027T153000
-SUMMARY:Clases de Ciudadanía por VAS Escuela para Adultos
-LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
-DESCRIPTION:La escuela de Adultos de Vista también ofrece clases de Ciudad
- anía. Enfoque de preparación en los examenes aprobados por USCIS\, prepa
- ración para la entrevista oral de USCIS\, y al mismo tiempo refuerza las 
- habilidades orales de lectura en Inglés. Pre-Requisito: Debe estar minimo
-  a nivel Comienzo …\n\nMore info: https://sdcl.bibliocommons.com/events/
- 6a60025aa41369ab2c67c043\nListed by: San Diego County Library
-CATEGORIES:Spanish,Citizenship
-END:VEVENT
-BEGIN:VEVENT
-UID:69a234bd1e64afd01e5ea0a2@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261027T133000
-DTEND;TZID=America/Los_Angeles:20261027T153000
-SUMMARY:La Maestra Community Health Centers Information Table
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:La Maestra Community Health Centers is a clinic that provides q
- uality health care as well as social services to improve the overall well-
- being of our communities. Some of the services offered through our circle 
- of care services include: accesses to our food pantry\, community garden\,
-  immigration …\n\nMore info: https://sdcl.bibliocommons.com/events/69a23
- 4bd1e64afd01e5ea0a2\nListed by: San Diego County Library
-CATEGORIES:Tabling,Health,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:6aa9a1b356fe62004a2fe5a9@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261027T133000
-DTEND;TZID=America/Los_Angeles:20261027T153000
-SUMMARY:ESL English Language Class: Beginning
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
- nglish Language Class in partnership with the Laubach Literacy Council San
-  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa9a1b356fe62
- 004a2fe5a9\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a0e2d88fab4ff0f649a84a0@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261027T150000
-DTEND;TZID=America/Los_Angeles:20261027T170000
-SUMMARY:TABLE: EDD Job Help--Búsqueda de Trabajo por EDD
-LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
-DESCRIPTION:Employee Development Department will be in the library providin
- g job leads\, coaching\, and resources in English and Spanish.El Departame
- nto de Desarrollo de Empleados estará en el vestíbulo brindando pistas l
- aborales\, entrenamiento y recursos en inglés y español.\n\nMore info: h
- ttps://sdcl.bibliocommons.com/events/6a0e2d88fab4ff0f649a84a0\nListed by: 
- San Diego County Library
-CATEGORIES:Spanish,Tabling,Jobs & money,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:6a85079ebf1aec09082b9037@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261027T160000
-DTEND;TZID=America/Los_Angeles:20261027T180000
-SUMMARY:Citizenship Course
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:Join this free 10-week Citizenship Course instructed by Jewish 
- Family Service and conducted in English. Participants will receive a textb
- ook\, supplies\, and access to resources for online assignments and test p
- reparation. Strengthen your speaking\, reading\, and writing skills to con
- fidently prepare …\n\nMore info: https://sdcl.bibliocommons.com/events/6
- a85079ebf1aec09082b9037\nListed by: San Diego County Library
-CATEGORIES:Citizenship
-END:VEVENT
-BEGIN:VEVENT
-UID:6aad603f4ea230006f348623@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261027T163000
-DTEND;TZID=America/Los_Angeles:20261027T173000
-SUMMARY:ESL Beginners Class
-LOCATION:Ramona Branch Library\, 1275 Main Street\, Ramona\, CA 92065
-DESCRIPTION:English as a second language classesInstructor led class for no
- n-English speakers. Please inquire at front desk for more information. Cla
- ses de inglés como segundo lenguajeClase dirigida por una instructora par
- a personas que no hablan inglés. Por favor\, pregunte en la recepción pa
- ra obtener más …\n\nMore info: https://sdcl.bibliocommons.com/events/6a
- ad603f4ea230006f348623\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:9c43db830709a74af293@sd-immigration-calendar
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261027T173000
-DTEND;TZID=America/Los_Angeles:20261027T193000
-SUMMARY:Noche de Lotería Cívica
-LOCATION:Barrio Station\, 2175 Newton Ave\, San Diego\, CA
-DESCRIPTION:Spanish-language voter information night: learn about the 14 st
- ate propositions and 2 San Diego County measures\, what a yes or no vote m
- eans\, and your rights as a voter. Free\; coffee\, pan dulce and prizes. R
- egistration requested.\n\nMore info: https://tinyurl.com/loteriacivica\nLi
- sted by: Chicano Federation
-CATEGORIES:Rights & civic,Spanish,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:7f7dbffb5e12fdfeb45a@sandiego.events.mylibrary.digital
-DTSTART;TZID=America/Los_Angeles:20261027T183000
-DTEND;TZID=America/Los_Angeles:20261027T193000
-SUMMARY:ESL Conversation Group
-LOCATION:Mira Mesa Library\, San Diego
-STATUS:CONFIRMED
-DESCRIPTION:Join us for casual\, friendly conversation designed to increase
-  participants'comfort with the English language and maybe make new friends
- .\n\nMore info: https://sandiego.events.mylibrary.digital\nListed by: San 
- Diego Public Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:ee5c0c01910410369ce5@sd-immigration-calendar
-DTSTAMP:20261017T000000Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:We the People: Claim Our Collective Power – Virtual Civic Engagem
- ent Training (Spanish session)
-LOCATION:Virtual
-DESCRIPTION:Spanish-language session of the free virtual civic engagement t
- raining series. Register at bit.ly/asdtraining2026.\n\nMore info: https://
- www.alliancesd.org/event/we-the-people-claim-our-collective-power/\nListed
-  by: Alliance San Diego
-CATEGORIES:Online,Spanish,Rights & civic,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:6a5a70a97b79214226a94411@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261028T090000
-DTEND;TZID=America/Los_Angeles:20261028T134500
-SUMMARY:ESL 50 & 50S
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
-  general information line at (619) 660-4264 or email district.specialproje
- cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a70a9
- 7b79214226a94411\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a874d6736204e08fbb5e791@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261028T100000
-DTEND;TZID=America/Los_Angeles:20261028T120000
-SUMMARY:Citizenship Course
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:Join this free 10-week Citizenship Course instructed by Jewish 
- Family Service and conducted in English. Participants will receive a textb
- ook\, supplies\, and access to resources for online assignments and test p
- reparation. Strengthen your speaking\, reading\, and writing skills to con
- fidently prepare …\n\nMore info: https://sdcl.bibliocommons.com/events/6
- a874d6736204e08fbb5e791\nListed by: San Diego County Library
-CATEGORIES:Citizenship
-END:VEVENT
-BEGIN:VEVENT
-UID:6930d6ff04caba2f00d3258f@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261028T120000
-DTEND;TZID=America/Los_Angeles:20261028T160000
-SUMMARY:San Diego Law Library Information Table
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:We are excited to partner with the San Diego Law Library to bri
- ng you access to legal databases and reference assistance. On the 2nd & 4t
- h Wednesday of the month\, from 12pm to 4pm\, a reference librarian from t
- he Law Library will be at our location. The Librarian can guide you to res
- ources to better …\n\nMore info: https://sdcl.bibliocommons.com/events/6
- 930d6ff04caba2f00d3258f\nListed by: San Diego County Library
-CATEGORIES:Tabling
-END:VEVENT
-BEGIN:VEVENT
-UID:c2be683e4dd9157ba2b7@sandiego.events.mylibrary.digital
-DTSTART;TZID=America/Los_Angeles:20261028T130000
-DTEND;TZID=America/Los_Angeles:20261028T143000
-SUMMARY:Basic English Class
-LOCATION:Pacific Highlands Ranch Library\, San Diego
-STATUS:CONFIRMED
-DESCRIPTION:Learn basic English! This FREE six-week program is for beginnin
- g English speakers and no registration is required. Class meets Wednesdays
-  and Fridays from 1-2:30pm\, starting Wednesday\, October 7. Presented by 
- Poway Adult School and sponsored by the Friends of Rancho Penasquitos Bran
- ch Library. Class Dates: Wednesday\, October 7 - Community Room Friday\, O
- ctober - Room 123 Wednesday\, October 14 - Community Ro...\n\nMore info: h
- ttps://sandiego.events.mylibrary.digital\nListed by: San Diego Public Libr
- ary
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a3d85b94407827f8aa761ac@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261028T133000
-DTEND;TZID=America/Los_Angeles:20261028T150000
-SUMMARY:English as a Second Language
-LOCATION:4S Ranch Branch Library\, 10433 Reserve Drive\, San Diego\, CA 921
- 27
-DESCRIPTION:English as a Second Language Instructor led class for non-Engli
- sh speakers. No registration necessary. Meets in the 4S Ranch community ro
- om.\n\nMore info: https://sdcl.bibliocommons.com/events/6a3d85b94407827f8a
- a761ac\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6aa9a1d4a433d308573baabf@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261028T133000
-DTEND;TZID=America/Los_Angeles:20261028T153000
-SUMMARY:ESL English Language Class: Beginning
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
- nglish Language Class in partnership with the Laubach Literacy Council San
-  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa9a1d4a433d3
- 08573baabf\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:55583
-DTSTART:20261028T223000Z
-DTEND:20261028T233000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55583\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:2855 Cedar Rd\, Oceanside\, CA\, 92056\, US
-ROOM:John Landes Community Center Study Room
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:b2cf7b1ce0e393f6bbb1@sd-immigration-calendar
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261028T170000
-DTEND;TZID=America/Los_Angeles:20261028T190000
-SUMMARY:Free Citizenship Course (Virtual)
-LOCATION:Online via Zoom
-DESCRIPTION:Free citizenship classes offered by JFS in partnership with San
-  Diego County Library.\n\nMore info: https://www.jfssd.org/event/free-citi
- zenship-course-virtual-3/\nListed by: Jewish Family Service of San Diego
-CATEGORIES:Online,Citizenship
-END:VEVENT
-BEGIN:VEVENT
-UID:69488c3a8b29ea2800c55ccd@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261028T173000
-DTEND;TZID=America/Los_Angeles:20261028T184500
-SUMMARY:Pathways to Citizenship Tutoring Hour
-LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
-DESCRIPTION:Pathways to Citizenship will provide ESL & Citizenship tutoring
- . Learn more about specific eligibility requirements for naturalization. C
- ome get information to help navigate the pathway to Citizenship.\n\nMore i
- nfo: https://sdcl.bibliocommons.com/events/69488c3a8b29ea2800c55ccd\nListe
- d by: San Diego County Library
-CATEGORIES:Spanish,Citizenship,ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a5a72e782c03c5c17d8b302@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261029T090000
-DTEND;TZID=America/Los_Angeles:20261029T121500
-SUMMARY:ESL 122
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
-  general information line at (619) 660-4264 or email district.specialproje
- cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a72e7
- 82c03c5c17d8b302\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:3ef2d7f04ad497875f5b@sd-immigration-calendar
-DTSTART;TZID=America/Los_Angeles:20261029T093000
-DTEND;TZID=America/Los_Angeles:20261029T123500
-SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
- Library Learning Center)
-LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
- Centro de Aprendizaje\, 3368 Eureka Place Carlsbad\, California 92008
-DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
- ialized courses in English for non-native speakers. Apply online at miraco
- sta.edu/ncapply or drop in early and apply in person before the session be
- gins. ESL classes at the Library Learning Center will take place on the se
- cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
- ents/Calendar/Event/21632\nListed by: Carlsbad City Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a8795e4be1482002988e7ac@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261029T120000
-DTEND;TZID=America/Los_Angeles:20261029T141500
-SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
- s!
-LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
-  92069
-DESCRIPTION:Improve your conversation\, listening\, writing\, and reading s
- kills.Mejore sus habilidades de conversación\, escuchar\, escritura y lec
- tura.\n\nMore info: https://sdcl.bibliocommons.com/events/6a8795e4be148200
- 2988e7ac\nListed by: San Diego County Library
-CATEGORIES:Spanish,ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6aa0882b4378382c2abf6780@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261029T153000
-DTEND;TZID=America/Los_Angeles:20261029T173000
-SUMMARY:ESL English Language Class: Intermediate
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
- nglish Language Class in partnership with the Laubach Literacy Council San
-  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa0882b437838
- 2c2abf6780\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:1647de0dcf7c2f1f74b8@sd-immigration-calendar
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261029T160000
-DTEND;TZID=America/Los_Angeles:20261029T180000
-SUMMARY:Know Your Rights – Literature Drops
-LOCATION:Central San Diego (in person\; location given on registration)
-DESCRIPTION:Weekly community walk delivering know-your-rights information t
- o voters\, workers\, and immigrant families in Central San Diego. Registra
- tion required.\n\nMore info: https://www.alliancesd.org/event/know-your-ri
- ghts-literature-drops/\nListed by: Alliance San Diego
-CATEGORIES:Rights & civic
-END:VEVENT
-BEGIN:VEVENT
-UID:8c66290ce0755882423d@sd-immigration-calendar
-DTSTART;TZID=America/Los_Angeles:20261029T170000
-DTEND;TZID=America/Los_Angeles:20261029T190000
-SUMMARY:SOUTH: Citizenship Study Tables
-LOCATION:South Chula Vista Library\, 389 Orange Avenue Chula Vista\, Califo
- rnia 91911
-DESCRIPTION:The study table sessions will cover the main aspects of the cit
- izenship test: requirements and process, basic vocabulary, and specific qu
- estions and answers. The sessions will be in Spanish and English. For any 
- questions or concerns, please call South Chula Vista Library at (619)585-5
- 755.\n\nMore info: https://www.chulavistaca.gov/Home/Components/Calendar/E
- vent/39790\nListed by: Chula Vista Public Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:Citizenship
-END:VEVENT
-BEGIN:VEVENT
-UID:55605
-DTSTART:20261030T001500Z
-DTEND:20261030T010000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55605\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:330 North Coast Hwy\, Oceanside\, CA\, 92054\, US
-ROOM:Foundation Room
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:86538364711607b78f3e@sd-immigration-calendar
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261029T173000
-DTEND;TZID=America/Los_Angeles:20261029T193000
-SUMMARY:Noche de Lotería Cívica
-LOCATION:Barrio Station\, 2175 Newton Ave\, San Diego\, CA
-DESCRIPTION:Spanish-language voter information night: learn about the 14 st
- ate propositions and 2 San Diego County measures\, what a yes or no vote m
- eans\, and your rights as a voter. Free\; coffee\, pan dulce and prizes. R
- egistration requested.\n\nMore info: https://tinyurl.com/loteriacivica\nLi
- sted by: Chicano Federation
-CATEGORIES:Rights & civic,Spanish,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:6abff8b8901b02002cbf94a8@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261030T110000
-DTEND;TZID=America/Los_Angeles:20261030T133000
-SUMMARY:ESL English Language Class: Intermediate
-LOCATION:Bonita-Sunnyside Branch Library\, 4375 Bonita Road\, Bonita\, CA 9
- 1902
-DESCRIPTION:Free English Language Class in partnership with the Laubach Lit
- eracy Council San Diego\, Fridays 11a - 1:30p\n\nMore info: https://sdcl.b
- ibliocommons.com/events/6abff8b8901b02002cbf94a8\nListed by: San Diego Cou
- nty Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a5a70a97b79214226a94412@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261102T090000
-DTEND;TZID=America/Los_Angeles:20261102T134500
-SUMMARY:ESL 50 & 50S
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
-  general information line at (619) 660-4264 or email district.specialproje
- cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a70a9
- 7b79214226a94412\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a836d10d4b10d0030072250@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261102T103000
-DTEND;TZID=America/Los_Angeles:20261102T123000
-SUMMARY:Citizenship Course
-LOCATION:Lemon Grove Branch Library\, 3001 School Lane\, Lemon Grove\, CA 9
- 1945
-DESCRIPTION:Join a free 10-week Citizenship course with Jewish Family Servi
- ces conducted in English. You'll receive textbooks\, supplies\, access to 
- tablets for online assignments and test preparation. Enhance your speaking
- \, reading\, and writing skills for your Naturalization interview. Registe
- r today! Únete al …\n\nMore info: https://sdcl.bibliocommons.com/events
- /6a836d10d4b10d0030072250\nListed by: San Diego County Library
-CATEGORIES:Citizenship
-END:VEVENT
-BEGIN:VEVENT
-UID:57480
-DTSTART:20261102T200000Z
-DTEND:20261102T220000Z
-SUMMARY:Job Lab
-LOCATION:804 Pier View Wy\, Oceanside\, CA\, 92054\, US
-ROOM:READS Program Space
-STATUS:CONFIRMED
-DESCRIPTION:If you have recently graduated\, are looking for a job\, changi
- ng careers or simply wish to improve your resume or interviewing skills\, 
- come to receive free\, individualized support with resumes\, job applicati
- ons\, navigating the job search process\, interviewing practice\, coaching
-  and more. …\n\nMore info: https://oceansidepl.librarycalendar.com/event
- /job-lab-57480\nListed by: Oceanside Public Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:Tabling,Jobs & money,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:10162-1793638800-1793649600@www.casafamiliar.org
-DTSTART;TZID=America/Los_Angeles:20261102T170000
-DTEND;TZID=America/Los_Angeles:20261102T200000
-SUMMARY:2026 Día de los Muertos Celebration
-LOCATION:San Ysidro Civic Center\, 212 W Park Ave. San Ysidro\, CA 92173\, 
- San Ysidro\, CA\, 92173\, United States
-DESCRIPTION:Join us for Casa Familiar’s 2026 Día de los Muertos Celebrat
- ion! We’re excited to bring back our annual celebration\, where we come 
- together to honor and remember our loved ones through an evening of art\, 
- culture\, and community. Everyone is welcome. Bring your family\, friends\
- , neighbors\, and …\n\nMore info: https://www.casafamiliar.org/event/202
- 6-dia-de-los-muertos/\nListed by: Casa Familiar
-DTSTAMP:20261017T000000Z
-CATEGORIES:Community & culture,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:55492
-DTSTART:20261103T013000Z
-DTEND:20261103T023000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55492\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:4700 N River Rd\, Oceanside\, CA\, 92057\, US
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a5a72e782c03c5c17d8b303@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261103T090000
-DTEND;TZID=America/Los_Angeles:20261103T121500
-SUMMARY:ESL 122
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
-  general information line at (619) 660-4264 or email district.specialproje
- cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a72e7
- 82c03c5c17d8b303\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:db17f906895bd76b61a6@sd-immigration-calendar
-DTSTART;TZID=America/Los_Angeles:20261103T093000
-DTEND;TZID=America/Los_Angeles:20261103T123500
-SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
- Library Learning Center)
-LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
- Centro de Aprendizaje\, 3368 Eureka Place Carlsbad\, California 92008
-DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
- ialized courses in English for non-native speakers. Apply online at miraco
- sta.edu/ncapply or drop in early and apply in person before the session be
- gins. ESL classes at the Library Learning Center will take place on the se
- cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
- ents/Calendar/Event/21633\nListed by: Carlsbad City Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:55515
-DTSTART:20261103T180000Z
-DTEND:20261103T190000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55515\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:804 Pier View Wy\, Oceanside\, CA\, 92054\, US
-ROOM:READS Program Space
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a84c281b20478002993c766@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261103T100000
-DTEND;TZID=America/Los_Angeles:20261103T120000
-SUMMARY:Citizenship Course
-LOCATION:Rancho San Diego Branch Library\, 11555 Via Rancho San Diego\, El 
- Cajon\, CA 92019
-DESCRIPTION:Join this free 10-week Citizenship Course instructed by Jewish 
- Family Service and conducted in English. Participants will receive a textb
- ook\, supplies\, and access to resources for online assignments and test p
- reparation. Strengthen your speaking\, reading\, and writing skills to con
- fidently prepare …\n\nMore info: https://sdcl.bibliocommons.com/events/6
- a84c281b20478002993c766\nListed by: San Diego County Library
-CATEGORIES:Citizenship
-END:VEVENT
-BEGIN:VEVENT
-UID:6a8795e4be1482002988e7ad@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261103T120000
-DTEND;TZID=America/Los_Angeles:20261103T141500
-SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
- s!
-LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
-  92069
-DESCRIPTION:Improve your conversation\, listening\, writing\, and reading s
- kills.Mejore sus habilidades de conversación\, escuchar\, escritura y lec
- tura.\n\nMore info: https://sdcl.bibliocommons.com/events/6a8795e4be148200
- 2988e7ad\nListed by: San Diego County Library
-CATEGORIES:Spanish,ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:55561
-DTSTART:20261103T203000Z
-DTEND:20261103T213000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55561\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:455 Country Club Lane\, Oceanside\, CA\, 92054\, US
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a60025aa41369ab2c67c044@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261103T123000
-DTEND;TZID=America/Los_Angeles:20261103T153000
-SUMMARY:Clases de Ciudadanía por VAS Escuela para Adultos
-LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
-DESCRIPTION:La escuela de Adultos de Vista también ofrece clases de Ciudad
- anía. Enfoque de preparación en los examenes aprobados por USCIS\, prepa
- ración para la entrevista oral de USCIS\, y al mismo tiempo refuerza las 
- habilidades orales de lectura en Inglés. Pre-Requisito: Debe estar minimo
-  a nivel Comienzo …\n\nMore info: https://sdcl.bibliocommons.com/events/
- 6a60025aa41369ab2c67c044\nListed by: San Diego County Library
-CATEGORIES:Spanish,Citizenship
-END:VEVENT
-BEGIN:VEVENT
-UID:6aa9a1b356fe62004a2fe5aa@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261103T133000
-DTEND;TZID=America/Los_Angeles:20261103T153000
-SUMMARY:ESL English Language Class: Beginning
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
- nglish Language Class in partnership with the Laubach Literacy Council San
-  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa9a1b356fe62
- 004a2fe5aa\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:693217156724c63d00e5503a@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261103T140000
-DTEND;TZID=America/Los_Angeles:20261103T160000
-SUMMARY:San Diego Community Health Center
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:The San Diego American Indian Health Center (SDAIHC)\, also kno
- wn as San Diego Community Health Center\, is a 501(c)(3) nonprofit organiz
- ation and a patient-centered health home that offers comprehensive medical
- \, dental\, behavioral health\, and community wellness services available 
- to all people of …\n\nMore info: https://sdcl.bibliocommons.com/events/6
- 93217156724c63d00e5503a\nListed by: San Diego County Library
-CATEGORIES:Tabling,Health,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:6a8b864d29a7dd0d67460c9c@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261103T150000
-DTEND;TZID=America/Los_Angeles:20261103T170000
-SUMMARY:TABLE: EDD Job Help--Búsqueda de Trabajo por EDD
-LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
-DESCRIPTION:Employee Development Department will be in the library providin
- g job leads\, coaching\, and resources in English and Spanish.El Departame
- nto de Desarrollo de Empleados estará en el vestíbulo brindando pistas l
- aborales\, entrenamiento y recursos en inglés y español.\n\nMore info: h
- ttps://sdcl.bibliocommons.com/events/6a8b864d29a7dd0d67460c9c\nListed by: 
- San Diego County Library
-CATEGORIES:Spanish,Tabling,Jobs & money,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:6a85079ebf1aec09082b9038@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261103T160000
-DTEND;TZID=America/Los_Angeles:20261103T180000
-SUMMARY:Citizenship Course
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:Join this free 10-week Citizenship Course instructed by Jewish 
- Family Service and conducted in English. Participants will receive a textb
- ook\, supplies\, and access to resources for online assignments and test p
- reparation. Strengthen your speaking\, reading\, and writing skills to con
- fidently prepare …\n\nMore info: https://sdcl.bibliocommons.com/events/6
- a85079ebf1aec09082b9038\nListed by: San Diego County Library
-CATEGORIES:Citizenship
-END:VEVENT
-BEGIN:VEVENT
-UID:6aad603f4ea230006f348624@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261103T163000
-DTEND;TZID=America/Los_Angeles:20261103T173000
-SUMMARY:ESL Beginners Class
-LOCATION:Ramona Branch Library\, 1275 Main Street\, Ramona\, CA 92065
-DESCRIPTION:English as a second language classesInstructor led class for no
- n-English speakers. Please inquire at front desk for more information. Cla
- ses de inglés como segundo lenguajeClase dirigida por una instructora par
- a personas que no hablan inglés. Por favor\, pregunte en la recepción pa
- ra obtener más …\n\nMore info: https://sdcl.bibliocommons.com/events/6a
- ad603f4ea230006f348624\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a5a70a97b79214226a94413@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261104T090000
-DTEND;TZID=America/Los_Angeles:20261104T134500
-SUMMARY:ESL 50 & 50S
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
-  general information line at (619) 660-4264 or email district.specialproje
- cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a70a9
- 7b79214226a94413\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a874d6736204e08fbb5e792@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261104T100000
-DTEND;TZID=America/Los_Angeles:20261104T120000
-SUMMARY:Citizenship Course
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:Join this free 10-week Citizenship Course instructed by Jewish 
- Family Service and conducted in English. Participants will receive a textb
- ook\, supplies\, and access to resources for online assignments and test p
- reparation. Strengthen your speaking\, reading\, and writing skills to con
- fidently prepare …\n\nMore info: https://sdcl.bibliocommons.com/events/6
- a874d6736204e08fbb5e792\nListed by: San Diego County Library
-CATEGORIES:Citizenship
-END:VEVENT
-BEGIN:VEVENT
-UID:6a3d85b94407827f8aa761ad@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261104T133000
-DTEND;TZID=America/Los_Angeles:20261104T150000
-SUMMARY:English as a Second Language
-LOCATION:4S Ranch Branch Library\, 10433 Reserve Drive\, San Diego\, CA 921
- 27
-DESCRIPTION:English as a Second Language Instructor led class for non-Engli
- sh speakers. No registration necessary. Meets in the 4S Ranch community ro
- om.\n\nMore info: https://sdcl.bibliocommons.com/events/6a3d85b94407827f8a
- a761ad\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6aa9a1d4a433d308573baac1@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261104T133000
-DTEND;TZID=America/Los_Angeles:20261104T153000
-SUMMARY:ESL English Language Class: Beginning
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
- nglish Language Class in partnership with the Laubach Literacy Council San
-  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa9a1d4a433d3
- 08573baac1\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:55584
-DTSTART:20261104T233000Z
-DTEND:20261105T003000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55584\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:2855 Cedar Rd\, Oceanside\, CA\, 92056\, US
-ROOM:John Landes Community Center Study Room
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:88152f8a73c1ffc8b745@sd-immigration-calendar
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261104T170000
-DTEND;TZID=America/Los_Angeles:20261104T190000
-SUMMARY:Free Citizenship Course (Virtual)
-LOCATION:Online via Zoom
-DESCRIPTION:Free citizenship classes offered by JFS in partnership with San
-  Diego County Library.\n\nMore info: https://www.jfssd.org/event/free-citi
- zenship-course-virtual-3/\nListed by: Jewish Family Service of San Diego
-CATEGORIES:Online,Citizenship
-END:VEVENT
-BEGIN:VEVENT
-UID:69488c3a8b29ea2800c55cce@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261104T173000
-DTEND;TZID=America/Los_Angeles:20261104T184500
-SUMMARY:Pathways to Citizenship Tutoring Hour
-LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
-DESCRIPTION:Pathways to Citizenship will provide ESL & Citizenship tutoring
- . Learn more about specific eligibility requirements for naturalization. C
- ome get information to help navigate the pathway to Citizenship.\n\nMore i
- nfo: https://sdcl.bibliocommons.com/events/69488c3a8b29ea2800c55cce\nListe
- d by: San Diego County Library
-CATEGORIES:Spanish,Citizenship,ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a5a72e782c03c5c17d8b304@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261105T090000
-DTEND;TZID=America/Los_Angeles:20261105T121500
-SUMMARY:ESL 122
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
-  general information line at (619) 660-4264 or email district.specialproje
- cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a72e7
- 82c03c5c17d8b304\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:fca2ad3b49a9ce11252f@sd-immigration-calendar
-DTSTART;TZID=America/Los_Angeles:20261105T093000
-DTEND;TZID=America/Los_Angeles:20261105T123500
-SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
- Library Learning Center)
-LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
- Centro de Aprendizaje\, 3368 Eureka Place Carlsbad\, California 92008
-DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
- ialized courses in English for non-native speakers. Apply online at miraco
- sta.edu/ncapply or drop in early and apply in person before the session be
- gins. ESL classes at the Library Learning Center will take place on the se
- cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
- ents/Calendar/Event/21634\nListed by: Carlsbad City Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:4965-1793872800-1793876400@www.lassd.org
-DTSTART;TZID=America/Los_Angeles:20261105T100000
-DTEND;TZID=America/Los_Angeles:20261105T110000
-SUMMARY:Family Law Information Session
-LOCATION:https://www.lassd.org/event/family-law-information-session/
-DESCRIPTION:Want to learn about divorce\, child custody\, child support\, s
- pousal support and more? Join the Family Law Team for a virtual informatio
- nal presentation! This virtual presentation is for: People with active cas
- es. People who want more information before starting a case. Anyone who wa
- nts to learn …\n\nMore info: https://www.lassd.org/event/family-law-info
- rmation-session/\nListed by: Legal Aid Society of San Diego
-DTSTAMP:20261017T000000Z
-CATEGORIES:Tabling,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:69a233391e64afd01e5e9ff6@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261105T100000
-DTEND;TZID=America/Los_Angeles:20261105T120000
-SUMMARY:Family Health Centers of San Diego Information Table
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:Family Health Centers of San Diego is dedicated to providing ca
- ring\, affordable\, high-quality healthcare and supportive services to eve
- ryone\, with special commitment to uninsured low-income and medically unde
- rserved persons.\n\nMore info: https://sdcl.bibliocommons.com/events/69a23
- 3391e64afd01e5e9ff6\nListed by: San Diego County Library
-CATEGORIES:Tabling,Health,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:6a8795e4be1482002988e7ae@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261105T120000
-DTEND;TZID=America/Los_Angeles:20261105T141500
-SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
- s!
-LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
-  92069
-DESCRIPTION:Improve your conversation\, listening\, writing\, and reading s
- kills.Mejore sus habilidades de conversación\, escuchar\, escritura y lec
- tura.\n\nMore info: https://sdcl.bibliocommons.com/events/6a8795e4be148200
- 2988e7ae\nListed by: San Diego County Library
-CATEGORIES:Spanish,ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6aa0882b4378382c2abf6781@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261105T153000
-DTEND;TZID=America/Los_Angeles:20261105T173000
-SUMMARY:ESL English Language Class: Intermediate
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
- nglish Language Class in partnership with the Laubach Literacy Council San
-  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa0882b437838
- 2c2abf6781\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:10055-1793898000-1793905200@www.casafamiliar.org
-DTSTART;TZID=America/Los_Angeles:20261105T170000
-DTEND;TZID=America/Los_Angeles:20261105T190000
-SUMMARY:How to Apply to Affordable Housing
-LOCATION:El Salón\, 114 West Hall Avenue\, San Ysidro\, California\, 92173
- \, United States
-DESCRIPTION:Join us for a FREE workshop designed to help residents better u
- nderstand the Affordable Housing application process. What we will cover: 
- What is Affordable Housing Eligibility and Income Limits Overview of the a
- pplication process Review the required documentation for your application 
- Choose a date …\n\nMore info: https://www.casafamiliar.org/event/how-to-
- apply-to-affordable-housing-nov5/\nListed by: Casa Familiar
-DTSTAMP:20261017T000000Z
-CATEGORIES:Housing,Rights & civic,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:9bf71784d09d27eb656a@sd-immigration-calendar
-DTSTART;TZID=America/Los_Angeles:20261105T170000
-DTEND;TZID=America/Los_Angeles:20261105T190000
-SUMMARY:SOUTH: Citizenship Study Tables
-LOCATION:South Chula Vista Library\, 389 Orange Avenue Chula Vista\, Califo
- rnia 91911
-DESCRIPTION:The study table sessions will cover the main aspects of the cit
- izenship test: requirements and process, basic vocabulary, and specific qu
- estions and answers. The sessions will be in Spanish and English. For any 
- questions or concerns, please call South Chula Vista Library at (619)585-5
- 755.\n\nMore info: https://www.chulavistaca.gov/Home/Components/Calendar/E
- vent/39791\nListed by: Chula Vista Public Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:Citizenship
-END:VEVENT
-BEGIN:VEVENT
-UID:55606
-DTSTART:20261106T011500Z
-DTEND:20261106T020000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55606\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:330 North Coast Hwy\, Oceanside\, CA\, 92054\, US
-ROOM:Foundation Room
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6abff8b8901b02002cbf94a9@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261106T110000
-DTEND;TZID=America/Los_Angeles:20261106T133000
-SUMMARY:ESL English Language Class: Intermediate
-LOCATION:Bonita-Sunnyside Branch Library\, 4375 Bonita Road\, Bonita\, CA 9
- 1902
-DESCRIPTION:Free English Language Class in partnership with the Laubach Lit
- eracy Council San Diego\, Fridays 11a - 1:30p\n\nMore info: https://sdcl.b
- ibliocommons.com/events/6abff8b8901b02002cbf94a9\nListed by: San Diego Cou
- nty Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:69a23460491b809c6f1d0cfb@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261106T130000
-DTEND;TZID=America/Los_Angeles:20261106T150000
-SUMMARY:CSA San Diego - Fair Housing Table Information Table
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:CSA San Diego County is a 501(c)(3) nonprofit organization whos
- e primary mission is to promote social justice and public welfare through 
- programs\, services\, and advocacy against all forms of discrimination\, i
- ncluding advocacy for the eradication of housing discrimination to assure 
- equal housing …\n\nMore info: https://sdcl.bibliocommons.com/events/69a2
- 3460491b809c6f1d0cfb\nListed by: San Diego County Library
-CATEGORIES:Housing,Rights & civic,Tabling,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:6a5a70a97b79214226a94414@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261109T090000
-DTEND;TZID=America/Los_Angeles:20261109T134500
-SUMMARY:ESL 50 & 50S
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
-  general information line at (619) 660-4264 or email district.specialproje
- cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a70a9
- 7b79214226a94414\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a836d10d4b10d0030072251@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261109T103000
-DTEND;TZID=America/Los_Angeles:20261109T123000
-SUMMARY:Citizenship Course
-LOCATION:Lemon Grove Branch Library\, 3001 School Lane\, Lemon Grove\, CA 9
- 1945
-DESCRIPTION:Join a free 10-week Citizenship course with Jewish Family Servi
- ces conducted in English. You'll receive textbooks\, supplies\, access to 
- tablets for online assignments and test preparation. Enhance your speaking
- \, reading\, and writing skills for your Naturalization interview. Registe
- r today! Únete al …\n\nMore info: https://sdcl.bibliocommons.com/events
- /6a836d10d4b10d0030072251\nListed by: San Diego County Library
-CATEGORIES:Citizenship
-END:VEVENT
-BEGIN:VEVENT
-UID:55493
-DTSTART:20261110T013000Z
-DTEND:20261110T023000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55493\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:4700 N River Rd\, Oceanside\, CA\, 92057\, US
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a5a72e782c03c5c17d8b305@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261110T090000
-DTEND;TZID=America/Los_Angeles:20261110T121500
-SUMMARY:ESL 122
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
-  general information line at (619) 660-4264 or email district.specialproje
- cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a72e7
- 82c03c5c17d8b305\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
 UID:8139d90bb8f6cef9bf47@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261110T093000
 DTEND;TZID=America/Los_Angeles:20261110T123500
 SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
@@ -1896,56 +38,28 @@ DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
  gins. ESL classes at the Library Learning Center will take place on the se
  cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
  ents/Calendar/Event/21635\nListed by: Carlsbad City Library
-DTSTAMP:20261017T000000Z
 CATEGORIES:ESL
 END:VEVENT
 BEGIN:VEVENT
-UID:4718-1794304800-1794308400@www.lassd.org
-DTSTART;TZID=America/Los_Angeles:20261110T100000
-DTEND;TZID=America/Los_Angeles:20261110T110000
-SUMMARY:Fair Housing Basics
-LOCATION:https://www.lassd.org/event/fair-housing-basics-46/
-DESCRIPTION:Fair Housing Basics on Nov 10\, 2026\, 10:00 AM – 11:00 AM at
- : https://attendee.gotowebinar.com/register/3435264010380993629 Join Legal
-  Aid for a free webinar on your rights and responsibilities under anti-dis
- crimination laws. This training is open to anyone.\n\nMore info: https://w
- ww.lassd.org/event/fair-housing-basics-46/\nListed by: Legal Aid Society o
- f San Diego
-DTSTAMP:20261017T000000Z
-CATEGORIES:Housing,Rights & civic,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:55516
-DTSTART:20261110T180000Z
-DTEND:20261110T190000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55516\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:804 Pier View Wy\, Oceanside\, CA\, 92054\, US
-ROOM:READS Program Space
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a84c281b20478002993c767@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
+UID:8c10197cf6f0d857d9cc@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261110T100000
 DTEND;TZID=America/Los_Angeles:20261110T120000
-SUMMARY:Citizenship Course
-LOCATION:Rancho San Diego Branch Library\, 11555 Via Rancho San Diego\, El 
- Cajon\, CA 92019
-DESCRIPTION:Join this free 10-week Citizenship Course instructed by Jewish 
- Family Service and conducted in English. Participants will receive a textb
- ook\, supplies\, and access to resources for online assignments and test p
- reparation. Strengthen your speaking\, reading\, and writing skills to con
- fidently prepare …\n\nMore info: https://sdcl.bibliocommons.com/events/6
- a84c281b20478002993c767\nListed by: San Diego County Library
+SUMMARY:Free Citizenship Course (Rancho San Diego)
+LOCATION:Rancho San Diego Library\, 11555 Via Rancho San Diego\, El Cajon\,
+  CA 92019
+DESCRIPTION:Free citizenship classes offered by JFS in partnership with San
+  Diego County Library.\n\nMore info: https://www.jfssd.org/calendar/\nList
+ ed by: Jewish Family Service of San Diego
 CATEGORIES:Citizenship
 END:VEVENT
 BEGIN:VEVENT
 UID:6a8795e4be1482002988e7af@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261110T120000
 DTEND;TZID=America/Los_Angeles:20261110T141500
 SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
@@ -1960,6 +74,9 @@ CATEGORIES:Spanish,ESL
 END:VEVENT
 BEGIN:VEVENT
 UID:55562
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART:20261110T203000Z
 DTEND:20261110T213000Z
 DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
@@ -1967,12 +84,13 @@ DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
 SUMMARY:Cafecito: English Practice
 LOCATION:455 Country Club Lane\, Oceanside\, CA\, 92054\, US
 STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
 CATEGORIES:ESL
 END:VEVENT
 BEGIN:VEVENT
 UID:6a60025aa41369ab2c67c045@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261110T123000
 DTEND;TZID=America/Los_Angeles:20261110T153000
 SUMMARY:Clases de Ciudadanía por VAS Escuela para Adultos
@@ -1986,23 +104,10 @@ DESCRIPTION:La escuela de Adultos de Vista también ofrece clases de Ciudad
 CATEGORIES:Spanish,Citizenship
 END:VEVENT
 BEGIN:VEVENT
-UID:69a234bd1e64afd01e5ea0a3@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261110T133000
-DTEND;TZID=America/Los_Angeles:20261110T153000
-SUMMARY:La Maestra Community Health Centers Information Table
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:La Maestra Community Health Centers is a clinic that provides q
- uality health care as well as social services to improve the overall well-
- being of our communities. Some of the services offered through our circle 
- of care services include: accesses to our food pantry\, community garden\,
-  immigration …\n\nMore info: https://sdcl.bibliocommons.com/events/69a23
- 4bd1e64afd01e5ea0a3\nListed by: San Diego County Library
-CATEGORIES:Tabling,Health,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
 UID:6aa9a1b356fe62004a2fe5ab@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261110T133000
 DTEND;TZID=America/Los_Angeles:20261110T153000
 SUMMARY:ESL English Language Class: Beginning
@@ -2015,7 +120,9 @@ CATEGORIES:ESL
 END:VEVENT
 BEGIN:VEVENT
 UID:6a85079ebf1aec09082b9039@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261110T160000
 DTEND;TZID=America/Los_Angeles:20261110T180000
 SUMMARY:Citizenship Course
@@ -2031,10 +138,14 @@ CATEGORIES:Citizenship
 END:VEVENT
 BEGIN:VEVENT
 UID:afd57edb96942834bffd@sd-immigration-calendar
-DTSTAMP:20261017T000000Z
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261110T160000
+DTEND;TZID=America/Los_Angeles:20261110T200000
 SUMMARY:Rhythms of East Africa
-LOCATION:San Diego (venue not stated)
+LOCATION:Liberty Station Conference Center\, 2600 Laning Rd\, San Diego\, C
+ A 92106
 DESCRIPTION:Evening celebrating East African culture with art\, food\, cult
  ural activities and stories. RSVP / tickets via link in bio.\n\nListed by:
   UWEAST
@@ -2042,7 +153,9 @@ CATEGORIES:Community & culture,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:6aad603f4ea230006f348625@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261110T163000
 DTEND;TZID=America/Los_Angeles:20261110T173000
 SUMMARY:ESL Beginners Class
@@ -2056,8 +169,60 @@ DESCRIPTION:English as a second language classesInstructor led class for no
 CATEGORIES:ESL
 END:VEVENT
 BEGIN:VEVENT
+UID:10271-1794330000-1794333600@www.casafamiliar.org
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261110T170000
+DTEND;TZID=America/Los_Angeles:20261110T180000
+SUMMARY:How to Apply to Affordable Housing
+LOCATION:Otay Mesa-Nestor Branch Library\, 3003 Coronado Avenue\, San Diego
+ \, CA\, 92154\, United States
+DESCRIPTION:Join us for a FREE workshop designed to help residents better u
+ nderstand the Affordable Housing application process. What we will cover: 
+ What is Affordable Housing Eligibility and Income Limits Overview of the a
+ pplication process Review the required documentation for your application 
+ Childcare and …\n\nMore info: https://www.casafamiliar.org/event/how-to-
+ apply-to-affordable-housing-otaymesa/\nListed by: Casa Familiar
+CATEGORIES:Housing,Rights & civic,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:12543b51c1f5b07876d2@sandiego.events.mylibrary.digital
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261110T180000
+DTEND;TZID=America/Los_Angeles:20261110T193000
+SUMMARY:Conversational English
+LOCATION:City Heights/Weingart Library\, San Diego
+STATUS:CONFIRMED
+DESCRIPTION:Want to practice your English in a friendly\, relaxed setting. 
+ Come and join us at the Library for conversational English with Leslie.\n\
+ nMore info: https://sandiego.events.mylibrary.digital\nListed by: San Dieg
+ o Public Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:8573ff0a3d56a557bd9e@sandiego.events.mylibrary.digital
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261110T183000
+DTEND;TZID=America/Los_Angeles:20261110T193000
+SUMMARY:ESL Conversation Group
+LOCATION:Mira Mesa Library\, San Diego
+STATUS:CONFIRMED
+DESCRIPTION:Join us for casual\, friendly conversation designed to increase
+  participants'comfort with the English language and maybe make new friends
+ .\n\nMore info: https://sandiego.events.mylibrary.digital\nListed by: San 
+ Diego Public Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
 UID:651d00c68d3d8b76a62f@sd-immigration-calendar
-DTSTAMP:20261017T000000Z
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261111T100000
 DTEND;TZID=America/Los_Angeles:20261111T120000
 SUMMARY:Free Citizenship Course (El Cajon)
@@ -2068,37 +233,10 @@ DESCRIPTION:Free citizenship classes offered by JFS in partnership with San
 CATEGORIES:Citizenship
 END:VEVENT
 BEGIN:VEVENT
-UID:6930d6ff04caba2f00d32590@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261111T120000
-DTEND;TZID=America/Los_Angeles:20261111T160000
-SUMMARY:San Diego Law Library Information Table
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:We are excited to partner with the San Diego Law Library to bri
- ng you access to legal databases and reference assistance. On the 2nd & 4t
- h Wednesday of the month\, from 12pm to 4pm\, a reference librarian from t
- he Law Library will be at our location. The Librarian can guide you to res
- ources to better …\n\nMore info: https://sdcl.bibliocommons.com/events/6
- 930d6ff04caba2f00d32590\nListed by: San Diego County Library
-CATEGORIES:Tabling
-END:VEVENT
-BEGIN:VEVENT
-UID:6a3d85b94407827f8aa761ae@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261111T133000
-DTEND;TZID=America/Los_Angeles:20261111T150000
-SUMMARY:English as a Second Language
-LOCATION:4S Ranch Branch Library\, 10433 Reserve Drive\, San Diego\, CA 921
- 27
-DESCRIPTION:English as a Second Language Instructor led class for non-Engli
- sh speakers. No registration necessary. Meets in the 4S Ranch community ro
- om.\n\nMore info: https://sdcl.bibliocommons.com/events/6a3d85b94407827f8a
- a761ae\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
 UID:26a874db88d23a6f45f4@sd-immigration-calendar
-DTSTAMP:20261017T000000Z
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261111T170000
 DTEND;TZID=America/Los_Angeles:20261111T190000
 SUMMARY:Free Citizenship Course (Virtual)
@@ -2109,22 +247,10 @@ DESCRIPTION:Free citizenship classes offered by JFS in partnership with San
 CATEGORIES:Online,Citizenship
 END:VEVENT
 BEGIN:VEVENT
-UID:69488c3a8b29ea2800c55ccf@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261111T173000
-DTEND;TZID=America/Los_Angeles:20261111T184500
-SUMMARY:Pathways to Citizenship Tutoring Hour
-LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
-DESCRIPTION:Pathways to Citizenship will provide ESL & Citizenship tutoring
- . Learn more about specific eligibility requirements for naturalization. C
- ome get information to help navigate the pathway to Citizenship.\n\nMore i
- nfo: https://sdcl.bibliocommons.com/events/69488c3a8b29ea2800c55ccf\nListe
- d by: San Diego County Library
-CATEGORIES:Spanish,Citizenship,ESL
-END:VEVENT
-BEGIN:VEVENT
 UID:6a5a72e782c03c5c17d8b306@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261112T090000
 DTEND;TZID=America/Los_Angeles:20261112T121500
 SUMMARY:ESL 122
@@ -2138,6 +264,9 @@ CATEGORIES:ESL
 END:VEVENT
 BEGIN:VEVENT
 UID:8c0915a45c4a8e827295@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261112T093000
 DTEND;TZID=America/Los_Angeles:20261112T123500
 SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
@@ -2150,12 +279,13 @@ DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
  gins. ESL classes at the Library Learning Center will take place on the se
  cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
  ents/Calendar/Event/21636\nListed by: Carlsbad City Library
-DTSTAMP:20261017T000000Z
 CATEGORIES:ESL
 END:VEVENT
 BEGIN:VEVENT
 UID:6a8795e4be1482002988e7b0@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261112T120000
 DTEND;TZID=America/Los_Angeles:20261112T141500
 SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
@@ -2170,7 +300,9 @@ CATEGORIES:Spanish,ESL
 END:VEVENT
 BEGIN:VEVENT
 UID:6aa0882b4378382c2abf6782@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261112T153000
 DTEND;TZID=America/Los_Angeles:20261112T173000
 SUMMARY:ESL English Language Class: Intermediate
@@ -2183,6 +315,9 @@ CATEGORIES:ESL
 END:VEVENT
 BEGIN:VEVENT
 UID:4736-1794502800-1794506400@www.lassd.org
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261112T170000
 DTEND;TZID=America/Los_Angeles:20261112T180000
 SUMMARY:Tenants’ Rights Webinar
@@ -2192,11 +327,13 @@ DESCRIPTION:In partnership with Assemblymember Tasha Boerner\, Director of
  p.m. This event is open to the public. Gil will share important informatio
  n about local …\n\nMore info: https://www.lassd.org/event/tenants-rights
  -webinar/\nListed by: Legal Aid Society of San Diego
-DTSTAMP:20261017T000000Z
 CATEGORIES:Online,Rights & civic,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:a672e089cc97013abe93@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261112T170000
 DTEND;TZID=America/Los_Angeles:20261112T190000
 SUMMARY:SOUTH: Citizenship Study Tables
@@ -2208,11 +345,13 @@ DESCRIPTION:The study table sessions will cover the main aspects of the cit
  questions or concerns, please call South Chula Vista Library at (619)585-5
  755.\n\nMore info: https://www.chulavistaca.gov/Home/Components/Calendar/E
  vent/39781\nListed by: Chula Vista Public Library
-DTSTAMP:20261017T000000Z
 CATEGORIES:Citizenship
 END:VEVENT
 BEGIN:VEVENT
 UID:55607
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART:20261113T011500Z
 DTEND:20261113T020000Z
 DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
@@ -2221,12 +360,31 @@ SUMMARY:Cafecito: English Practice
 LOCATION:330 North Coast Hwy\, Oceanside\, CA\, 92054\, US
 ROOM:Foundation Room
 STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
 CATEGORIES:ESL
 END:VEVENT
 BEGIN:VEVENT
+UID:10246-1794560400-1794564000@www.casafamiliar.org
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261113T090000
+DTEND;TZID=America/Los_Angeles:20261113T100000
+SUMMARY:Citizenship Made Simple
+LOCATION:Villa Nueva Apartments\, 1901 Del Sur Blvd\, 2nd Floor\, San Ysidr
+ o\, CA\, 92173\, United States
+DESCRIPTION:Join us to explore citizenship opportunities\, learn about elig
+ ibility requirements\, and receive information on how Casa Familiar can su
+ pport you through the application process. Plus\, an opportunity to receiv
+ e individual guidance and counselling after the session!\n\nMore info: htt
+ ps://www.casafamiliar.org/event/citizenship-made-simple/\nListed by: Casa 
+ Familiar
+CATEGORIES:Citizenship
+END:VEVENT
+BEGIN:VEVENT
 UID:6abff8b8901b02002cbf94aa@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261113T110000
 DTEND;TZID=America/Los_Angeles:20261113T133000
 SUMMARY:ESL English Language Class: Intermediate
@@ -2239,8 +397,30 @@ DESCRIPTION:Free English Language Class in partnership with the Laubach Lit
 CATEGORIES:ESL
 END:VEVENT
 BEGIN:VEVENT
+UID:409e9ad21cb13c74662c@sandiego.events.mylibrary.digital
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261113T130000
+DTEND;TZID=America/Los_Angeles:20261113T143000
+SUMMARY:Basic English Class
+LOCATION:Pacific Highlands Ranch Library\, San Diego
+STATUS:CONFIRMED
+DESCRIPTION:Learn basic English! This FREE six-week program is for beginnin
+ g English speakers and no registration is required. Class meets Wednesdays
+  and Fridays from 1-2:30pm\, starting Wednesday\, October 7. Presented by 
+ Poway Adult School and sponsored by the Friends of Rancho Penasquitos Bran
+ ch Library. Class Dates: Wednesday\, October 7 - Community Room Friday\, O
+ ctober - Room 123 Wednesday\, October 14 - Community Ro...\n\nMore info: h
+ ttps://sandiego.events.mylibrary.digital\nListed by: San Diego Public Libr
+ ary
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
 UID:6aa72bdfa29f1b002adc5f2a@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261113T150000
 DTEND;TZID=America/Los_Angeles:20261113T170000
 SUMMARY:ESL English classes/ Clases de Ingles
@@ -2255,39 +435,10 @@ DESCRIPTION:Laubach Literacy Council of San Diego\, in partnership with the
 CATEGORIES:Spanish,ESL
 END:VEVENT
 BEGIN:VEVENT
-UID:69335bb994297d36009e7fe8@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261114T100000
-DTEND;TZID=America/Los_Angeles:20261114T140000
-SUMMARY:Child Support Services
-LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
-DESCRIPTION:Department of Child Support Services will be onsite\, the secon
- d Saturday of the month from 10AM-2PM\, to help with your child support ne
- eds and to provide resources. If you can’t make it\, join us on Zoom. Cl
- ick bit.ly/ZoomNowWithDCSS More information here: Department of Child Supp
- ort Services …\n\nMore info: https://sdcl.bibliocommons.com/events/69335
- bb994297d36009e7fe8\nListed by: San Diego County Library
-CATEGORIES:Spanish,Tabling,Family & youth,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
-UID:0112b9eafbe590a038a4@sd-immigration-calendar
-DTSTART;TZID=America/Los_Angeles:20261114T110000
-DTEND;TZID=America/Los_Angeles:20261114T120000
-SUMMARY:Free Notary Service
-LOCATION:National City Public Library\, 1401 National City Blvd National Ci
- ty\, California 91950
-DESCRIPTION:Are you in need of a reliable notary service? Look no further! 
- National City Public Library will be offering FREE Notary Services on the 
- 2nd Saturday of the month from 11:00 am - 12:00PM. Notary Services provide
- d by Ditas Yamane. National City Public Library card required. Walk-ins we
- lcome but …\n\nMore info: https://www.nationalcityca.gov/Home/Components
- /Calendar/Event/24484\nListed by: National City Public Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:Tabling,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
 UID:6a5a70a97b79214226a94415@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261116T090000
 DTEND;TZID=America/Los_Angeles:20261116T134500
 SUMMARY:ESL 50 & 50S
@@ -2301,7 +452,9 @@ CATEGORIES:ESL
 END:VEVENT
 BEGIN:VEVENT
 UID:69a235101e64afd01e5ea0b5@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261116T100000
 DTEND;TZID=America/Los_Angeles:20261116T130000
 SUMMARY:Office of Immigrant and Refugee Affairs Information Table
@@ -2316,7 +469,9 @@ CATEGORIES:Immigration legal,Tabling
 END:VEVENT
 BEGIN:VEVENT
 UID:6a836d10d4b10d0030072252@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261116T103000
 DTEND;TZID=America/Los_Angeles:20261116T123000
 SUMMARY:Citizenship Course
@@ -2332,6 +487,9 @@ CATEGORIES:Citizenship
 END:VEVENT
 BEGIN:VEVENT
 UID:69516-1794830400-1794834000@sdvlp.org
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261116T120000
 DTEND;TZID=America/Los_Angeles:20261116T130000
 SUMMARY:Guardianship: Know Your Rights webinar
@@ -2339,28 +497,13 @@ DESCRIPTION:Welcome! You are invited to join a webinar: Know Your Rights: P
  robate Guardianship Information for P…\n\nMore info: https://sdvlp.org/e
  vent/guardianship-know-your-rights-webinar-6/\nListed by: San Diego Volunt
  eer Lawyer Program
-DTSTAMP:20261017T000000Z
 CATEGORIES:Online,Rights & civic
 END:VEVENT
 BEGIN:VEVENT
-UID:57481
-DTSTART:20261116T200000Z
-DTEND:20261116T220000Z
-SUMMARY:Job Lab
-LOCATION:804 Pier View Wy\, Oceanside\, CA\, 92054\, US
-ROOM:READS Program Space
-STATUS:CONFIRMED
-DESCRIPTION:If you have recently graduated\, are looking for a job\, changi
- ng careers or simply wish to improve your resume or interviewing skills\, 
- come to receive free\, individualized support with resumes\, job applicati
- ons\, navigating the job search process\, interviewing practice\, coaching
-  and more. …\n\nMore info: https://oceansidepl.librarycalendar.com/event
- /job-lab-57481\nListed by: Oceanside Public Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:Tabling,Jobs & money,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
 UID:55494
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART:20261117T013000Z
 DTEND:20261117T023000Z
 DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
@@ -2368,7 +511,1860 @@ DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
 SUMMARY:Cafecito: English Practice
 LOCATION:4700 N River Rd\, Oceanside\, CA\, 92057\, US
 STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:d8c0f32e7af87c6cbafa@sandiego.events.mylibrary.digital
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261116T180000
+DTEND;TZID=America/Los_Angeles:20261116T193000
+SUMMARY:English Language Conversation
+LOCATION:Central Library\, San Diego
+STATUS:CONFIRMED
+DESCRIPTION:Enjoy practicing your English with other adults in a relaxed en
+ vironment. Registration is not required. Drop-in attendees are welcome. Th
+ is group is for adult English Language learners who already speak some Eng
+ lish and would like additional practice using it in spoken conversation. G
+ roups take place each Monday evening\, even if there is a Padres Game. Ple
+ ase register to be notified of unexpected can... Registration required.\n\
+ nMore info: https://sandiego.events.mylibrary.digital\nListed by: San Dieg
+ o Public Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5a72e782c03c5c17d8b307@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261117T090000
+DTEND;TZID=America/Los_Angeles:20261117T121500
+SUMMARY:ESL 122
+LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
+ 91963
+DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
+  general information line at (619) 660-4264 or email district.specialproje
+ cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a72e7
+ 82c03c5c17d8b307\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:a950e123153ab4f2ebba@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261117T093000
+DTEND;TZID=America/Los_Angeles:20261117T123500
+SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
+ Library Learning Center)
+LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
+ Centro de Aprendizaje\, 3368 Eureka Place Carlsbad\, California 92008
+DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
+ ialized courses in English for non-native speakers. Apply online at miraco
+ sta.edu/ncapply or drop in early and apply in person before the session be
+ gins. ESL classes at the Library Learning Center will take place on the se
+ cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
+ ents/Calendar/Event/21637\nListed by: Carlsbad City Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:55517
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261117T180000Z
+DTEND:20261117T190000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55517\nListed by: Oceanside Public Library
+SUMMARY:Cafecito: English Practice
+LOCATION:804 Pier View Wy\, Oceanside\, CA\, 92054\, US
+ROOM:READS Program Space
+STATUS:CONFIRMED
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a84c281b20478002993c768@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261117T100000
+DTEND;TZID=America/Los_Angeles:20261117T120000
+SUMMARY:Citizenship Course
+LOCATION:Rancho San Diego Branch Library\, 11555 Via Rancho San Diego\, El 
+ Cajon\, CA 92019
+DESCRIPTION:Join this free 10-week Citizenship Course instructed by Jewish 
+ Family Service and conducted in English. Participants will receive a textb
+ ook\, supplies\, and access to resources for online assignments and test p
+ reparation. Strengthen your speaking\, reading\, and writing skills to con
+ fidently prepare …\n\nMore info: https://sdcl.bibliocommons.com/events/6
+ a84c281b20478002993c768\nListed by: San Diego County Library
+CATEGORIES:Citizenship
+END:VEVENT
+BEGIN:VEVENT
+UID:6a8795e4be1482002988e7b1@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261117T120000
+DTEND;TZID=America/Los_Angeles:20261117T141500
+SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
+ s!
+LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
+  92069
+DESCRIPTION:Improve your conversation\, listening\, writing\, and reading s
+ kills.Mejore sus habilidades de conversación\, escuchar\, escritura y lec
+ tura.\n\nMore info: https://sdcl.bibliocommons.com/events/6a8795e4be148200
+ 2988e7b1\nListed by: San Diego County Library
+CATEGORIES:Spanish,ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:55563
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261117T203000Z
+DTEND:20261117T213000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55563\nListed by: Oceanside Public Library
+SUMMARY:Cafecito: English Practice
+LOCATION:455 Country Club Lane\, Oceanside\, CA\, 92054\, US
+STATUS:CONFIRMED
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a60025aa41369ab2c67c046@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261117T123000
+DTEND;TZID=America/Los_Angeles:20261117T153000
+SUMMARY:Clases de Ciudadanía por VAS Escuela para Adultos
+LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
+DESCRIPTION:La escuela de Adultos de Vista también ofrece clases de Ciudad
+ anía. Enfoque de preparación en los examenes aprobados por USCIS\, prepa
+ ración para la entrevista oral de USCIS\, y al mismo tiempo refuerza las 
+ habilidades orales de lectura en Inglés. Pre-Requisito: Debe estar minimo
+  a nivel Comienzo …\n\nMore info: https://sdcl.bibliocommons.com/events/
+ 6a60025aa41369ab2c67c046\nListed by: San Diego County Library
+CATEGORIES:Spanish,Citizenship
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa9a1b356fe62004a2fe5ac@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261117T133000
+DTEND;TZID=America/Los_Angeles:20261117T153000
+SUMMARY:ESL English Language Class: Beginning
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
+ nglish Language Class in partnership with the Laubach Literacy Council San
+  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa9a1b356fe62
+ 004a2fe5ac\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a8b864d29a7dd0d67460c9d@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261117T150000
+DTEND;TZID=America/Los_Angeles:20261117T170000
+SUMMARY:TABLE: EDD Job Help--Búsqueda de Trabajo por EDD
+LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
+DESCRIPTION:Employee Development Department will be in the library providin
+ g job leads\, coaching\, and resources in English and Spanish.El Departame
+ nto de Desarrollo de Empleados estará en el vestíbulo brindando pistas l
+ aborales\, entrenamiento y recursos en inglés y español.\n\nMore info: h
+ ttps://sdcl.bibliocommons.com/events/6a8b864d29a7dd0d67460c9d\nListed by: 
+ San Diego County Library
+CATEGORIES:Spanish,Tabling,Jobs & money,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:6a85079ebf1aec09082b903a@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261117T160000
+DTEND;TZID=America/Los_Angeles:20261117T180000
+SUMMARY:Citizenship Course
+LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
+ 91963
+DESCRIPTION:Join this free 10-week Citizenship Course instructed by Jewish 
+ Family Service and conducted in English. Participants will receive a textb
+ ook\, supplies\, and access to resources for online assignments and test p
+ reparation. Strengthen your speaking\, reading\, and writing skills to con
+ fidently prepare …\n\nMore info: https://sdcl.bibliocommons.com/events/6
+ a85079ebf1aec09082b903a\nListed by: San Diego County Library
+CATEGORIES:Citizenship
+END:VEVENT
+BEGIN:VEVENT
+UID:6aad603f4ea230006f348626@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261117T163000
+DTEND;TZID=America/Los_Angeles:20261117T173000
+SUMMARY:ESL Beginners Class
+LOCATION:Ramona Branch Library\, 1275 Main Street\, Ramona\, CA 92065
+DESCRIPTION:English as a second language classesInstructor led class for no
+ n-English speakers. Please inquire at front desk for more information. Cla
+ ses de inglés como segundo lenguajeClase dirigida por una instructora par
+ a personas que no hablan inglés. Por favor\, pregunte en la recepción pa
+ ra obtener más …\n\nMore info: https://sdcl.bibliocommons.com/events/6a
+ ad603f4ea230006f348626\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:d08bb6446eadffc8c3e0@sandiego.events.mylibrary.digital
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261117T180000
+DTEND;TZID=America/Los_Angeles:20261117T193000
+SUMMARY:Conversational English
+LOCATION:City Heights/Weingart Library\, San Diego
+STATUS:CONFIRMED
+DESCRIPTION:Want to practice your English in a friendly\, relaxed setting. 
+ Come and join us at the Library for conversational English with Leslie.\n\
+ nMore info: https://sandiego.events.mylibrary.digital\nListed by: San Dieg
+ o Public Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:b03eebd8e5fe2c37e36b@sandiego.events.mylibrary.digital
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261117T183000
+DTEND;TZID=America/Los_Angeles:20261117T193000
+SUMMARY:ESL Conversation Group
+LOCATION:Mira Mesa Library\, San Diego
+STATUS:CONFIRMED
+DESCRIPTION:Join us for casual\, friendly conversation designed to increase
+  participants'comfort with the English language and maybe make new friends
+ .\n\nMore info: https://sandiego.events.mylibrary.digital\nListed by: San 
+ Diego Public Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5a70a97b79214226a94416@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261118T090000
+DTEND;TZID=America/Los_Angeles:20261118T134500
+SUMMARY:ESL 50 & 50S
+LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
+ 91963
+DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
+  general information line at (619) 660-4264 or email district.specialproje
+ cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a70a9
+ 7b79214226a94416\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a874d6736204e08fbb5e793@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261118T100000
+DTEND;TZID=America/Los_Angeles:20261118T120000
+SUMMARY:Citizenship Course
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:Join this free 10-week Citizenship Course instructed by Jewish 
+ Family Service and conducted in English. Participants will receive a textb
+ ook\, supplies\, and access to resources for online assignments and test p
+ reparation. Strengthen your speaking\, reading\, and writing skills to con
+ fidently prepare …\n\nMore info: https://sdcl.bibliocommons.com/events/6
+ a874d6736204e08fbb5e793\nListed by: San Diego County Library
+CATEGORIES:Citizenship
+END:VEVENT
+BEGIN:VEVENT
+UID:48308
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261118T183000Z
+DTEND:20261118T200000Z
+SUMMARY:Tutor Connect
+LOCATION:804 Pier View Wy\, Oceanside\, CA\, 92054\, US
+ROOM:READS Program Space
+STATUS:CONFIRMED
+DESCRIPTION:Gather with current Oceanside READS tutors and volunteers to st
+ ay up to date\, learn new techniques\, and build community. This event is 
+ for current Oceanside READS volunteers only.\n\nMore info: https://oceansi
+ depl.librarycalendar.com/event/tutor-connect-48308\nListed by: Oceanside P
+ ublic Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:cd1e003d534af882d4bc@sandiego.events.mylibrary.digital
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261118T130000
+DTEND;TZID=America/Los_Angeles:20261118T143000
+SUMMARY:Basic English Class
+LOCATION:Pacific Highlands Ranch Library\, San Diego
+STATUS:CONFIRMED
+DESCRIPTION:Learn basic English! This FREE six-week program is for beginnin
+ g English speakers and no registration is required. Class meets Wednesdays
+  and Fridays from 1-2:30pm\, starting Wednesday\, October 7. Presented by 
+ Poway Adult School and sponsored by the Friends of Rancho Penasquitos Bran
+ ch Library. Class Dates: Wednesday\, October 7 - Community Room Friday\, O
+ ctober - Room 123 Wednesday\, October 14 - Community Ro...\n\nMore info: h
+ ttps://sandiego.events.mylibrary.digital\nListed by: San Diego Public Libr
+ ary
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:69a23460491b809c6f1d0cfc@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261118T130000
+DTEND;TZID=America/Los_Angeles:20261118T150000
+SUMMARY:CSA San Diego - Fair Housing Table Information Table
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:CSA San Diego County is a 501(c)(3) nonprofit organization whos
+ e primary mission is to promote social justice and public welfare through 
+ programs\, services\, and advocacy against all forms of discrimination\, i
+ ncluding advocacy for the eradication of housing discrimination to assure 
+ equal housing …\n\nMore info: https://sdcl.bibliocommons.com/events/69a2
+ 3460491b809c6f1d0cfc\nListed by: San Diego County Library
+CATEGORIES:Housing,Rights & civic,Tabling,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:6a3d85b94407827f8aa761af@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261118T133000
+DTEND;TZID=America/Los_Angeles:20261118T150000
+SUMMARY:English as a Second Language
+LOCATION:4S Ranch Branch Library\, 10433 Reserve Drive\, San Diego\, CA 921
+ 27
+DESCRIPTION:English as a Second Language Instructor led class for non-Engli
+ sh speakers. No registration necessary. Meets in the 4S Ranch community ro
+ om.\n\nMore info: https://sdcl.bibliocommons.com/events/6a3d85b94407827f8a
+ a761af\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa9a1d4a433d308573baac4@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261118T133000
+DTEND;TZID=America/Los_Angeles:20261118T153000
+SUMMARY:ESL English Language Class: Beginning
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
+ nglish Language Class in partnership with the Laubach Literacy Council San
+  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa9a1d4a433d3
+ 08573baac4\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:55585
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261118T233000Z
+DTEND:20261119T003000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55585\nListed by: Oceanside Public Library
+SUMMARY:Cafecito: English Practice
+LOCATION:2855 Cedar Rd\, Oceanside\, CA\, 92056\, US
+ROOM:John Landes Community Center Study Room
+STATUS:CONFIRMED
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:d3b8f82f171e8c9f0476@sandiego.events.mylibrary.digital
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261118T163000
+DTEND;TZID=America/Los_Angeles:20261118T173000
+SUMMARY:English Corner: English Conversation
+LOCATION:North University Community Library\, San Diego
+STATUS:CONFIRMED
+DESCRIPTION:Community members with a basic grasp of English language can ha
+ ve fun themed conversations and build relationships with one another. We w
+ ill talk about ourselves\, our cultures\, and more.\n\nMore info: https://
+ sandiego.events.mylibrary.digital\nListed by: San Diego Public Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:3bf609c3e44f666c2302@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261118T170000
+DTEND;TZID=America/Los_Angeles:20261118T190000
+SUMMARY:Free Citizenship Course (Virtual)
+LOCATION:Online via Zoom
+DESCRIPTION:Free citizenship classes offered by JFS in partnership with San
+  Diego County Library.\n\nMore info: https://www.jfssd.org/event/free-citi
+ zenship-course-virtual-3/\nListed by: Jewish Family Service of San Diego
+CATEGORIES:Online,Citizenship
+END:VEVENT
+BEGIN:VEVENT
+UID:69488c3a8b29ea2800c55cd0@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261118T173000
+DTEND;TZID=America/Los_Angeles:20261118T184500
+SUMMARY:Pathways to Citizenship Tutoring Hour
+LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
+DESCRIPTION:Pathways to Citizenship will provide ESL & Citizenship tutoring
+ . Learn more about specific eligibility requirements for naturalization. C
+ ome get information to help navigate the pathway to Citizenship.\n\nMore i
+ nfo: https://sdcl.bibliocommons.com/events/69488c3a8b29ea2800c55cd0\nListe
+ d by: San Diego County Library
+CATEGORIES:Spanish,Citizenship,ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5a72e782c03c5c17d8b308@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261119T090000
+DTEND;TZID=America/Los_Angeles:20261119T121500
+SUMMARY:ESL 122
+LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
+ 91963
+DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
+  general information line at (619) 660-4264 or email district.specialproje
+ cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a72e7
+ 82c03c5c17d8b308\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:a47b970aa6ace47c8bbb@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261119T093000
+DTEND;TZID=America/Los_Angeles:20261119T123500
+SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
+ Library Learning Center)
+LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
+ Centro de Aprendizaje\, 3368 Eureka Place Carlsbad\, California 92008
+DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
+ ialized courses in English for non-native speakers. Apply online at miraco
+ sta.edu/ncapply or drop in early and apply in person before the session be
+ gins. ESL classes at the Library Learning Center will take place on the se
+ cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
+ ents/Calendar/Event/21639\nListed by: Carlsbad City Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:2595
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261119T180000Z
+DTEND:20261119T220000Z
+DESCRIPTION:More info: https://escondido.librarycalendar.com/event/law-libr
+ ary-support-2595\nListed by: Escondido Public Library
+SUMMARY:Law Library Support
+LOCATION:239 S Kalmia St\, Escondido\, CA\, 92025\, US
+ROOM:Partner Table (1F)
+STATUS:CONFIRMED
+CATEGORIES:Tabling
+END:VEVENT
+BEGIN:VEVENT
+UID:10285-1795086000-1795089600@www.casafamiliar.org
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261119T110000
+DTEND;TZID=America/Los_Angeles:20261119T120000
+SUMMARY:How to Apply to Affordable Housing
+LOCATION:San Ysidro Library\, 4235 Beyer Boulevard San Diego\, CA\, San Die
+ go\, 92173\, United States
+DESCRIPTION:Join us for a FREE workshop designed to help residents better u
+ nderstand the Affordable Housing application process. What we will cover: 
+ What is Affordable Housing Eligibility and Income Limits Overview of the a
+ pplication process Review the required documentation for your application 
+ Childcare and …\n\nMore info: https://www.casafamiliar.org/event/how-to-
+ apply-to-affordable-housing-san-ysidro/\nListed by: Casa Familiar
+CATEGORIES:Housing,Rights & civic,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:6a8795e4be1482002988e7b2@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261119T120000
+DTEND;TZID=America/Los_Angeles:20261119T141500
+SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
+ s!
+LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
+  92069
+DESCRIPTION:Improve your conversation\, listening\, writing\, and reading s
+ kills.Mejore sus habilidades de conversación\, escuchar\, escritura y lec
+ tura.\n\nMore info: https://sdcl.bibliocommons.com/events/6a8795e4be148200
+ 2988e7b2\nListed by: San Diego County Library
+CATEGORIES:Spanish,ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:1e4e8185e8308ff9b54c@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261119T120000
+DTEND;TZID=America/Los_Angeles:20261119T130000
+SUMMARY:Immigration Policy Webinar
+LOCATION:Online
+DESCRIPTION:Higher Education Legal Services and JFS explain immigration pol
+ icy changes\, with confidential Q&A. Free and open to all.\n\nMore info: h
+ ttps://www.jfssd.org/calendar/\nListed by: Jewish Family Service of San Di
+ ego
+CATEGORIES:Online,Immigration legal
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa0882b4378382c2abf6783@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261119T153000
+DTEND;TZID=America/Los_Angeles:20261119T173000
+SUMMARY:ESL English Language Class: Intermediate
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
+ nglish Language Class in partnership with the Laubach Literacy Council San
+  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa0882b437838
+ 2c2abf6783\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:3d3b7668887b5cf64254@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261119T170000
+DTEND;TZID=America/Los_Angeles:20261119T190000
+SUMMARY:SOUTH: Citizenship Study Tables
+LOCATION:South Chula Vista Library\, 389 Orange Avenue Chula Vista\, Califo
+ rnia 91911
+DESCRIPTION:The study table sessions will cover the main aspects of the cit
+ izenship test: requirements and process, basic vocabulary, and specific qu
+ estions and answers. The sessions will be in Spanish and English. For any 
+ questions or concerns, please call South Chula Vista Library at (619)585-5
+ 755.\n\nMore info: https://www.chulavistaca.gov/Home/Components/Calendar/E
+ vent/39780\nListed by: Chula Vista Public Library
+CATEGORIES:Citizenship
+END:VEVENT
+BEGIN:VEVENT
+UID:55608
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261120T011500Z
+DTEND:20261120T020000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55608\nListed by: Oceanside Public Library
+SUMMARY:Cafecito: English Practice
+LOCATION:330 North Coast Hwy\, Oceanside\, CA\, 92054\, US
+ROOM:Foundation Room
+STATUS:CONFIRMED
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6abff8b8901b02002cbf94ab@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261120T110000
+DTEND;TZID=America/Los_Angeles:20261120T133000
+SUMMARY:ESL English Language Class: Intermediate
+LOCATION:Bonita-Sunnyside Branch Library\, 4375 Bonita Road\, Bonita\, CA 9
+ 1902
+DESCRIPTION:Free English Language Class in partnership with the Laubach Lit
+ eracy Council San Diego\, Fridays 11a - 1:30p\n\nMore info: https://sdcl.b
+ ibliocommons.com/events/6abff8b8901b02002cbf94ab\nListed by: San Diego Cou
+ nty Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a836d10d4b10d0030072253@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261123T103000
+DTEND;TZID=America/Los_Angeles:20261123T123000
+SUMMARY:Citizenship Course
+LOCATION:Lemon Grove Branch Library\, 3001 School Lane\, Lemon Grove\, CA 9
+ 1945
+DESCRIPTION:Join a free 10-week Citizenship course with Jewish Family Servi
+ ces conducted in English. You'll receive textbooks\, supplies\, access to 
+ tablets for online assignments and test preparation. Enhance your speaking
+ \, reading\, and writing skills for your Naturalization interview. Registe
+ r today! Únete al …\n\nMore info: https://sdcl.bibliocommons.com/events
+ /6a836d10d4b10d0030072253\nListed by: San Diego County Library
+CATEGORIES:Citizenship
+END:VEVENT
+BEGIN:VEVENT
+UID:10279-1795453200-1795456800@www.casafamiliar.org
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261123T170000
+DTEND;TZID=America/Los_Angeles:20261123T180000
+SUMMARY:How to Apply to Affordable Housing
+LOCATION:Logan Heights Library\, 567 South 28th Street\, San Diego\, 92113\
+ , United States
+DESCRIPTION:Join us for a FREE workshop designed to help residents better u
+ nderstand the Affordable Housing application process. What we will cover: 
+ What is Affordable Housing Eligibility and Income Limits Overview of the a
+ pplication process Review the required documentation for your application 
+ Childcare and …\n\nMore info: https://www.casafamiliar.org/event/how-to-
+ apply-to-affordable-housing-logan-heights/\nListed by: Casa Familiar
+CATEGORIES:Housing,Rights & civic,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:9d1f2b8f883ab58628c7@sandiego.events.mylibrary.digital
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261123T180000
+DTEND;TZID=America/Los_Angeles:20261123T193000
+SUMMARY:English Language Conversation
+LOCATION:Central Library\, San Diego
+STATUS:CONFIRMED
+DESCRIPTION:Enjoy practicing your English with other adults in a relaxed en
+ vironment. Registration is not required. Drop-in attendees are welcome. Th
+ is group is for adult English Language learners who already speak some Eng
+ lish and would like additional practice using it in spoken conversation. G
+ roups take place each Monday evening\, even if there is a Padres Game. Ple
+ ase register to be notified of unexpected can... Registration required.\n\
+ nMore info: https://sandiego.events.mylibrary.digital\nListed by: San Dieg
+ o Public Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:b6fdd7dc593e0ebf3f06@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261124T093000
+DTEND;TZID=America/Los_Angeles:20261124T123500
+SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
+ Library Learning Center)
+LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
+ Centro de Aprendizaje\, 3368 Eureka Place Carlsbad\, California 92008
+DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
+ ialized courses in English for non-native speakers. Apply online at miraco
+ sta.edu/ncapply or drop in early and apply in person before the session be
+ gins. ESL classes at the Library Learning Center will take place on the se
+ cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
+ ents/Calendar/Event/21638\nListed by: Carlsbad City Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:d3c55f1c49194f1a312b@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261124T100000
+DTEND;TZID=America/Los_Angeles:20261124T120000
+SUMMARY:Free Citizenship Course (Rancho San Diego)
+LOCATION:Rancho San Diego Library\, 11555 Via Rancho San Diego\, El Cajon\,
+  CA 92019
+DESCRIPTION:Free citizenship classes offered by JFS in partnership with San
+  Diego County Library.\n\nMore info: https://www.jfssd.org/calendar/\nList
+ ed by: Jewish Family Service of San Diego
+CATEGORIES:Citizenship
+END:VEVENT
+BEGIN:VEVENT
+UID:6a60025aa41369ab2c67c047@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261124T123000
+DTEND;TZID=America/Los_Angeles:20261124T153000
+SUMMARY:Clases de Ciudadanía por VAS Escuela para Adultos
+LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
+DESCRIPTION:La escuela de Adultos de Vista también ofrece clases de Ciudad
+ anía. Enfoque de preparación en los examenes aprobados por USCIS\, prepa
+ ración para la entrevista oral de USCIS\, y al mismo tiempo refuerza las 
+ habilidades orales de lectura en Inglés. Pre-Requisito: Debe estar minimo
+  a nivel Comienzo …\n\nMore info: https://sdcl.bibliocommons.com/events/
+ 6a60025aa41369ab2c67c047\nListed by: San Diego County Library
+CATEGORIES:Spanish,Citizenship
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa9a1b356fe62004a2fe5ad@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261124T133000
+DTEND;TZID=America/Los_Angeles:20261124T153000
+SUMMARY:ESL English Language Class: Beginning
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
+ nglish Language Class in partnership with the Laubach Literacy Council San
+  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa9a1b356fe62
+ 004a2fe5ad\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a0e2d88fab4ff0f649a84a2@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261124T150000
+DTEND;TZID=America/Los_Angeles:20261124T170000
+SUMMARY:TABLE: EDD Job Help--Búsqueda de Trabajo por EDD
+LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
+DESCRIPTION:Employee Development Department will be in the library providin
+ g job leads\, coaching\, and resources in English and Spanish.El Departame
+ nto de Desarrollo de Empleados estará en el vestíbulo brindando pistas l
+ aborales\, entrenamiento y recursos en inglés y español.\n\nMore info: h
+ ttps://sdcl.bibliocommons.com/events/6a0e2d88fab4ff0f649a84a2\nListed by: 
+ San Diego County Library
+CATEGORIES:Spanish,Tabling,Jobs & money,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:1cfb1444decaefefd4c1@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261124T160000
+DTEND;TZID=America/Los_Angeles:20261124T180000
+SUMMARY:Free Citizenship Course (Potrero)
+LOCATION:Potrero Library\, 24883 Potrero Valley Rd\, Potrero\, CA 91963
+DESCRIPTION:Free citizenship classes offered by JFS in partnership with San
+  Diego County Library.\n\nMore info: https://www.jfssd.org/event/free-citi
+ zenship-course-potrero-3/\nListed by: Jewish Family Service of San Diego
+CATEGORIES:Citizenship
+END:VEVENT
+BEGIN:VEVENT
+UID:6aad603f4ea230006f348627@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261124T163000
+DTEND;TZID=America/Los_Angeles:20261124T173000
+SUMMARY:ESL Beginners Class
+LOCATION:Ramona Branch Library\, 1275 Main Street\, Ramona\, CA 92065
+DESCRIPTION:English as a second language classesInstructor led class for no
+ n-English speakers. Please inquire at front desk for more information. Cla
+ ses de inglés como segundo lenguajeClase dirigida por una instructora par
+ a personas que no hablan inglés. Por favor\, pregunte en la recepción pa
+ ra obtener más …\n\nMore info: https://sdcl.bibliocommons.com/events/6a
+ ad603f4ea230006f348627\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:3d1ece749cb2699886b0@sandiego.events.mylibrary.digital
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261124T180000
+DTEND;TZID=America/Los_Angeles:20261124T193000
+SUMMARY:Conversational English
+LOCATION:City Heights/Weingart Library\, San Diego
+STATUS:CONFIRMED
+DESCRIPTION:Want to practice your English in a friendly\, relaxed setting. 
+ Come and join us at the Library for conversational English with Leslie.\n\
+ nMore info: https://sandiego.events.mylibrary.digital\nListed by: San Dieg
+ o Public Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:3c92ce69f3cb66bef369@sandiego.events.mylibrary.digital
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261124T183000
+DTEND;TZID=America/Los_Angeles:20261124T193000
+SUMMARY:ESL Conversation Group
+LOCATION:Mira Mesa Library\, San Diego
+STATUS:CONFIRMED
+DESCRIPTION:Join us for casual\, friendly conversation designed to increase
+  participants'comfort with the English language and maybe make new friends
+ .\n\nMore info: https://sandiego.events.mylibrary.digital\nListed by: San 
+ Diego Public Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a874d6736204e08fbb5e794@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261125T100000
+DTEND;TZID=America/Los_Angeles:20261125T120000
+SUMMARY:Citizenship Course
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:Join this free 10-week Citizenship Course instructed by Jewish 
+ Family Service and conducted in English. Participants will receive a textb
+ ook\, supplies\, and access to resources for online assignments and test p
+ reparation. Strengthen your speaking\, reading\, and writing skills to con
+ fidently prepare …\n\nMore info: https://sdcl.bibliocommons.com/events/6
+ a874d6736204e08fbb5e794\nListed by: San Diego County Library
+CATEGORIES:Citizenship
+END:VEVENT
+BEGIN:VEVENT
+UID:6930d6ff04caba2f00d32591@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261125T120000
+DTEND;TZID=America/Los_Angeles:20261125T160000
+SUMMARY:San Diego Law Library Information Table
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:We are excited to partner with the San Diego Law Library to bri
+ ng you access to legal databases and reference assistance. On the 2nd & 4t
+ h Wednesday of the month\, from 12pm to 4pm\, a reference librarian from t
+ he Law Library will be at our location. The Librarian can guide you to res
+ ources to better …\n\nMore info: https://sdcl.bibliocommons.com/events/6
+ 930d6ff04caba2f00d32591\nListed by: San Diego County Library
+CATEGORIES:Tabling
+END:VEVENT
+BEGIN:VEVENT
+UID:6a3d85b94407827f8aa761b0@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261125T133000
+DTEND;TZID=America/Los_Angeles:20261125T150000
+SUMMARY:English as a Second Language
+LOCATION:4S Ranch Branch Library\, 10433 Reserve Drive\, San Diego\, CA 921
+ 27
+DESCRIPTION:English as a Second Language Instructor led class for non-Engli
+ sh speakers. No registration necessary. Meets in the 4S Ranch community ro
+ om.\n\nMore info: https://sdcl.bibliocommons.com/events/6a3d85b94407827f8a
+ a761b0\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa9a1d4a433d308573baac6@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261125T133000
+DTEND;TZID=America/Los_Angeles:20261125T153000
+SUMMARY:ESL English Language Class: Beginning
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
+ nglish Language Class in partnership with the Laubach Literacy Council San
+  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa9a1d4a433d3
+ 08573baac6\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:733762b63fe81c33d763@sandiego.events.mylibrary.digital
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261125T163000
+DTEND;TZID=America/Los_Angeles:20261125T173000
+SUMMARY:English Corner: English Conversation
+LOCATION:North University Community Library\, San Diego
+STATUS:CONFIRMED
+DESCRIPTION:Community members with a basic grasp of English language can ha
+ ve fun themed conversations and build relationships with one another. We w
+ ill talk about ourselves\, our cultures\, and more.\n\nMore info: https://
+ sandiego.events.mylibrary.digital\nListed by: San Diego Public Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:470f1f1b41fb28f1711e@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261125T170000
+DTEND;TZID=America/Los_Angeles:20261125T190000
+SUMMARY:Free Citizenship Course (Virtual)
+LOCATION:Online via Zoom
+DESCRIPTION:Free citizenship classes offered by JFS in partnership with San
+  Diego County Library.\n\nMore info: https://www.jfssd.org/event/free-citi
+ zenship-course-virtual-3/\nListed by: Jewish Family Service of San Diego
+CATEGORIES:Online,Citizenship
+END:VEVENT
+BEGIN:VEVENT
+UID:69488c3a8b29ea2800c55cd1@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261125T173000
+DTEND;TZID=America/Los_Angeles:20261125T184500
+SUMMARY:Pathways to Citizenship Tutoring Hour
+LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
+DESCRIPTION:Pathways to Citizenship will provide ESL & Citizenship tutoring
+ . Learn more about specific eligibility requirements for naturalization. C
+ ome get information to help navigate the pathway to Citizenship.\n\nMore i
+ nfo: https://sdcl.bibliocommons.com/events/69488c3a8b29ea2800c55cd1\nListe
+ d by: San Diego County Library
+CATEGORIES:Spanish,Citizenship,ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa72c5d7825b4006406bcd8@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261127T150000
+DTEND;TZID=America/Los_Angeles:20261127T170000
+SUMMARY:ESL English classes/ Clases de Ingles
+LOCATION:Encinitas Branch Library\, 540 Cornish Drive\, Encinitas\, CA 9202
+ 4
+DESCRIPTION:Laubach Literacy Council of San Diego\, in partnership with the
+  County library\, is offering English classes. All materials are provided.
+  Space is limited. Please reach out to the library for registration. Lauba
+ ch Literacy Council of San Diego en alianza con la Biblioteca del Condado 
+ de San Diego …\n\nMore info: https://sdcl.bibliocommons.com/events/6aa72
+ c5d7825b4006406bcd8\nListed by: San Diego County Library
+CATEGORIES:Spanish,ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5a70a97b79214226a94417@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261130T090000
+DTEND;TZID=America/Los_Angeles:20261130T134500
+SUMMARY:ESL 50 & 50S
+LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
+ 91963
+DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
+  general information line at (619) 660-4264 or email district.specialproje
+ cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a70a9
+ 7b79214226a94417\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a836d10d4b10d0030072254@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261130T103000
+DTEND;TZID=America/Los_Angeles:20261130T123000
+SUMMARY:Citizenship Course
+LOCATION:Lemon Grove Branch Library\, 3001 School Lane\, Lemon Grove\, CA 9
+ 1945
+DESCRIPTION:Join a free 10-week Citizenship course with Jewish Family Servi
+ ces conducted in English. You'll receive textbooks\, supplies\, access to 
+ tablets for online assignments and test preparation. Enhance your speaking
+ \, reading\, and writing skills for your Naturalization interview. Registe
+ r today! Únete al …\n\nMore info: https://sdcl.bibliocommons.com/events
+ /6a836d10d4b10d0030072254\nListed by: San Diego County Library
+CATEGORIES:Citizenship
+END:VEVENT
+BEGIN:VEVENT
+UID:55495
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261201T013000Z
+DTEND:20261201T023000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55495\nListed by: Oceanside Public Library
+SUMMARY:Cafecito: English Practice
+LOCATION:4700 N River Rd\, Oceanside\, CA\, 92057\, US
+STATUS:CONFIRMED
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5a72e782c03c5c17d8b309@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261201T090000
+DTEND;TZID=America/Los_Angeles:20261201T121500
+SUMMARY:ESL 122
+LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
+ 91963
+DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
+  general information line at (619) 660-4264 or email district.specialproje
+ cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a72e7
+ 82c03c5c17d8b309\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:8f28b2f9d8d6b60a2f5e@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261201T093000
+DTEND;TZID=America/Los_Angeles:20261201T123500
+SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
+ Library Learning Center)
+LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
+ Centro de Aprendizaje\, 3368 Eureka Place Carlsbad\, California 92008
+DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
+ ialized courses in English for non-native speakers. Apply online at miraco
+ sta.edu/ncapply or drop in early and apply in person before the session be
+ gins. ESL classes at the Library Learning Center will take place on the se
+ cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
+ ents/Calendar/Event/21640\nListed by: Carlsbad City Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:55518
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261201T180000Z
+DTEND:20261201T190000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55518\nListed by: Oceanside Public Library
+SUMMARY:Cafecito: English Practice
+LOCATION:804 Pier View Wy\, Oceanside\, CA\, 92054\, US
+ROOM:READS Program Space
+STATUS:CONFIRMED
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a84c281b20478002993c76a@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261201T100000
+DTEND;TZID=America/Los_Angeles:20261201T120000
+SUMMARY:Citizenship Course
+LOCATION:Rancho San Diego Branch Library\, 11555 Via Rancho San Diego\, El 
+ Cajon\, CA 92019
+DESCRIPTION:Join this free 10-week Citizenship Course instructed by Jewish 
+ Family Service and conducted in English. Participants will receive a textb
+ ook\, supplies\, and access to resources for online assignments and test p
+ reparation. Strengthen your speaking\, reading\, and writing skills to con
+ fidently prepare …\n\nMore info: https://sdcl.bibliocommons.com/events/6
+ a84c281b20478002993c76a\nListed by: San Diego County Library
+CATEGORIES:Citizenship
+END:VEVENT
+BEGIN:VEVENT
+UID:6a8795e4be1482002988e7b5@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261201T120000
+DTEND;TZID=America/Los_Angeles:20261201T141500
+SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
+ s!
+LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
+  92069
+DESCRIPTION:Improve your conversation\, listening\, writing\, and reading s
+ kills.Mejore sus habilidades de conversación\, escuchar\, escritura y lec
+ tura.\n\nMore info: https://sdcl.bibliocommons.com/events/6a8795e4be148200
+ 2988e7b5\nListed by: San Diego County Library
+CATEGORIES:Spanish,ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:55564
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261201T203000Z
+DTEND:20261201T213000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55564\nListed by: Oceanside Public Library
+SUMMARY:Cafecito: English Practice
+LOCATION:455 Country Club Lane\, Oceanside\, CA\, 92054\, US
+STATUS:CONFIRMED
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a60025aa41369ab2c67c048@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261201T123000
+DTEND;TZID=America/Los_Angeles:20261201T153000
+SUMMARY:Clases de Ciudadanía por VAS Escuela para Adultos
+LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
+DESCRIPTION:La escuela de Adultos de Vista también ofrece clases de Ciudad
+ anía. Enfoque de preparación en los examenes aprobados por USCIS\, prepa
+ ración para la entrevista oral de USCIS\, y al mismo tiempo refuerza las 
+ habilidades orales de lectura en Inglés. Pre-Requisito: Debe estar minimo
+  a nivel Comienzo …\n\nMore info: https://sdcl.bibliocommons.com/events/
+ 6a60025aa41369ab2c67c048\nListed by: San Diego County Library
+CATEGORIES:Spanish,Citizenship
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa9a1b356fe62004a2fe5ae@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261201T133000
+DTEND;TZID=America/Los_Angeles:20261201T153000
+SUMMARY:ESL English Language Class: Beginning
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
+ nglish Language Class in partnership with the Laubach Literacy Council San
+  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa9a1b356fe62
+ 004a2fe5ae\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a8b864d29a7dd0d67460c9f@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261201T150000
+DTEND;TZID=America/Los_Angeles:20261201T170000
+SUMMARY:TABLE: EDD Job Help--Búsqueda de Trabajo por EDD
+LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
+DESCRIPTION:Employee Development Department will be in the library providin
+ g job leads\, coaching\, and resources in English and Spanish.El Departame
+ nto de Desarrollo de Empleados estará en el vestíbulo brindando pistas l
+ aborales\, entrenamiento y recursos en inglés y español.\n\nMore info: h
+ ttps://sdcl.bibliocommons.com/events/6a8b864d29a7dd0d67460c9f\nListed by: 
+ San Diego County Library
+CATEGORIES:Spanish,Tabling,Jobs & money,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:6a85079ebf1aec09082b903b@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261201T160000
+DTEND;TZID=America/Los_Angeles:20261201T180000
+SUMMARY:Citizenship Course
+LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
+ 91963
+DESCRIPTION:Join this free 10-week Citizenship Course instructed by Jewish 
+ Family Service and conducted in English. Participants will receive a textb
+ ook\, supplies\, and access to resources for online assignments and test p
+ reparation. Strengthen your speaking\, reading\, and writing skills to con
+ fidently prepare …\n\nMore info: https://sdcl.bibliocommons.com/events/6
+ a85079ebf1aec09082b903b\nListed by: San Diego County Library
+CATEGORIES:Citizenship
+END:VEVENT
+BEGIN:VEVENT
+UID:10057-1796144400-1796151600@www.casafamiliar.org
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261201T170000
+DTEND;TZID=America/Los_Angeles:20261201T190000
+SUMMARY:How to Apply to Affordable Housing
+LOCATION:El Salón\, 114 West Hall Avenue\, San Ysidro\, California\, 92173
+ \, United States
+DESCRIPTION:Join us for a FREE workshop designed to help residents better u
+ nderstand the Affordable Housing application process. What we will cover: 
+ What is Affordable Housing Eligibility and Income Limits Overview of the a
+ pplication process Review the required documentation for your application 
+ Choose a date …\n\nMore info: https://www.casafamiliar.org/event/how-to-
+ apply-to-affordable-housing-dec-1/\nListed by: Casa Familiar
+CATEGORIES:Housing,Rights & civic,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5a70a97b79214226a94418@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261202T090000
+DTEND;TZID=America/Los_Angeles:20261202T134500
+SUMMARY:ESL 50 & 50S
+LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
+ 91963
+DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
+  general information line at (619) 660-4264 or email district.specialproje
+ cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a70a9
+ 7b79214226a94418\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a874d6736204e08fbb5e795@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261202T100000
+DTEND;TZID=America/Los_Angeles:20261202T120000
+SUMMARY:Citizenship Course
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:Join this free 10-week Citizenship Course instructed by Jewish 
+ Family Service and conducted in English. Participants will receive a textb
+ ook\, supplies\, and access to resources for online assignments and test p
+ reparation. Strengthen your speaking\, reading\, and writing skills to con
+ fidently prepare …\n\nMore info: https://sdcl.bibliocommons.com/events/6
+ a874d6736204e08fbb5e795\nListed by: San Diego County Library
+CATEGORIES:Citizenship
+END:VEVENT
+BEGIN:VEVENT
+UID:10277-1796209200-1796212800@www.casafamiliar.org
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261202T110000
+DTEND;TZID=America/Los_Angeles:20261202T120000
+SUMMARY:How to Apply to Affordable Housing
+LOCATION:Otay Mesa-Nestor Branch Library\, 3003 Coronado Avenue\, San Diego
+ \, CA\, 92154\, United States
+DESCRIPTION:Join us for a FREE workshop designed to help residents better u
+ nderstand the Affordable Housing application process. What we will cover: 
+ What is Affordable Housing Eligibility and Income Limits Overview of the a
+ pplication process Review the required documentation for your application 
+ Childcare and …\n\nMore info: https://www.casafamiliar.org/event/how-to-
+ apply-to-affordable-housing-otay-mesa-2/\nListed by: Casa Familiar
+CATEGORIES:Housing,Rights & civic,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:6a3d85b94407827f8aa761b1@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261202T133000
+DTEND;TZID=America/Los_Angeles:20261202T150000
+SUMMARY:English as a Second Language
+LOCATION:4S Ranch Branch Library\, 10433 Reserve Drive\, San Diego\, CA 921
+ 27
+DESCRIPTION:English as a Second Language Instructor led class for non-Engli
+ sh speakers. No registration necessary. Meets in the 4S Ranch community ro
+ om.\n\nMore info: https://sdcl.bibliocommons.com/events/6a3d85b94407827f8a
+ a761b1\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa9a1d4a433d308573baac8@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261202T133000
+DTEND;TZID=America/Los_Angeles:20261202T153000
+SUMMARY:ESL English Language Class: Beginning
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
+ nglish Language Class in partnership with the Laubach Literacy Council San
+  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa9a1d4a433d3
+ 08573baac8\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:55586
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261202T233000Z
+DTEND:20261203T003000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55586\nListed by: Oceanside Public Library
+SUMMARY:Cafecito: English Practice
+LOCATION:2855 Cedar Rd\, Oceanside\, CA\, 92056\, US
+ROOM:John Landes Community Center Study Room
+STATUS:CONFIRMED
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:54926df9925daeb07d19@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261202T170000
+DTEND;TZID=America/Los_Angeles:20261202T190000
+SUMMARY:Free Citizenship Course (Virtual)
+LOCATION:Online via Zoom
+DESCRIPTION:Free citizenship classes offered by JFS in partnership with San
+  Diego County Library.\n\nMore info: https://www.jfssd.org/event/free-citi
+ zenship-course-virtual-3/\nListed by: Jewish Family Service of San Diego
+CATEGORIES:Online,Citizenship
+END:VEVENT
+BEGIN:VEVENT
+UID:69488c3a8b29ea2800c55cd2@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261202T173000
+DTEND;TZID=America/Los_Angeles:20261202T184500
+SUMMARY:Pathways to Citizenship Tutoring Hour
+LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
+DESCRIPTION:Pathways to Citizenship will provide ESL & Citizenship tutoring
+ . Learn more about specific eligibility requirements for naturalization. C
+ ome get information to help navigate the pathway to Citizenship.\n\nMore i
+ nfo: https://sdcl.bibliocommons.com/events/69488c3a8b29ea2800c55cd2\nListe
+ d by: San Diego County Library
+CATEGORIES:Spanish,Citizenship,ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5a72e782c03c5c17d8b30a@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261203T090000
+DTEND;TZID=America/Los_Angeles:20261203T121500
+SUMMARY:ESL 122
+LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
+ 91963
+DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
+  general information line at (619) 660-4264 or email district.specialproje
+ cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a72e7
+ 82c03c5c17d8b30a\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:9c92db1d9630c4561b10@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261203T093000
+DTEND;TZID=America/Los_Angeles:20261203T123500
+SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
+ Library Learning Center)
+LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
+ Centro de Aprendizaje\, 3368 Eureka Place Carlsbad\, California 92008
+DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
+ ialized courses in English for non-native speakers. Apply online at miraco
+ sta.edu/ncapply or drop in early and apply in person before the session be
+ gins. ESL classes at the Library Learning Center will take place on the se
+ cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
+ ents/Calendar/Event/21641\nListed by: Carlsbad City Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:2596
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261203T180000Z
+DTEND:20261203T220000Z
+DESCRIPTION:More info: https://escondido.librarycalendar.com/event/law-libr
+ ary-support-2596\nListed by: Escondido Public Library
+SUMMARY:Law Library Support
+LOCATION:239 S Kalmia St\, Escondido\, CA\, 92025\, US
+ROOM:Partner Table (1F)
+STATUS:CONFIRMED
+CATEGORIES:Tabling
+END:VEVENT
+BEGIN:VEVENT
+UID:6a8795e4be1482002988e7b6@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261203T120000
+DTEND;TZID=America/Los_Angeles:20261203T141500
+SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
+ s!
+LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
+  92069
+DESCRIPTION:Improve your conversation\, listening\, writing\, and reading s
+ kills.Mejore sus habilidades de conversación\, escuchar\, escritura y lec
+ tura.\n\nMore info: https://sdcl.bibliocommons.com/events/6a8795e4be148200
+ 2988e7b6\nListed by: San Diego County Library
+CATEGORIES:Spanish,ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa0882b4378382c2abf6784@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261203T153000
+DTEND;TZID=America/Los_Angeles:20261203T173000
+SUMMARY:ESL English Language Class: Intermediate
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
+ nglish Language Class in partnership with the Laubach Literacy Council San
+  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa0882b437838
+ 2c2abf6784\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:55609
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261204T011500Z
+DTEND:20261204T020000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55609\nListed by: Oceanside Public Library
+SUMMARY:Cafecito: English Practice
+LOCATION:330 North Coast Hwy\, Oceanside\, CA\, 92054\, US
+ROOM:Foundation Room
+STATUS:CONFIRMED
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6abff8b8901b02002cbf94ad@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261204T110000
+DTEND;TZID=America/Los_Angeles:20261204T133000
+SUMMARY:ESL English Language Class: Intermediate
+LOCATION:Bonita-Sunnyside Branch Library\, 4375 Bonita Road\, Bonita\, CA 9
+ 1902
+DESCRIPTION:Free English Language Class in partnership with the Laubach Lit
+ eracy Council San Diego\, Fridays 11a - 1:30p\n\nMore info: https://sdcl.b
+ ibliocommons.com/events/6abff8b8901b02002cbf94ad\nListed by: San Diego Cou
+ nty Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:69a23460491b809c6f1d0cfd@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261204T130000
+DTEND;TZID=America/Los_Angeles:20261204T150000
+SUMMARY:CSA San Diego - Fair Housing Table Information Table
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:CSA San Diego County is a 501(c)(3) nonprofit organization whos
+ e primary mission is to promote social justice and public welfare through 
+ programs\, services\, and advocacy against all forms of discrimination\, i
+ ncluding advocacy for the eradication of housing discrimination to assure 
+ equal housing …\n\nMore info: https://sdcl.bibliocommons.com/events/69a2
+ 3460491b809c6f1d0cfd\nListed by: San Diego County Library
+CATEGORIES:Housing,Rights & civic,Tabling,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5a70a97b79214226a94419@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261207T090000
+DTEND;TZID=America/Los_Angeles:20261207T134500
+SUMMARY:ESL 50 & 50S
+LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
+ 91963
+DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
+  general information line at (619) 660-4264 or email district.specialproje
+ cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a70a9
+ 7b79214226a94419\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a836d10d4b10d0030072255@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261207T103000
+DTEND;TZID=America/Los_Angeles:20261207T123000
+SUMMARY:Citizenship Course
+LOCATION:Lemon Grove Branch Library\, 3001 School Lane\, Lemon Grove\, CA 9
+ 1945
+DESCRIPTION:Join a free 10-week Citizenship course with Jewish Family Servi
+ ces conducted in English. You'll receive textbooks\, supplies\, access to 
+ tablets for online assignments and test preparation. Enhance your speaking
+ \, reading\, and writing skills for your Naturalization interview. Registe
+ r today! Únete al …\n\nMore info: https://sdcl.bibliocommons.com/events
+ /6a836d10d4b10d0030072255\nListed by: San Diego County Library
+CATEGORIES:Citizenship
+END:VEVENT
+BEGIN:VEVENT
+UID:10283-1796662800-1796666400@www.casafamiliar.org
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261207T170000
+DTEND;TZID=America/Los_Angeles:20261207T180000
+SUMMARY:How to Apply to Affordable Housing
+LOCATION:Logan Heights Library\, 567 South 28th Street\, San Diego\, 92113\
+ , United States
+DESCRIPTION:Join us for a FREE workshop designed to help residents better u
+ nderstand the Affordable Housing application process. What we will cover: 
+ What is Affordable Housing Eligibility and Income Limits Overview of the a
+ pplication process Review the required documentation for your application 
+ Childcare and …\n\nMore info: https://www.casafamiliar.org/event/how-to-
+ apply-to-affordable-housing-logan-heights-2/\nListed by: Casa Familiar
+CATEGORIES:Housing,Rights & civic,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:55496
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261208T013000Z
+DTEND:20261208T023000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55496\nListed by: Oceanside Public Library
+SUMMARY:Cafecito: English Practice
+LOCATION:4700 N River Rd\, Oceanside\, CA\, 92057\, US
+STATUS:CONFIRMED
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5a72e782c03c5c17d8b30b@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261208T090000
+DTEND;TZID=America/Los_Angeles:20261208T121500
+SUMMARY:ESL 122
+LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
+ 91963
+DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
+  general information line at (619) 660-4264 or email district.specialproje
+ cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a72e7
+ 82c03c5c17d8b30b\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:d318d7519ec6090e3b9b@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261208T093000
+DTEND;TZID=America/Los_Angeles:20261208T123500
+SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
+ Library Learning Center)
+LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
+ Centro de Aprendizaje\, 3368 Eureka Place Carlsbad\, California 92008
+DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
+ ialized courses in English for non-native speakers. Apply online at miraco
+ sta.edu/ncapply or drop in early and apply in person before the session be
+ gins. ESL classes at the Library Learning Center will take place on the se
+ cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
+ ents/Calendar/Event/21642\nListed by: Carlsbad City Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:4720-1796724000-1796727600@www.lassd.org
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261208T100000
+DTEND;TZID=America/Los_Angeles:20261208T110000
+SUMMARY:Fair Housing Basics
+LOCATION:https://www.lassd.org/event/fair-housing-basics-47/
+DESCRIPTION:Fair Housing Basics on Dec 8\, 2026\, 10:00 AM – 11:00 AM at:
+  https://attendee.gotowebinar.com/register/4163910366108158042 Join Legal 
+ Aid for a free webinar on your rights and responsibilities under anti-disc
+ rimination laws. This training is open to anyone.\n\nMore info: https://ww
+ w.lassd.org/event/fair-housing-basics-47/\nListed by: Legal Aid Society of
+  San Diego
+CATEGORIES:Housing,Rights & civic,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:55519
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261208T180000Z
+DTEND:20261208T190000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55519\nListed by: Oceanside Public Library
+SUMMARY:Cafecito: English Practice
+LOCATION:804 Pier View Wy\, Oceanside\, CA\, 92054\, US
+ROOM:READS Program Space
+STATUS:CONFIRMED
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a84c281b20478002993c76b@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261208T100000
+DTEND;TZID=America/Los_Angeles:20261208T120000
+SUMMARY:Citizenship Course
+LOCATION:Rancho San Diego Branch Library\, 11555 Via Rancho San Diego\, El 
+ Cajon\, CA 92019
+DESCRIPTION:Join this free 10-week Citizenship Course instructed by Jewish 
+ Family Service and conducted in English. Participants will receive a textb
+ ook\, supplies\, and access to resources for online assignments and test p
+ reparation. Strengthen your speaking\, reading\, and writing skills to con
+ fidently prepare …\n\nMore info: https://sdcl.bibliocommons.com/events/6
+ a84c281b20478002993c76b\nListed by: San Diego County Library
+CATEGORIES:Citizenship
+END:VEVENT
+BEGIN:VEVENT
+UID:6a8795e4be1482002988e7b7@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261208T120000
+DTEND;TZID=America/Los_Angeles:20261208T141500
+SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
+ s!
+LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
+  92069
+DESCRIPTION:Improve your conversation\, listening\, writing\, and reading s
+ kills.Mejore sus habilidades de conversación\, escuchar\, escritura y lec
+ tura.\n\nMore info: https://sdcl.bibliocommons.com/events/6a8795e4be148200
+ 2988e7b7\nListed by: San Diego County Library
+CATEGORIES:Spanish,ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:55565
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261208T203000Z
+DTEND:20261208T213000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55565\nListed by: Oceanside Public Library
+SUMMARY:Cafecito: English Practice
+LOCATION:455 Country Club Lane\, Oceanside\, CA\, 92054\, US
+STATUS:CONFIRMED
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a60025aa41369ab2c67c049@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261208T123000
+DTEND;TZID=America/Los_Angeles:20261208T153000
+SUMMARY:Clases de Ciudadanía por VAS Escuela para Adultos
+LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
+DESCRIPTION:La escuela de Adultos de Vista también ofrece clases de Ciudad
+ anía. Enfoque de preparación en los examenes aprobados por USCIS\, prepa
+ ración para la entrevista oral de USCIS\, y al mismo tiempo refuerza las 
+ habilidades orales de lectura en Inglés. Pre-Requisito: Debe estar minimo
+  a nivel Comienzo …\n\nMore info: https://sdcl.bibliocommons.com/events/
+ 6a60025aa41369ab2c67c049\nListed by: San Diego County Library
+CATEGORIES:Spanish,Citizenship
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa9a1b356fe62004a2fe5af@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261208T133000
+DTEND;TZID=America/Los_Angeles:20261208T153000
+SUMMARY:ESL English Language Class: Beginning
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
+ nglish Language Class in partnership with the Laubach Literacy Council San
+  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa9a1b356fe62
+ 004a2fe5af\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a85079ebf1aec09082b903c@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261208T160000
+DTEND;TZID=America/Los_Angeles:20261208T180000
+SUMMARY:Citizenship Course
+LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
+ 91963
+DESCRIPTION:Join this free 10-week Citizenship Course instructed by Jewish 
+ Family Service and conducted in English. Participants will receive a textb
+ ook\, supplies\, and access to resources for online assignments and test p
+ reparation. Strengthen your speaking\, reading\, and writing skills to con
+ fidently prepare …\n\nMore info: https://sdcl.bibliocommons.com/events/6
+ a85079ebf1aec09082b903c\nListed by: San Diego County Library
+CATEGORIES:Citizenship
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5a70a97b79214226a9441a@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261209T090000
+DTEND;TZID=America/Los_Angeles:20261209T134500
+SUMMARY:ESL 50 & 50S
+LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
+ 91963
+DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
+  general information line at (619) 660-4264 or email district.specialproje
+ cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a70a9
+ 7b79214226a9441a\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a874d6736204e08fbb5e796@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261209T100000
+DTEND;TZID=America/Los_Angeles:20261209T120000
+SUMMARY:Citizenship Course
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:Join this free 10-week Citizenship Course instructed by Jewish 
+ Family Service and conducted in English. Participants will receive a textb
+ ook\, supplies\, and access to resources for online assignments and test p
+ reparation. Strengthen your speaking\, reading\, and writing skills to con
+ fidently prepare …\n\nMore info: https://sdcl.bibliocommons.com/events/6
+ a874d6736204e08fbb5e796\nListed by: San Diego County Library
+CATEGORIES:Citizenship
+END:VEVENT
+BEGIN:VEVENT
+UID:6930d6ff04caba2f00d32592@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261209T120000
+DTEND;TZID=America/Los_Angeles:20261209T160000
+SUMMARY:San Diego Law Library Information Table
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:We are excited to partner with the San Diego Law Library to bri
+ ng you access to legal databases and reference assistance. On the 2nd & 4t
+ h Wednesday of the month\, from 12pm to 4pm\, a reference librarian from t
+ he Law Library will be at our location. The Librarian can guide you to res
+ ources to better …\n\nMore info: https://sdcl.bibliocommons.com/events/6
+ 930d6ff04caba2f00d32592\nListed by: San Diego County Library
+CATEGORIES:Tabling
+END:VEVENT
+BEGIN:VEVENT
+UID:6a3d85b94407827f8aa761b2@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261209T133000
+DTEND;TZID=America/Los_Angeles:20261209T150000
+SUMMARY:English as a Second Language
+LOCATION:4S Ranch Branch Library\, 10433 Reserve Drive\, San Diego\, CA 921
+ 27
+DESCRIPTION:English as a Second Language Instructor led class for non-Engli
+ sh speakers. No registration necessary. Meets in the 4S Ranch community ro
+ om.\n\nMore info: https://sdcl.bibliocommons.com/events/6a3d85b94407827f8a
+ a761b2\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa9a1d4a433d308573baaca@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261209T133000
+DTEND;TZID=America/Los_Angeles:20261209T153000
+SUMMARY:ESL English Language Class: Beginning
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
+ nglish Language Class in partnership with the Laubach Literacy Council San
+  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa9a1d4a433d3
+ 08573baaca\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:55587
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261209T233000Z
+DTEND:20261210T003000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55587\nListed by: Oceanside Public Library
+SUMMARY:Cafecito: English Practice
+LOCATION:2855 Cedar Rd\, Oceanside\, CA\, 92056\, US
+ROOM:John Landes Community Center Study Room
+STATUS:CONFIRMED
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:c8987f6e8c1bf9ee4e7e@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261209T170000
+DTEND;TZID=America/Los_Angeles:20261209T190000
+SUMMARY:Free Citizenship Course (Virtual)
+LOCATION:Online via Zoom
+DESCRIPTION:Free citizenship classes offered by JFS in partnership with San
+  Diego County Library.\n\nMore info: https://www.jfssd.org/event/free-citi
+ zenship-course-virtual-3/\nListed by: Jewish Family Service of San Diego
+CATEGORIES:Online,Citizenship
+END:VEVENT
+BEGIN:VEVENT
+UID:69488c3a8b29ea2800c55cd3@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261209T173000
+DTEND;TZID=America/Los_Angeles:20261209T184500
+SUMMARY:Pathways to Citizenship Tutoring Hour
+LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
+DESCRIPTION:Pathways to Citizenship will provide ESL & Citizenship tutoring
+ . Learn more about specific eligibility requirements for naturalization. C
+ ome get information to help navigate the pathway to Citizenship.\n\nMore i
+ nfo: https://sdcl.bibliocommons.com/events/69488c3a8b29ea2800c55cd3\nListe
+ d by: San Diego County Library
+CATEGORIES:Spanish,Citizenship,ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:3600886054377bb0dc02@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261209T180000
+SUMMARY:We the People: Claim Our Collective Power – Virtual Civic Engagem
+ ent Training (Spanish session)
+LOCATION:Virtual
+DESCRIPTION:Module 5 of the free five-part virtual civic engagement trainin
+ g series\, in Spanish. Registration required.\n\nMore info: https://www.al
+ liancesd.org/event/we-the-people-claim-our-collective-power/\nListed by: A
+ lliance San Diego
+CATEGORIES:Online,Spanish,Rights & civic,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5a72e782c03c5c17d8b30c@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261210T090000
+DTEND;TZID=America/Los_Angeles:20261210T121500
+SUMMARY:ESL 122
+LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
+ 91963
+DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
+  general information line at (619) 660-4264 or email district.specialproje
+ cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a72e7
+ 82c03c5c17d8b30c\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:e698ba2063f045d69aec@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261210T093000
+DTEND;TZID=America/Los_Angeles:20261210T123500
+SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
+ Library Learning Center)
+LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
+ Centro de Aprendizaje\, 3368 Eureka Place Carlsbad\, California 92008
+DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
+ ialized courses in English for non-native speakers. Apply online at miraco
+ sta.edu/ncapply or drop in early and apply in person before the session be
+ gins. ESL classes at the Library Learning Center will take place on the se
+ cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
+ ents/Calendar/Event/21643\nListed by: Carlsbad City Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a8795e4be1482002988e7b8@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261210T120000
+DTEND;TZID=America/Los_Angeles:20261210T141500
+SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
+ s!
+LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
+  92069
+DESCRIPTION:Improve your conversation\, listening\, writing\, and reading s
+ kills.Mejore sus habilidades de conversación\, escuchar\, escritura y lec
+ tura.\n\nMore info: https://sdcl.bibliocommons.com/events/6a8795e4be148200
+ 2988e7b8\nListed by: San Diego County Library
+CATEGORIES:Spanish,ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa0882b4378382c2abf6785@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261210T153000
+DTEND;TZID=America/Los_Angeles:20261210T173000
+SUMMARY:ESL English Language Class: Intermediate
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
+ nglish Language Class in partnership with the Laubach Literacy Council San
+  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa0882b437838
+ 2c2abf6785\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:55610
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261211T011500Z
+DTEND:20261211T020000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55610\nListed by: Oceanside Public Library
+SUMMARY:Cafecito: English Practice
+LOCATION:330 North Coast Hwy\, Oceanside\, CA\, 92054\, US
+ROOM:Foundation Room
+STATUS:CONFIRMED
 CATEGORIES:ESL
 END:VEVENT
 END:VCALENDAR

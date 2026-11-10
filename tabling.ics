@@ -22,25 +22,27 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:6930d6ff04caba2f00d3258f@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261028T120000
-DTEND;TZID=America/Los_Angeles:20261028T160000
-SUMMARY:San Diego Law Library Information Table
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:We are excited to partner with the San Diego Law Library to bri
- ng you access to legal databases and reference assistance. On the 2nd & 4t
- h Wednesday of the month\, from 12pm to 4pm\, a reference librarian from t
- he Law Library will be at our location. The Librarian can guide you to res
- ources to better …\n\nMore info: https://sdcl.bibliocommons.com/events/6
- 930d6ff04caba2f00d3258f\nListed by: San Diego County Library
+UID:2595
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261119T180000Z
+DTEND:20261119T220000Z
+DESCRIPTION:More info: https://escondido.librarycalendar.com/event/law-libr
+ ary-support-2595\nListed by: Escondido Public Library
+SUMMARY:Law Library Support
+LOCATION:239 S Kalmia St\, Escondido\, CA\, 92025\, US
+ROOM:Partner Table (1F)
+STATUS:CONFIRMED
 CATEGORIES:Tabling
 END:VEVENT
 BEGIN:VEVENT
-UID:6930d6ff04caba2f00d32590@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261111T120000
-DTEND;TZID=America/Los_Angeles:20261111T160000
+UID:6930d6ff04caba2f00d32591@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261125T120000
+DTEND;TZID=America/Los_Angeles:20261125T160000
 SUMMARY:San Diego Law Library Information Table
 LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
 DESCRIPTION:We are excited to partner with the San Diego Law Library to bri
@@ -48,7 +50,39 @@ DESCRIPTION:We are excited to partner with the San Diego Law Library to bri
  h Wednesday of the month\, from 12pm to 4pm\, a reference librarian from t
  he Law Library will be at our location. The Librarian can guide you to res
  ources to better …\n\nMore info: https://sdcl.bibliocommons.com/events/6
- 930d6ff04caba2f00d32590\nListed by: San Diego County Library
+ 930d6ff04caba2f00d32591\nListed by: San Diego County Library
+CATEGORIES:Tabling
+END:VEVENT
+BEGIN:VEVENT
+UID:2596
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261203T180000Z
+DTEND:20261203T220000Z
+DESCRIPTION:More info: https://escondido.librarycalendar.com/event/law-libr
+ ary-support-2596\nListed by: Escondido Public Library
+SUMMARY:Law Library Support
+LOCATION:239 S Kalmia St\, Escondido\, CA\, 92025\, US
+ROOM:Partner Table (1F)
+STATUS:CONFIRMED
+CATEGORIES:Tabling
+END:VEVENT
+BEGIN:VEVENT
+UID:6930d6ff04caba2f00d32592@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261209T120000
+DTEND;TZID=America/Los_Angeles:20261209T160000
+SUMMARY:San Diego Law Library Information Table
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:We are excited to partner with the San Diego Law Library to bri
+ ng you access to legal databases and reference assistance. On the 2nd & 4t
+ h Wednesday of the month\, from 12pm to 4pm\, a reference librarian from t
+ he Law Library will be at our location. The Librarian can guide you to res
+ ources to better …\n\nMore info: https://sdcl.bibliocommons.com/events/6
+ 930d6ff04caba2f00d32592\nListed by: San Diego County Library
 CATEGORIES:Tabling
 END:VEVENT
 END:VCALENDAR

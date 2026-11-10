@@ -22,990 +22,10 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:6a5a70a97b79214226a9440e@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261019T090000
-DTEND;TZID=America/Los_Angeles:20261019T134500
-SUMMARY:ESL 50 & 50S
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
-  general information line at (619) 660-4264 or email district.specialproje
- cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a70a9
- 7b79214226a9440e\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:55490
-DTSTART:20261020T003000Z
-DTEND:20261020T013000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55490\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:4700 N River Rd\, Oceanside\, CA\, 92057\, US
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:11a132fcf667d3c72ac0@sandiego.events.mylibrary.digital
-DTSTART;TZID=America/Los_Angeles:20261019T180000
-DTEND;TZID=America/Los_Angeles:20261019T193000
-SUMMARY:English Language Conversation
-LOCATION:Central Library\, San Diego
-STATUS:CONFIRMED
-DESCRIPTION:Enjoy practicing your English with other adults in a relaxed en
- vironment. Registration is preferred\, but not required. Drop-in attendees
-  are welcome. This group is for adult English Language learners who alread
- y speak some English and would like additional practice using it in spoken
-  conversation. Groups take place each Monday evening\, even if there is a 
- Padres Game. Please register to be notified of... Registration required.\n
- \nMore info: https://sandiego.events.mylibrary.digital\nListed by: San Die
- go Public Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a5a72e782c03c5c17d8b2ff@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261020T090000
-DTEND;TZID=America/Los_Angeles:20261020T121500
-SUMMARY:ESL 122
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
-  general information line at (619) 660-4264 or email district.specialproje
- cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a72e7
- 82c03c5c17d8b2ff\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:9ac9d4d505a5dd6b769e@sd-immigration-calendar
-DTSTART;TZID=America/Los_Angeles:20261020T093000
-DTEND;TZID=America/Los_Angeles:20261020T123500
-SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
- Library Learning Center)
-LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
- Centro de Aprendizaje\, 3368 Eureka Place Carlsbad\, California 92008
-DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
- ialized courses in English for non-native speakers. Apply online at miraco
- sta.edu/ncapply or drop in early and apply in person before the session be
- gins. ESL classes at the Library Learning Center will take place on the se
- cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
- ents/Calendar/Event/21629\nListed by: Carlsbad City Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:55513
-DTSTART:20261020T170000Z
-DTEND:20261020T180000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55513\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:804 Pier View Wy\, Oceanside\, CA\, 92054\, US
-ROOM:READS Program Space
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a8795e4be1482002988e7a9@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261020T120000
-DTEND;TZID=America/Los_Angeles:20261020T141500
-SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
- s!
-LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
-  92069
-DESCRIPTION:Improve your conversation\, listening\, writing\, and reading s
- kills.Mejore sus habilidades de conversación\, escuchar\, escritura y lec
- tura.\n\nMore info: https://sdcl.bibliocommons.com/events/6a8795e4be148200
- 2988e7a9\nListed by: San Diego County Library
-CATEGORIES:Spanish,ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:55559
-DTSTART:20261020T193000Z
-DTEND:20261020T203000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55559\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:455 Country Club Lane\, Oceanside\, CA\, 92054\, US
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6aa9a1b356fe62004a2fe5a8@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261020T133000
-DTEND;TZID=America/Los_Angeles:20261020T153000
-SUMMARY:ESL English Language Class: Beginning
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
- nglish Language Class in partnership with the Laubach Literacy Council San
-  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa9a1b356fe62
- 004a2fe5a8\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6aad603f4ea230006f348622@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261020T163000
-DTEND;TZID=America/Los_Angeles:20261020T173000
-SUMMARY:ESL Beginners Class
-LOCATION:Ramona Branch Library\, 1275 Main Street\, Ramona\, CA 92065
-DESCRIPTION:English as a second language classesInstructor led class for no
- n-English speakers. Please inquire at front desk for more information. Cla
- ses de inglés como segundo lenguajeClase dirigida por una instructora par
- a personas que no hablan inglés. Por favor\, pregunte en la recepción pa
- ra obtener más …\n\nMore info: https://sdcl.bibliocommons.com/events/6a
- ad603f4ea230006f348622\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:cf6d6740663f647bfd2d@sandiego.events.mylibrary.digital
-DTSTART;TZID=America/Los_Angeles:20261020T183000
-DTEND;TZID=America/Los_Angeles:20261020T193000
-SUMMARY:ESL Conversation Group
-LOCATION:Mira Mesa Library\, San Diego
-STATUS:CONFIRMED
-DESCRIPTION:Join us for casual\, friendly conversation designed to increase
-  participants'comfort with the English language and maybe make new friends
- .\n\nMore info: https://sandiego.events.mylibrary.digital\nListed by: San 
- Diego Public Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a5a70a97b79214226a9440f@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261021T090000
-DTEND;TZID=America/Los_Angeles:20261021T134500
-SUMMARY:ESL 50 & 50S
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
-  general information line at (619) 660-4264 or email district.specialproje
- cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a70a9
- 7b79214226a9440f\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:41a155861c8614e2f28b@sandiego.events.mylibrary.digital
-DTSTART;TZID=America/Los_Angeles:20261021T130000
-DTEND;TZID=America/Los_Angeles:20261021T143000
-SUMMARY:Basic English Class
-LOCATION:Pacific Highlands Ranch Library\, San Diego
-STATUS:CONFIRMED
-DESCRIPTION:Learn basic English! This FREE six-week program is for beginnin
- g English speakers and no registration is required. Class meets Wednesdays
-  and Fridays from 1-2:30pm\, starting Wednesday\, October 7. Presented by 
- Poway Adult School and sponsored by the Friends of Rancho Penasquitos Bran
- ch Library. Class Dates: Wednesday\, October 7 - Community Room Friday\, O
- ctober - Room 123 Wednesday\, October 14 - Community Ro...\n\nMore info: h
- ttps://sandiego.events.mylibrary.digital\nListed by: San Diego Public Libr
- ary
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a3d85b94407827f8aa761ab@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261021T133000
-DTEND;TZID=America/Los_Angeles:20261021T150000
-SUMMARY:English as a Second Language
-LOCATION:4S Ranch Branch Library\, 10433 Reserve Drive\, San Diego\, CA 921
- 27
-DESCRIPTION:English as a Second Language Instructor led class for non-Engli
- sh speakers. No registration necessary. Meets in the 4S Ranch community ro
- om.\n\nMore info: https://sdcl.bibliocommons.com/events/6a3d85b94407827f8a
- a761ab\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6aa9a1d4a433d308573baabd@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261021T133000
-DTEND;TZID=America/Los_Angeles:20261021T153000
-SUMMARY:ESL English Language Class: Beginning
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
- nglish Language Class in partnership with the Laubach Literacy Council San
-  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa9a1d4a433d3
- 08573baabd\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:55582
-DTSTART:20261021T223000Z
-DTEND:20261021T233000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55582\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:2855 Cedar Rd\, Oceanside\, CA\, 92056\, US
-ROOM:John Landes Community Center Study Room
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:0cfedf58514b93eb331b@sandiego.events.mylibrary.digital
-DTSTART;TZID=America/Los_Angeles:20261021T163000
-DTEND;TZID=America/Los_Angeles:20261021T173000
-SUMMARY:English Corner: English Conversation
-LOCATION:North University Community Library\, San Diego
-STATUS:CONFIRMED
-DESCRIPTION:Community members with a basic grasp of English language can ha
- ve fun themed conversations and build relationships with one another. We w
- ill talk about ourselves\, our cultures\, and more.\n\nMore info: https://
- sandiego.events.mylibrary.digital\nListed by: San Diego Public Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a5a72e782c03c5c17d8b300@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261022T090000
-DTEND;TZID=America/Los_Angeles:20261022T121500
-SUMMARY:ESL 122
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
-  general information line at (619) 660-4264 or email district.specialproje
- cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a72e7
- 82c03c5c17d8b300\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:eb4892e48b6ed38b5fa8@sd-immigration-calendar
-DTSTART;TZID=America/Los_Angeles:20261022T093000
-DTEND;TZID=America/Los_Angeles:20261022T123500
-SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
- Library Learning Center)
-LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
- Centro de Aprendizaje\, 3368 Eureka Place Carlsbad\, California 92008
-DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
- ialized courses in English for non-native speakers. Apply online at miraco
- sta.edu/ncapply or drop in early and apply in person before the session be
- gins. ESL classes at the Library Learning Center will take place on the se
- cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
- ents/Calendar/Event/21630\nListed by: Carlsbad City Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a8795e4be1482002988e7aa@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261022T120000
-DTEND;TZID=America/Los_Angeles:20261022T141500
-SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
- s!
-LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
-  92069
-DESCRIPTION:Improve your conversation\, listening\, writing\, and reading s
- kills.Mejore sus habilidades de conversación\, escuchar\, escritura y lec
- tura.\n\nMore info: https://sdcl.bibliocommons.com/events/6a8795e4be148200
- 2988e7aa\nListed by: San Diego County Library
-CATEGORIES:Spanish,ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6aa0882b4378382c2abf677f@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261022T153000
-DTEND;TZID=America/Los_Angeles:20261022T173000
-SUMMARY:ESL English Language Class: Intermediate
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
- nglish Language Class in partnership with the Laubach Literacy Council San
-  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa0882b437838
- 2c2abf677f\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:55604
-DTSTART:20261023T001500Z
-DTEND:20261023T010000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55604\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:330 North Coast Hwy\, Oceanside\, CA\, 92054\, US
-ROOM:Foundation Room
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6abff8b8901b02002cbf94a7@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261023T110000
-DTEND;TZID=America/Los_Angeles:20261023T133000
-SUMMARY:ESL English Language Class: Intermediate
-LOCATION:Bonita-Sunnyside Branch Library\, 4375 Bonita Road\, Bonita\, CA 9
- 1902
-DESCRIPTION:Free English Language Class in partnership with the Laubach Lit
- eracy Council San Diego\, Fridays 11a - 1:30p\n\nMore info: https://sdcl.b
- ibliocommons.com/events/6abff8b8901b02002cbf94a7\nListed by: San Diego Cou
- nty Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:4e29de679654baf4ca7d@sandiego.events.mylibrary.digital
-DTSTART;TZID=America/Los_Angeles:20261023T130000
-DTEND;TZID=America/Los_Angeles:20261023T143000
-SUMMARY:Basic English Class
-LOCATION:Pacific Highlands Ranch Library\, San Diego
-STATUS:CONFIRMED
-DESCRIPTION:Learn basic English! This FREE six-week program is for beginnin
- g English speakers and no registration is required. Class meets Wednesdays
-  and Fridays from 1-2:30pm\, starting Wednesday\, October 7. Presented by 
- Poway Adult School and sponsored by the Friends of Rancho Penasquitos Bran
- ch Library. Class Dates: Wednesday\, October 7 - Community Room Friday\, O
- ctober - Room 123 Wednesday\, October 14 - Community Ro...\n\nMore info: h
- ttps://sandiego.events.mylibrary.digital\nListed by: San Diego Public Libr
- ary
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6aa72c5d7825b4006406bcd7@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261023T150000
-DTEND;TZID=America/Los_Angeles:20261023T170000
-SUMMARY:ESL English classes/ Clases de Ingles
-LOCATION:Encinitas Branch Library\, 540 Cornish Drive\, Encinitas\, CA 9202
- 4
-DESCRIPTION:Laubach Literacy Council of San Diego\, in partnership with the
-  County library\, is offering English classes. All materials are provided.
-  Space is limited. Please reach out to the library for registration. Lauba
- ch Literacy Council of San Diego en alianza con la Biblioteca del Condado 
- de San Diego …\n\nMore info: https://sdcl.bibliocommons.com/events/6aa72
- c5d7825b4006406bcd7\nListed by: San Diego County Library
-CATEGORIES:Spanish,ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a5a70a97b79214226a94410@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261026T090000
-DTEND;TZID=America/Los_Angeles:20261026T134500
-SUMMARY:ESL 50 & 50S
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
-  general information line at (619) 660-4264 or email district.specialproje
- cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a70a9
- 7b79214226a94410\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:55491
-DTSTART:20261027T003000Z
-DTEND:20261027T013000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55491\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:4700 N River Rd\, Oceanside\, CA\, 92057\, US
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6ca089bcb2000116d633@sandiego.events.mylibrary.digital
-DTSTART;TZID=America/Los_Angeles:20261026T180000
-DTEND;TZID=America/Los_Angeles:20261026T193000
-SUMMARY:English Language Conversation
-LOCATION:Central Library\, San Diego
-STATUS:CONFIRMED
-DESCRIPTION:Enjoy practicing your English with other adults in a relaxed en
- vironment. Registration is preferred\, but not required. Drop-in attendees
-  are welcome. This group is for adult English Language learners who alread
- y speak some English and would like additional practice using it in spoken
-  conversation. Groups take place each Monday evening\, even if there is a 
- Padres Game. Please register to be notified of... Registration required.\n
- \nMore info: https://sandiego.events.mylibrary.digital\nListed by: San Die
- go Public Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a5a72e782c03c5c17d8b301@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261027T090000
-DTEND;TZID=America/Los_Angeles:20261027T121500
-SUMMARY:ESL 122
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
-  general information line at (619) 660-4264 or email district.specialproje
- cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a72e7
- 82c03c5c17d8b301\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:9339c18aa38ffb4589c7@sd-immigration-calendar
-DTSTART;TZID=America/Los_Angeles:20261027T093000
-DTEND;TZID=America/Los_Angeles:20261027T123500
-SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
- Library Learning Center)
-LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
- Centro de Aprendizaje\, 3368 Eureka Place Carlsbad\, California 92008
-DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
- ialized courses in English for non-native speakers. Apply online at miraco
- sta.edu/ncapply or drop in early and apply in person before the session be
- gins. ESL classes at the Library Learning Center will take place on the se
- cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
- ents/Calendar/Event/21631\nListed by: Carlsbad City Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:55514
-DTSTART:20261027T170000Z
-DTEND:20261027T180000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55514\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:804 Pier View Wy\, Oceanside\, CA\, 92054\, US
-ROOM:READS Program Space
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a8795e4be1482002988e7ab@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261027T120000
-DTEND;TZID=America/Los_Angeles:20261027T141500
-SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
- s!
-LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
-  92069
-DESCRIPTION:Improve your conversation\, listening\, writing\, and reading s
- kills.Mejore sus habilidades de conversación\, escuchar\, escritura y lec
- tura.\n\nMore info: https://sdcl.bibliocommons.com/events/6a8795e4be148200
- 2988e7ab\nListed by: San Diego County Library
-CATEGORIES:Spanish,ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:55560
-DTSTART:20261027T193000Z
-DTEND:20261027T203000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55560\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:455 Country Club Lane\, Oceanside\, CA\, 92054\, US
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6aa9a1b356fe62004a2fe5a9@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261027T133000
-DTEND;TZID=America/Los_Angeles:20261027T153000
-SUMMARY:ESL English Language Class: Beginning
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
- nglish Language Class in partnership with the Laubach Literacy Council San
-  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa9a1b356fe62
- 004a2fe5a9\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6aad603f4ea230006f348623@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261027T163000
-DTEND;TZID=America/Los_Angeles:20261027T173000
-SUMMARY:ESL Beginners Class
-LOCATION:Ramona Branch Library\, 1275 Main Street\, Ramona\, CA 92065
-DESCRIPTION:English as a second language classesInstructor led class for no
- n-English speakers. Please inquire at front desk for more information. Cla
- ses de inglés como segundo lenguajeClase dirigida por una instructora par
- a personas que no hablan inglés. Por favor\, pregunte en la recepción pa
- ra obtener más …\n\nMore info: https://sdcl.bibliocommons.com/events/6a
- ad603f4ea230006f348623\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:7f7dbffb5e12fdfeb45a@sandiego.events.mylibrary.digital
-DTSTART;TZID=America/Los_Angeles:20261027T183000
-DTEND;TZID=America/Los_Angeles:20261027T193000
-SUMMARY:ESL Conversation Group
-LOCATION:Mira Mesa Library\, San Diego
-STATUS:CONFIRMED
-DESCRIPTION:Join us for casual\, friendly conversation designed to increase
-  participants'comfort with the English language and maybe make new friends
- .\n\nMore info: https://sandiego.events.mylibrary.digital\nListed by: San 
- Diego Public Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a5a70a97b79214226a94411@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261028T090000
-DTEND;TZID=America/Los_Angeles:20261028T134500
-SUMMARY:ESL 50 & 50S
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
-  general information line at (619) 660-4264 or email district.specialproje
- cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a70a9
- 7b79214226a94411\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:c2be683e4dd9157ba2b7@sandiego.events.mylibrary.digital
-DTSTART;TZID=America/Los_Angeles:20261028T130000
-DTEND;TZID=America/Los_Angeles:20261028T143000
-SUMMARY:Basic English Class
-LOCATION:Pacific Highlands Ranch Library\, San Diego
-STATUS:CONFIRMED
-DESCRIPTION:Learn basic English! This FREE six-week program is for beginnin
- g English speakers and no registration is required. Class meets Wednesdays
-  and Fridays from 1-2:30pm\, starting Wednesday\, October 7. Presented by 
- Poway Adult School and sponsored by the Friends of Rancho Penasquitos Bran
- ch Library. Class Dates: Wednesday\, October 7 - Community Room Friday\, O
- ctober - Room 123 Wednesday\, October 14 - Community Ro...\n\nMore info: h
- ttps://sandiego.events.mylibrary.digital\nListed by: San Diego Public Libr
- ary
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a3d85b94407827f8aa761ac@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261028T133000
-DTEND;TZID=America/Los_Angeles:20261028T150000
-SUMMARY:English as a Second Language
-LOCATION:4S Ranch Branch Library\, 10433 Reserve Drive\, San Diego\, CA 921
- 27
-DESCRIPTION:English as a Second Language Instructor led class for non-Engli
- sh speakers. No registration necessary. Meets in the 4S Ranch community ro
- om.\n\nMore info: https://sdcl.bibliocommons.com/events/6a3d85b94407827f8a
- a761ac\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6aa9a1d4a433d308573baabf@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261028T133000
-DTEND;TZID=America/Los_Angeles:20261028T153000
-SUMMARY:ESL English Language Class: Beginning
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
- nglish Language Class in partnership with the Laubach Literacy Council San
-  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa9a1d4a433d3
- 08573baabf\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:55583
-DTSTART:20261028T223000Z
-DTEND:20261028T233000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55583\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:2855 Cedar Rd\, Oceanside\, CA\, 92056\, US
-ROOM:John Landes Community Center Study Room
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a5a72e782c03c5c17d8b302@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261029T090000
-DTEND;TZID=America/Los_Angeles:20261029T121500
-SUMMARY:ESL 122
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
-  general information line at (619) 660-4264 or email district.specialproje
- cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a72e7
- 82c03c5c17d8b302\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:3ef2d7f04ad497875f5b@sd-immigration-calendar
-DTSTART;TZID=America/Los_Angeles:20261029T093000
-DTEND;TZID=America/Los_Angeles:20261029T123500
-SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
- Library Learning Center)
-LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
- Centro de Aprendizaje\, 3368 Eureka Place Carlsbad\, California 92008
-DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
- ialized courses in English for non-native speakers. Apply online at miraco
- sta.edu/ncapply or drop in early and apply in person before the session be
- gins. ESL classes at the Library Learning Center will take place on the se
- cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
- ents/Calendar/Event/21632\nListed by: Carlsbad City Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a8795e4be1482002988e7ac@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261029T120000
-DTEND;TZID=America/Los_Angeles:20261029T141500
-SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
- s!
-LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
-  92069
-DESCRIPTION:Improve your conversation\, listening\, writing\, and reading s
- kills.Mejore sus habilidades de conversación\, escuchar\, escritura y lec
- tura.\n\nMore info: https://sdcl.bibliocommons.com/events/6a8795e4be148200
- 2988e7ac\nListed by: San Diego County Library
-CATEGORIES:Spanish,ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6aa0882b4378382c2abf6780@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261029T153000
-DTEND;TZID=America/Los_Angeles:20261029T173000
-SUMMARY:ESL English Language Class: Intermediate
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
- nglish Language Class in partnership with the Laubach Literacy Council San
-  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa0882b437838
- 2c2abf6780\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:55605
-DTSTART:20261030T001500Z
-DTEND:20261030T010000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55605\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:330 North Coast Hwy\, Oceanside\, CA\, 92054\, US
-ROOM:Foundation Room
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6abff8b8901b02002cbf94a8@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261030T110000
-DTEND;TZID=America/Los_Angeles:20261030T133000
-SUMMARY:ESL English Language Class: Intermediate
-LOCATION:Bonita-Sunnyside Branch Library\, 4375 Bonita Road\, Bonita\, CA 9
- 1902
-DESCRIPTION:Free English Language Class in partnership with the Laubach Lit
- eracy Council San Diego\, Fridays 11a - 1:30p\n\nMore info: https://sdcl.b
- ibliocommons.com/events/6abff8b8901b02002cbf94a8\nListed by: San Diego Cou
- nty Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a5a70a97b79214226a94412@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261102T090000
-DTEND;TZID=America/Los_Angeles:20261102T134500
-SUMMARY:ESL 50 & 50S
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
-  general information line at (619) 660-4264 or email district.specialproje
- cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a70a9
- 7b79214226a94412\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:55492
-DTSTART:20261103T013000Z
-DTEND:20261103T023000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55492\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:4700 N River Rd\, Oceanside\, CA\, 92057\, US
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a5a72e782c03c5c17d8b303@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261103T090000
-DTEND;TZID=America/Los_Angeles:20261103T121500
-SUMMARY:ESL 122
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
-  general information line at (619) 660-4264 or email district.specialproje
- cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a72e7
- 82c03c5c17d8b303\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:db17f906895bd76b61a6@sd-immigration-calendar
-DTSTART;TZID=America/Los_Angeles:20261103T093000
-DTEND;TZID=America/Los_Angeles:20261103T123500
-SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
- Library Learning Center)
-LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
- Centro de Aprendizaje\, 3368 Eureka Place Carlsbad\, California 92008
-DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
- ialized courses in English for non-native speakers. Apply online at miraco
- sta.edu/ncapply or drop in early and apply in person before the session be
- gins. ESL classes at the Library Learning Center will take place on the se
- cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
- ents/Calendar/Event/21633\nListed by: Carlsbad City Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:55515
-DTSTART:20261103T180000Z
-DTEND:20261103T190000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55515\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:804 Pier View Wy\, Oceanside\, CA\, 92054\, US
-ROOM:READS Program Space
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a8795e4be1482002988e7ad@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261103T120000
-DTEND;TZID=America/Los_Angeles:20261103T141500
-SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
- s!
-LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
-  92069
-DESCRIPTION:Improve your conversation\, listening\, writing\, and reading s
- kills.Mejore sus habilidades de conversación\, escuchar\, escritura y lec
- tura.\n\nMore info: https://sdcl.bibliocommons.com/events/6a8795e4be148200
- 2988e7ad\nListed by: San Diego County Library
-CATEGORIES:Spanish,ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:55561
-DTSTART:20261103T203000Z
-DTEND:20261103T213000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55561\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:455 Country Club Lane\, Oceanside\, CA\, 92054\, US
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6aa9a1b356fe62004a2fe5aa@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261103T133000
-DTEND;TZID=America/Los_Angeles:20261103T153000
-SUMMARY:ESL English Language Class: Beginning
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
- nglish Language Class in partnership with the Laubach Literacy Council San
-  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa9a1b356fe62
- 004a2fe5aa\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6aad603f4ea230006f348624@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261103T163000
-DTEND;TZID=America/Los_Angeles:20261103T173000
-SUMMARY:ESL Beginners Class
-LOCATION:Ramona Branch Library\, 1275 Main Street\, Ramona\, CA 92065
-DESCRIPTION:English as a second language classesInstructor led class for no
- n-English speakers. Please inquire at front desk for more information. Cla
- ses de inglés como segundo lenguajeClase dirigida por una instructora par
- a personas que no hablan inglés. Por favor\, pregunte en la recepción pa
- ra obtener más …\n\nMore info: https://sdcl.bibliocommons.com/events/6a
- ad603f4ea230006f348624\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a5a70a97b79214226a94413@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261104T090000
-DTEND;TZID=America/Los_Angeles:20261104T134500
-SUMMARY:ESL 50 & 50S
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
-  general information line at (619) 660-4264 or email district.specialproje
- cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a70a9
- 7b79214226a94413\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a3d85b94407827f8aa761ad@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261104T133000
-DTEND;TZID=America/Los_Angeles:20261104T150000
-SUMMARY:English as a Second Language
-LOCATION:4S Ranch Branch Library\, 10433 Reserve Drive\, San Diego\, CA 921
- 27
-DESCRIPTION:English as a Second Language Instructor led class for non-Engli
- sh speakers. No registration necessary. Meets in the 4S Ranch community ro
- om.\n\nMore info: https://sdcl.bibliocommons.com/events/6a3d85b94407827f8a
- a761ad\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6aa9a1d4a433d308573baac1@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261104T133000
-DTEND;TZID=America/Los_Angeles:20261104T153000
-SUMMARY:ESL English Language Class: Beginning
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
- nglish Language Class in partnership with the Laubach Literacy Council San
-  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa9a1d4a433d3
- 08573baac1\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:55584
-DTSTART:20261104T233000Z
-DTEND:20261105T003000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55584\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:2855 Cedar Rd\, Oceanside\, CA\, 92056\, US
-ROOM:John Landes Community Center Study Room
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a5a72e782c03c5c17d8b304@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261105T090000
-DTEND;TZID=America/Los_Angeles:20261105T121500
-SUMMARY:ESL 122
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
-  general information line at (619) 660-4264 or email district.specialproje
- cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a72e7
- 82c03c5c17d8b304\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:fca2ad3b49a9ce11252f@sd-immigration-calendar
-DTSTART;TZID=America/Los_Angeles:20261105T093000
-DTEND;TZID=America/Los_Angeles:20261105T123500
-SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
- Library Learning Center)
-LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
- Centro de Aprendizaje\, 3368 Eureka Place Carlsbad\, California 92008
-DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
- ialized courses in English for non-native speakers. Apply online at miraco
- sta.edu/ncapply or drop in early and apply in person before the session be
- gins. ESL classes at the Library Learning Center will take place on the se
- cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
- ents/Calendar/Event/21634\nListed by: Carlsbad City Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a8795e4be1482002988e7ae@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261105T120000
-DTEND;TZID=America/Los_Angeles:20261105T141500
-SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
- s!
-LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
-  92069
-DESCRIPTION:Improve your conversation\, listening\, writing\, and reading s
- kills.Mejore sus habilidades de conversación\, escuchar\, escritura y lec
- tura.\n\nMore info: https://sdcl.bibliocommons.com/events/6a8795e4be148200
- 2988e7ae\nListed by: San Diego County Library
-CATEGORIES:Spanish,ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6aa0882b4378382c2abf6781@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261105T153000
-DTEND;TZID=America/Los_Angeles:20261105T173000
-SUMMARY:ESL English Language Class: Intermediate
-LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
-DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
- nglish Language Class in partnership with the Laubach Literacy Council San
-  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa0882b437838
- 2c2abf6781\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:55606
-DTSTART:20261106T011500Z
-DTEND:20261106T020000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55606\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:330 North Coast Hwy\, Oceanside\, CA\, 92054\, US
-ROOM:Foundation Room
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6abff8b8901b02002cbf94a9@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261106T110000
-DTEND;TZID=America/Los_Angeles:20261106T133000
-SUMMARY:ESL English Language Class: Intermediate
-LOCATION:Bonita-Sunnyside Branch Library\, 4375 Bonita Road\, Bonita\, CA 9
- 1902
-DESCRIPTION:Free English Language Class in partnership with the Laubach Lit
- eracy Council San Diego\, Fridays 11a - 1:30p\n\nMore info: https://sdcl.b
- ibliocommons.com/events/6abff8b8901b02002cbf94a9\nListed by: San Diego Cou
- nty Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a5a70a97b79214226a94414@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261109T090000
-DTEND;TZID=America/Los_Angeles:20261109T134500
-SUMMARY:ESL 50 & 50S
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
-  general information line at (619) 660-4264 or email district.specialproje
- cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a70a9
- 7b79214226a94414\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:55493
-DTSTART:20261110T013000Z
-DTEND:20261110T023000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55493\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:4700 N River Rd\, Oceanside\, CA\, 92057\, US
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:6a5a72e782c03c5c17d8b305@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261110T090000
-DTEND;TZID=America/Los_Angeles:20261110T121500
-SUMMARY:ESL 122
-LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
- 91963
-DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
-  general information line at (619) 660-4264 or email district.specialproje
- cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a72e7
- 82c03c5c17d8b305\nListed by: San Diego County Library
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
 UID:8139d90bb8f6cef9bf47@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261110T093000
 DTEND;TZID=America/Los_Angeles:20261110T123500
 SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
@@ -1018,25 +38,13 @@ DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
  gins. ESL classes at the Library Learning Center will take place on the se
  cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
  ents/Calendar/Event/21635\nListed by: Carlsbad City Library
-DTSTAMP:20261017T000000Z
-CATEGORIES:ESL
-END:VEVENT
-BEGIN:VEVENT
-UID:55516
-DTSTART:20261110T180000Z
-DTEND:20261110T190000Z
-DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
- to-english-practice-55516\nListed by: Oceanside Public Library
-SUMMARY:Cafecito: English Practice
-LOCATION:804 Pier View Wy\, Oceanside\, CA\, 92054\, US
-ROOM:READS Program Space
-STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
 CATEGORIES:ESL
 END:VEVENT
 BEGIN:VEVENT
 UID:6a8795e4be1482002988e7af@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261110T120000
 DTEND;TZID=America/Los_Angeles:20261110T141500
 SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
@@ -1051,6 +59,9 @@ CATEGORIES:Spanish,ESL
 END:VEVENT
 BEGIN:VEVENT
 UID:55562
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART:20261110T203000Z
 DTEND:20261110T213000Z
 DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
@@ -1058,12 +69,13 @@ DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
 SUMMARY:Cafecito: English Practice
 LOCATION:455 Country Club Lane\, Oceanside\, CA\, 92054\, US
 STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
 CATEGORIES:ESL
 END:VEVENT
 BEGIN:VEVENT
 UID:6aa9a1b356fe62004a2fe5ab@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261110T133000
 DTEND;TZID=America/Los_Angeles:20261110T153000
 SUMMARY:ESL English Language Class: Beginning
@@ -1076,7 +88,9 @@ CATEGORIES:ESL
 END:VEVENT
 BEGIN:VEVENT
 UID:6aad603f4ea230006f348625@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261110T163000
 DTEND;TZID=America/Los_Angeles:20261110T173000
 SUMMARY:ESL Beginners Class
@@ -1090,22 +104,42 @@ DESCRIPTION:English as a second language classesInstructor led class for no
 CATEGORIES:ESL
 END:VEVENT
 BEGIN:VEVENT
-UID:6a3d85b94407827f8aa761ae@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
-DTSTART;TZID=America/Los_Angeles:20261111T133000
-DTEND;TZID=America/Los_Angeles:20261111T150000
-SUMMARY:English as a Second Language
-LOCATION:4S Ranch Branch Library\, 10433 Reserve Drive\, San Diego\, CA 921
- 27
-DESCRIPTION:English as a Second Language Instructor led class for non-Engli
- sh speakers. No registration necessary. Meets in the 4S Ranch community ro
- om.\n\nMore info: https://sdcl.bibliocommons.com/events/6a3d85b94407827f8a
- a761ae\nListed by: San Diego County Library
+UID:12543b51c1f5b07876d2@sandiego.events.mylibrary.digital
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261110T180000
+DTEND;TZID=America/Los_Angeles:20261110T193000
+SUMMARY:Conversational English
+LOCATION:City Heights/Weingart Library\, San Diego
+STATUS:CONFIRMED
+DESCRIPTION:Want to practice your English in a friendly\, relaxed setting. 
+ Come and join us at the Library for conversational English with Leslie.\n\
+ nMore info: https://sandiego.events.mylibrary.digital\nListed by: San Dieg
+ o Public Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:8573ff0a3d56a557bd9e@sandiego.events.mylibrary.digital
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261110T183000
+DTEND;TZID=America/Los_Angeles:20261110T193000
+SUMMARY:ESL Conversation Group
+LOCATION:Mira Mesa Library\, San Diego
+STATUS:CONFIRMED
+DESCRIPTION:Join us for casual\, friendly conversation designed to increase
+  participants'comfort with the English language and maybe make new friends
+ .\n\nMore info: https://sandiego.events.mylibrary.digital\nListed by: San 
+ Diego Public Library
 CATEGORIES:ESL
 END:VEVENT
 BEGIN:VEVENT
 UID:6a5a72e782c03c5c17d8b306@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261112T090000
 DTEND;TZID=America/Los_Angeles:20261112T121500
 SUMMARY:ESL 122
@@ -1119,6 +153,9 @@ CATEGORIES:ESL
 END:VEVENT
 BEGIN:VEVENT
 UID:8c0915a45c4a8e827295@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261112T093000
 DTEND;TZID=America/Los_Angeles:20261112T123500
 SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
@@ -1131,12 +168,13 @@ DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
  gins. ESL classes at the Library Learning Center will take place on the se
  cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
  ents/Calendar/Event/21636\nListed by: Carlsbad City Library
-DTSTAMP:20261017T000000Z
 CATEGORIES:ESL
 END:VEVENT
 BEGIN:VEVENT
 UID:6a8795e4be1482002988e7b0@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261112T120000
 DTEND;TZID=America/Los_Angeles:20261112T141500
 SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
@@ -1151,7 +189,9 @@ CATEGORIES:Spanish,ESL
 END:VEVENT
 BEGIN:VEVENT
 UID:6aa0882b4378382c2abf6782@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261112T153000
 DTEND;TZID=America/Los_Angeles:20261112T173000
 SUMMARY:ESL English Language Class: Intermediate
@@ -1164,6 +204,9 @@ CATEGORIES:ESL
 END:VEVENT
 BEGIN:VEVENT
 UID:55607
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART:20261113T011500Z
 DTEND:20261113T020000Z
 DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
@@ -1172,12 +215,13 @@ SUMMARY:Cafecito: English Practice
 LOCATION:330 North Coast Hwy\, Oceanside\, CA\, 92054\, US
 ROOM:Foundation Room
 STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
 CATEGORIES:ESL
 END:VEVENT
 BEGIN:VEVENT
 UID:6abff8b8901b02002cbf94aa@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261113T110000
 DTEND;TZID=America/Los_Angeles:20261113T133000
 SUMMARY:ESL English Language Class: Intermediate
@@ -1190,8 +234,30 @@ DESCRIPTION:Free English Language Class in partnership with the Laubach Lit
 CATEGORIES:ESL
 END:VEVENT
 BEGIN:VEVENT
+UID:409e9ad21cb13c74662c@sandiego.events.mylibrary.digital
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261113T130000
+DTEND;TZID=America/Los_Angeles:20261113T143000
+SUMMARY:Basic English Class
+LOCATION:Pacific Highlands Ranch Library\, San Diego
+STATUS:CONFIRMED
+DESCRIPTION:Learn basic English! This FREE six-week program is for beginnin
+ g English speakers and no registration is required. Class meets Wednesdays
+  and Fridays from 1-2:30pm\, starting Wednesday\, October 7. Presented by 
+ Poway Adult School and sponsored by the Friends of Rancho Penasquitos Bran
+ ch Library. Class Dates: Wednesday\, October 7 - Community Room Friday\, O
+ ctober - Room 123 Wednesday\, October 14 - Community Ro...\n\nMore info: h
+ ttps://sandiego.events.mylibrary.digital\nListed by: San Diego Public Libr
+ ary
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
 UID:6aa72bdfa29f1b002adc5f2a@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261113T150000
 DTEND;TZID=America/Los_Angeles:20261113T170000
 SUMMARY:ESL English classes/ Clases de Ingles
@@ -1207,7 +273,9 @@ CATEGORIES:Spanish,ESL
 END:VEVENT
 BEGIN:VEVENT
 UID:6a5a70a97b79214226a94415@sdcl.bibliocommons.com
-DTSTAMP:20261017T000000Z
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART;TZID=America/Los_Angeles:20261116T090000
 DTEND;TZID=America/Los_Angeles:20261116T134500
 SUMMARY:ESL 50 & 50S
@@ -1221,6 +289,9 @@ CATEGORIES:ESL
 END:VEVENT
 BEGIN:VEVENT
 UID:55494
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
 DTSTART:20261117T013000Z
 DTEND:20261117T023000Z
 DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
@@ -1228,7 +299,1109 @@ DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
 SUMMARY:Cafecito: English Practice
 LOCATION:4700 N River Rd\, Oceanside\, CA\, 92057\, US
 STATUS:CONFIRMED
-DTSTAMP:20261017T000000Z
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:d8c0f32e7af87c6cbafa@sandiego.events.mylibrary.digital
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261116T180000
+DTEND;TZID=America/Los_Angeles:20261116T193000
+SUMMARY:English Language Conversation
+LOCATION:Central Library\, San Diego
+STATUS:CONFIRMED
+DESCRIPTION:Enjoy practicing your English with other adults in a relaxed en
+ vironment. Registration is not required. Drop-in attendees are welcome. Th
+ is group is for adult English Language learners who already speak some Eng
+ lish and would like additional practice using it in spoken conversation. G
+ roups take place each Monday evening\, even if there is a Padres Game. Ple
+ ase register to be notified of unexpected can... Registration required.\n\
+ nMore info: https://sandiego.events.mylibrary.digital\nListed by: San Dieg
+ o Public Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5a72e782c03c5c17d8b307@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261117T090000
+DTEND;TZID=America/Los_Angeles:20261117T121500
+SUMMARY:ESL 122
+LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
+ 91963
+DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
+  general information line at (619) 660-4264 or email district.specialproje
+ cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a72e7
+ 82c03c5c17d8b307\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:a950e123153ab4f2ebba@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261117T093000
+DTEND;TZID=America/Los_Angeles:20261117T123500
+SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
+ Library Learning Center)
+LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
+ Centro de Aprendizaje\, 3368 Eureka Place Carlsbad\, California 92008
+DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
+ ialized courses in English for non-native speakers. Apply online at miraco
+ sta.edu/ncapply or drop in early and apply in person before the session be
+ gins. ESL classes at the Library Learning Center will take place on the se
+ cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
+ ents/Calendar/Event/21637\nListed by: Carlsbad City Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:55517
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261117T180000Z
+DTEND:20261117T190000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55517\nListed by: Oceanside Public Library
+SUMMARY:Cafecito: English Practice
+LOCATION:804 Pier View Wy\, Oceanside\, CA\, 92054\, US
+ROOM:READS Program Space
+STATUS:CONFIRMED
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a8795e4be1482002988e7b1@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261117T120000
+DTEND;TZID=America/Los_Angeles:20261117T141500
+SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
+ s!
+LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
+  92069
+DESCRIPTION:Improve your conversation\, listening\, writing\, and reading s
+ kills.Mejore sus habilidades de conversación\, escuchar\, escritura y lec
+ tura.\n\nMore info: https://sdcl.bibliocommons.com/events/6a8795e4be148200
+ 2988e7b1\nListed by: San Diego County Library
+CATEGORIES:Spanish,ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:55563
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261117T203000Z
+DTEND:20261117T213000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55563\nListed by: Oceanside Public Library
+SUMMARY:Cafecito: English Practice
+LOCATION:455 Country Club Lane\, Oceanside\, CA\, 92054\, US
+STATUS:CONFIRMED
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa9a1b356fe62004a2fe5ac@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261117T133000
+DTEND;TZID=America/Los_Angeles:20261117T153000
+SUMMARY:ESL English Language Class: Beginning
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
+ nglish Language Class in partnership with the Laubach Literacy Council San
+  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa9a1b356fe62
+ 004a2fe5ac\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6aad603f4ea230006f348626@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261117T163000
+DTEND;TZID=America/Los_Angeles:20261117T173000
+SUMMARY:ESL Beginners Class
+LOCATION:Ramona Branch Library\, 1275 Main Street\, Ramona\, CA 92065
+DESCRIPTION:English as a second language classesInstructor led class for no
+ n-English speakers. Please inquire at front desk for more information. Cla
+ ses de inglés como segundo lenguajeClase dirigida por una instructora par
+ a personas que no hablan inglés. Por favor\, pregunte en la recepción pa
+ ra obtener más …\n\nMore info: https://sdcl.bibliocommons.com/events/6a
+ ad603f4ea230006f348626\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:d08bb6446eadffc8c3e0@sandiego.events.mylibrary.digital
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261117T180000
+DTEND;TZID=America/Los_Angeles:20261117T193000
+SUMMARY:Conversational English
+LOCATION:City Heights/Weingart Library\, San Diego
+STATUS:CONFIRMED
+DESCRIPTION:Want to practice your English in a friendly\, relaxed setting. 
+ Come and join us at the Library for conversational English with Leslie.\n\
+ nMore info: https://sandiego.events.mylibrary.digital\nListed by: San Dieg
+ o Public Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:b03eebd8e5fe2c37e36b@sandiego.events.mylibrary.digital
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261117T183000
+DTEND;TZID=America/Los_Angeles:20261117T193000
+SUMMARY:ESL Conversation Group
+LOCATION:Mira Mesa Library\, San Diego
+STATUS:CONFIRMED
+DESCRIPTION:Join us for casual\, friendly conversation designed to increase
+  participants'comfort with the English language and maybe make new friends
+ .\n\nMore info: https://sandiego.events.mylibrary.digital\nListed by: San 
+ Diego Public Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5a70a97b79214226a94416@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261118T090000
+DTEND;TZID=America/Los_Angeles:20261118T134500
+SUMMARY:ESL 50 & 50S
+LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
+ 91963
+DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
+  general information line at (619) 660-4264 or email district.specialproje
+ cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a70a9
+ 7b79214226a94416\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:48308
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261118T183000Z
+DTEND:20261118T200000Z
+SUMMARY:Tutor Connect
+LOCATION:804 Pier View Wy\, Oceanside\, CA\, 92054\, US
+ROOM:READS Program Space
+STATUS:CONFIRMED
+DESCRIPTION:Gather with current Oceanside READS tutors and volunteers to st
+ ay up to date\, learn new techniques\, and build community. This event is 
+ for current Oceanside READS volunteers only.\n\nMore info: https://oceansi
+ depl.librarycalendar.com/event/tutor-connect-48308\nListed by: Oceanside P
+ ublic Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:cd1e003d534af882d4bc@sandiego.events.mylibrary.digital
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261118T130000
+DTEND;TZID=America/Los_Angeles:20261118T143000
+SUMMARY:Basic English Class
+LOCATION:Pacific Highlands Ranch Library\, San Diego
+STATUS:CONFIRMED
+DESCRIPTION:Learn basic English! This FREE six-week program is for beginnin
+ g English speakers and no registration is required. Class meets Wednesdays
+  and Fridays from 1-2:30pm\, starting Wednesday\, October 7. Presented by 
+ Poway Adult School and sponsored by the Friends of Rancho Penasquitos Bran
+ ch Library. Class Dates: Wednesday\, October 7 - Community Room Friday\, O
+ ctober - Room 123 Wednesday\, October 14 - Community Ro...\n\nMore info: h
+ ttps://sandiego.events.mylibrary.digital\nListed by: San Diego Public Libr
+ ary
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a3d85b94407827f8aa761af@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261118T133000
+DTEND;TZID=America/Los_Angeles:20261118T150000
+SUMMARY:English as a Second Language
+LOCATION:4S Ranch Branch Library\, 10433 Reserve Drive\, San Diego\, CA 921
+ 27
+DESCRIPTION:English as a Second Language Instructor led class for non-Engli
+ sh speakers. No registration necessary. Meets in the 4S Ranch community ro
+ om.\n\nMore info: https://sdcl.bibliocommons.com/events/6a3d85b94407827f8a
+ a761af\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa9a1d4a433d308573baac4@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261118T133000
+DTEND;TZID=America/Los_Angeles:20261118T153000
+SUMMARY:ESL English Language Class: Beginning
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
+ nglish Language Class in partnership with the Laubach Literacy Council San
+  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa9a1d4a433d3
+ 08573baac4\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:55585
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261118T233000Z
+DTEND:20261119T003000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55585\nListed by: Oceanside Public Library
+SUMMARY:Cafecito: English Practice
+LOCATION:2855 Cedar Rd\, Oceanside\, CA\, 92056\, US
+ROOM:John Landes Community Center Study Room
+STATUS:CONFIRMED
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:d3b8f82f171e8c9f0476@sandiego.events.mylibrary.digital
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261118T163000
+DTEND;TZID=America/Los_Angeles:20261118T173000
+SUMMARY:English Corner: English Conversation
+LOCATION:North University Community Library\, San Diego
+STATUS:CONFIRMED
+DESCRIPTION:Community members with a basic grasp of English language can ha
+ ve fun themed conversations and build relationships with one another. We w
+ ill talk about ourselves\, our cultures\, and more.\n\nMore info: https://
+ sandiego.events.mylibrary.digital\nListed by: San Diego Public Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5a72e782c03c5c17d8b308@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261119T090000
+DTEND;TZID=America/Los_Angeles:20261119T121500
+SUMMARY:ESL 122
+LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
+ 91963
+DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
+  general information line at (619) 660-4264 or email district.specialproje
+ cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a72e7
+ 82c03c5c17d8b308\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:a47b970aa6ace47c8bbb@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261119T093000
+DTEND;TZID=America/Los_Angeles:20261119T123500
+SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
+ Library Learning Center)
+LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
+ Centro de Aprendizaje\, 3368 Eureka Place Carlsbad\, California 92008
+DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
+ ialized courses in English for non-native speakers. Apply online at miraco
+ sta.edu/ncapply or drop in early and apply in person before the session be
+ gins. ESL classes at the Library Learning Center will take place on the se
+ cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
+ ents/Calendar/Event/21639\nListed by: Carlsbad City Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a8795e4be1482002988e7b2@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261119T120000
+DTEND;TZID=America/Los_Angeles:20261119T141500
+SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
+ s!
+LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
+  92069
+DESCRIPTION:Improve your conversation\, listening\, writing\, and reading s
+ kills.Mejore sus habilidades de conversación\, escuchar\, escritura y lec
+ tura.\n\nMore info: https://sdcl.bibliocommons.com/events/6a8795e4be148200
+ 2988e7b2\nListed by: San Diego County Library
+CATEGORIES:Spanish,ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa0882b4378382c2abf6783@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261119T153000
+DTEND;TZID=America/Los_Angeles:20261119T173000
+SUMMARY:ESL English Language Class: Intermediate
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
+ nglish Language Class in partnership with the Laubach Literacy Council San
+  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa0882b437838
+ 2c2abf6783\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:55608
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261120T011500Z
+DTEND:20261120T020000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55608\nListed by: Oceanside Public Library
+SUMMARY:Cafecito: English Practice
+LOCATION:330 North Coast Hwy\, Oceanside\, CA\, 92054\, US
+ROOM:Foundation Room
+STATUS:CONFIRMED
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6abff8b8901b02002cbf94ab@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261120T110000
+DTEND;TZID=America/Los_Angeles:20261120T133000
+SUMMARY:ESL English Language Class: Intermediate
+LOCATION:Bonita-Sunnyside Branch Library\, 4375 Bonita Road\, Bonita\, CA 9
+ 1902
+DESCRIPTION:Free English Language Class in partnership with the Laubach Lit
+ eracy Council San Diego\, Fridays 11a - 1:30p\n\nMore info: https://sdcl.b
+ ibliocommons.com/events/6abff8b8901b02002cbf94ab\nListed by: San Diego Cou
+ nty Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:9d1f2b8f883ab58628c7@sandiego.events.mylibrary.digital
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261123T180000
+DTEND;TZID=America/Los_Angeles:20261123T193000
+SUMMARY:English Language Conversation
+LOCATION:Central Library\, San Diego
+STATUS:CONFIRMED
+DESCRIPTION:Enjoy practicing your English with other adults in a relaxed en
+ vironment. Registration is not required. Drop-in attendees are welcome. Th
+ is group is for adult English Language learners who already speak some Eng
+ lish and would like additional practice using it in spoken conversation. G
+ roups take place each Monday evening\, even if there is a Padres Game. Ple
+ ase register to be notified of unexpected can... Registration required.\n\
+ nMore info: https://sandiego.events.mylibrary.digital\nListed by: San Dieg
+ o Public Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:b6fdd7dc593e0ebf3f06@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261124T093000
+DTEND;TZID=America/Los_Angeles:20261124T123500
+SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
+ Library Learning Center)
+LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
+ Centro de Aprendizaje\, 3368 Eureka Place Carlsbad\, California 92008
+DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
+ ialized courses in English for non-native speakers. Apply online at miraco
+ sta.edu/ncapply or drop in early and apply in person before the session be
+ gins. ESL classes at the Library Learning Center will take place on the se
+ cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
+ ents/Calendar/Event/21638\nListed by: Carlsbad City Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa9a1b356fe62004a2fe5ad@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261124T133000
+DTEND;TZID=America/Los_Angeles:20261124T153000
+SUMMARY:ESL English Language Class: Beginning
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
+ nglish Language Class in partnership with the Laubach Literacy Council San
+  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa9a1b356fe62
+ 004a2fe5ad\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6aad603f4ea230006f348627@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261124T163000
+DTEND;TZID=America/Los_Angeles:20261124T173000
+SUMMARY:ESL Beginners Class
+LOCATION:Ramona Branch Library\, 1275 Main Street\, Ramona\, CA 92065
+DESCRIPTION:English as a second language classesInstructor led class for no
+ n-English speakers. Please inquire at front desk for more information. Cla
+ ses de inglés como segundo lenguajeClase dirigida por una instructora par
+ a personas que no hablan inglés. Por favor\, pregunte en la recepción pa
+ ra obtener más …\n\nMore info: https://sdcl.bibliocommons.com/events/6a
+ ad603f4ea230006f348627\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:3d1ece749cb2699886b0@sandiego.events.mylibrary.digital
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261124T180000
+DTEND;TZID=America/Los_Angeles:20261124T193000
+SUMMARY:Conversational English
+LOCATION:City Heights/Weingart Library\, San Diego
+STATUS:CONFIRMED
+DESCRIPTION:Want to practice your English in a friendly\, relaxed setting. 
+ Come and join us at the Library for conversational English with Leslie.\n\
+ nMore info: https://sandiego.events.mylibrary.digital\nListed by: San Dieg
+ o Public Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:3c92ce69f3cb66bef369@sandiego.events.mylibrary.digital
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261124T183000
+DTEND;TZID=America/Los_Angeles:20261124T193000
+SUMMARY:ESL Conversation Group
+LOCATION:Mira Mesa Library\, San Diego
+STATUS:CONFIRMED
+DESCRIPTION:Join us for casual\, friendly conversation designed to increase
+  participants'comfort with the English language and maybe make new friends
+ .\n\nMore info: https://sandiego.events.mylibrary.digital\nListed by: San 
+ Diego Public Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a3d85b94407827f8aa761b0@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261125T133000
+DTEND;TZID=America/Los_Angeles:20261125T150000
+SUMMARY:English as a Second Language
+LOCATION:4S Ranch Branch Library\, 10433 Reserve Drive\, San Diego\, CA 921
+ 27
+DESCRIPTION:English as a Second Language Instructor led class for non-Engli
+ sh speakers. No registration necessary. Meets in the 4S Ranch community ro
+ om.\n\nMore info: https://sdcl.bibliocommons.com/events/6a3d85b94407827f8a
+ a761b0\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa9a1d4a433d308573baac6@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261125T133000
+DTEND;TZID=America/Los_Angeles:20261125T153000
+SUMMARY:ESL English Language Class: Beginning
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
+ nglish Language Class in partnership with the Laubach Literacy Council San
+  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa9a1d4a433d3
+ 08573baac6\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:733762b63fe81c33d763@sandiego.events.mylibrary.digital
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261125T163000
+DTEND;TZID=America/Los_Angeles:20261125T173000
+SUMMARY:English Corner: English Conversation
+LOCATION:North University Community Library\, San Diego
+STATUS:CONFIRMED
+DESCRIPTION:Community members with a basic grasp of English language can ha
+ ve fun themed conversations and build relationships with one another. We w
+ ill talk about ourselves\, our cultures\, and more.\n\nMore info: https://
+ sandiego.events.mylibrary.digital\nListed by: San Diego Public Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa72c5d7825b4006406bcd8@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261127T150000
+DTEND;TZID=America/Los_Angeles:20261127T170000
+SUMMARY:ESL English classes/ Clases de Ingles
+LOCATION:Encinitas Branch Library\, 540 Cornish Drive\, Encinitas\, CA 9202
+ 4
+DESCRIPTION:Laubach Literacy Council of San Diego\, in partnership with the
+  County library\, is offering English classes. All materials are provided.
+  Space is limited. Please reach out to the library for registration. Lauba
+ ch Literacy Council of San Diego en alianza con la Biblioteca del Condado 
+ de San Diego …\n\nMore info: https://sdcl.bibliocommons.com/events/6aa72
+ c5d7825b4006406bcd8\nListed by: San Diego County Library
+CATEGORIES:Spanish,ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5a70a97b79214226a94417@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261130T090000
+DTEND;TZID=America/Los_Angeles:20261130T134500
+SUMMARY:ESL 50 & 50S
+LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
+ 91963
+DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
+  general information line at (619) 660-4264 or email district.specialproje
+ cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a70a9
+ 7b79214226a94417\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:55495
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261201T013000Z
+DTEND:20261201T023000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55495\nListed by: Oceanside Public Library
+SUMMARY:Cafecito: English Practice
+LOCATION:4700 N River Rd\, Oceanside\, CA\, 92057\, US
+STATUS:CONFIRMED
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5a72e782c03c5c17d8b309@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261201T090000
+DTEND;TZID=America/Los_Angeles:20261201T121500
+SUMMARY:ESL 122
+LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
+ 91963
+DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
+  general information line at (619) 660-4264 or email district.specialproje
+ cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a72e7
+ 82c03c5c17d8b309\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:8f28b2f9d8d6b60a2f5e@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261201T093000
+DTEND;TZID=America/Los_Angeles:20261201T123500
+SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
+ Library Learning Center)
+LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
+ Centro de Aprendizaje\, 3368 Eureka Place Carlsbad\, California 92008
+DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
+ ialized courses in English for non-native speakers. Apply online at miraco
+ sta.edu/ncapply or drop in early and apply in person before the session be
+ gins. ESL classes at the Library Learning Center will take place on the se
+ cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
+ ents/Calendar/Event/21640\nListed by: Carlsbad City Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:55518
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261201T180000Z
+DTEND:20261201T190000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55518\nListed by: Oceanside Public Library
+SUMMARY:Cafecito: English Practice
+LOCATION:804 Pier View Wy\, Oceanside\, CA\, 92054\, US
+ROOM:READS Program Space
+STATUS:CONFIRMED
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a8795e4be1482002988e7b5@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261201T120000
+DTEND;TZID=America/Los_Angeles:20261201T141500
+SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
+ s!
+LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
+  92069
+DESCRIPTION:Improve your conversation\, listening\, writing\, and reading s
+ kills.Mejore sus habilidades de conversación\, escuchar\, escritura y lec
+ tura.\n\nMore info: https://sdcl.bibliocommons.com/events/6a8795e4be148200
+ 2988e7b5\nListed by: San Diego County Library
+CATEGORIES:Spanish,ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:55564
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261201T203000Z
+DTEND:20261201T213000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55564\nListed by: Oceanside Public Library
+SUMMARY:Cafecito: English Practice
+LOCATION:455 Country Club Lane\, Oceanside\, CA\, 92054\, US
+STATUS:CONFIRMED
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa9a1b356fe62004a2fe5ae@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261201T133000
+DTEND;TZID=America/Los_Angeles:20261201T153000
+SUMMARY:ESL English Language Class: Beginning
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
+ nglish Language Class in partnership with the Laubach Literacy Council San
+  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa9a1b356fe62
+ 004a2fe5ae\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5a70a97b79214226a94418@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261202T090000
+DTEND;TZID=America/Los_Angeles:20261202T134500
+SUMMARY:ESL 50 & 50S
+LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
+ 91963
+DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
+  general information line at (619) 660-4264 or email district.specialproje
+ cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a70a9
+ 7b79214226a94418\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a3d85b94407827f8aa761b1@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261202T133000
+DTEND;TZID=America/Los_Angeles:20261202T150000
+SUMMARY:English as a Second Language
+LOCATION:4S Ranch Branch Library\, 10433 Reserve Drive\, San Diego\, CA 921
+ 27
+DESCRIPTION:English as a Second Language Instructor led class for non-Engli
+ sh speakers. No registration necessary. Meets in the 4S Ranch community ro
+ om.\n\nMore info: https://sdcl.bibliocommons.com/events/6a3d85b94407827f8a
+ a761b1\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa9a1d4a433d308573baac8@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261202T133000
+DTEND;TZID=America/Los_Angeles:20261202T153000
+SUMMARY:ESL English Language Class: Beginning
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
+ nglish Language Class in partnership with the Laubach Literacy Council San
+  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa9a1d4a433d3
+ 08573baac8\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:55586
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261202T233000Z
+DTEND:20261203T003000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55586\nListed by: Oceanside Public Library
+SUMMARY:Cafecito: English Practice
+LOCATION:2855 Cedar Rd\, Oceanside\, CA\, 92056\, US
+ROOM:John Landes Community Center Study Room
+STATUS:CONFIRMED
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5a72e782c03c5c17d8b30a@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261203T090000
+DTEND;TZID=America/Los_Angeles:20261203T121500
+SUMMARY:ESL 122
+LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
+ 91963
+DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
+  general information line at (619) 660-4264 or email district.specialproje
+ cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a72e7
+ 82c03c5c17d8b30a\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:9c92db1d9630c4561b10@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261203T093000
+DTEND;TZID=America/Los_Angeles:20261203T123500
+SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
+ Library Learning Center)
+LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
+ Centro de Aprendizaje\, 3368 Eureka Place Carlsbad\, California 92008
+DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
+ ialized courses in English for non-native speakers. Apply online at miraco
+ sta.edu/ncapply or drop in early and apply in person before the session be
+ gins. ESL classes at the Library Learning Center will take place on the se
+ cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
+ ents/Calendar/Event/21641\nListed by: Carlsbad City Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a8795e4be1482002988e7b6@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261203T120000
+DTEND;TZID=America/Los_Angeles:20261203T141500
+SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
+ s!
+LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
+  92069
+DESCRIPTION:Improve your conversation\, listening\, writing\, and reading s
+ kills.Mejore sus habilidades de conversación\, escuchar\, escritura y lec
+ tura.\n\nMore info: https://sdcl.bibliocommons.com/events/6a8795e4be148200
+ 2988e7b6\nListed by: San Diego County Library
+CATEGORIES:Spanish,ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa0882b4378382c2abf6784@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261203T153000
+DTEND;TZID=America/Los_Angeles:20261203T173000
+SUMMARY:ESL English Language Class: Intermediate
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
+ nglish Language Class in partnership with the Laubach Literacy Council San
+  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa0882b437838
+ 2c2abf6784\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:55609
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261204T011500Z
+DTEND:20261204T020000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55609\nListed by: Oceanside Public Library
+SUMMARY:Cafecito: English Practice
+LOCATION:330 North Coast Hwy\, Oceanside\, CA\, 92054\, US
+ROOM:Foundation Room
+STATUS:CONFIRMED
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6abff8b8901b02002cbf94ad@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261204T110000
+DTEND;TZID=America/Los_Angeles:20261204T133000
+SUMMARY:ESL English Language Class: Intermediate
+LOCATION:Bonita-Sunnyside Branch Library\, 4375 Bonita Road\, Bonita\, CA 9
+ 1902
+DESCRIPTION:Free English Language Class in partnership with the Laubach Lit
+ eracy Council San Diego\, Fridays 11a - 1:30p\n\nMore info: https://sdcl.b
+ ibliocommons.com/events/6abff8b8901b02002cbf94ad\nListed by: San Diego Cou
+ nty Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5a70a97b79214226a94419@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261207T090000
+DTEND;TZID=America/Los_Angeles:20261207T134500
+SUMMARY:ESL 50 & 50S
+LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
+ 91963
+DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
+  general information line at (619) 660-4264 or email district.specialproje
+ cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a70a9
+ 7b79214226a94419\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:55496
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261208T013000Z
+DTEND:20261208T023000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55496\nListed by: Oceanside Public Library
+SUMMARY:Cafecito: English Practice
+LOCATION:4700 N River Rd\, Oceanside\, CA\, 92057\, US
+STATUS:CONFIRMED
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5a72e782c03c5c17d8b30b@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261208T090000
+DTEND;TZID=America/Los_Angeles:20261208T121500
+SUMMARY:ESL 122
+LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
+ 91963
+DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
+  general information line at (619) 660-4264 or email district.specialproje
+ cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a72e7
+ 82c03c5c17d8b30b\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:d318d7519ec6090e3b9b@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261208T093000
+DTEND;TZID=America/Los_Angeles:20261208T123500
+SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
+ Library Learning Center)
+LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
+ Centro de Aprendizaje\, 3368 Eureka Place Carlsbad\, California 92008
+DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
+ ialized courses in English for non-native speakers. Apply online at miraco
+ sta.edu/ncapply or drop in early and apply in person before the session be
+ gins. ESL classes at the Library Learning Center will take place on the se
+ cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
+ ents/Calendar/Event/21642\nListed by: Carlsbad City Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:55519
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261208T180000Z
+DTEND:20261208T190000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55519\nListed by: Oceanside Public Library
+SUMMARY:Cafecito: English Practice
+LOCATION:804 Pier View Wy\, Oceanside\, CA\, 92054\, US
+ROOM:READS Program Space
+STATUS:CONFIRMED
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a8795e4be1482002988e7b7@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261208T120000
+DTEND;TZID=America/Los_Angeles:20261208T141500
+SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
+ s!
+LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
+  92069
+DESCRIPTION:Improve your conversation\, listening\, writing\, and reading s
+ kills.Mejore sus habilidades de conversación\, escuchar\, escritura y lec
+ tura.\n\nMore info: https://sdcl.bibliocommons.com/events/6a8795e4be148200
+ 2988e7b7\nListed by: San Diego County Library
+CATEGORIES:Spanish,ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:55565
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261208T203000Z
+DTEND:20261208T213000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55565\nListed by: Oceanside Public Library
+SUMMARY:Cafecito: English Practice
+LOCATION:455 Country Club Lane\, Oceanside\, CA\, 92054\, US
+STATUS:CONFIRMED
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa9a1b356fe62004a2fe5af@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261208T133000
+DTEND;TZID=America/Los_Angeles:20261208T153000
+SUMMARY:ESL English Language Class: Beginning
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
+ nglish Language Class in partnership with the Laubach Literacy Council San
+  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa9a1b356fe62
+ 004a2fe5af\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5a70a97b79214226a9441a@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261209T090000
+DTEND;TZID=America/Los_Angeles:20261209T134500
+SUMMARY:ESL 50 & 50S
+LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
+ 91963
+DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
+  general information line at (619) 660-4264 or email district.specialproje
+ cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a70a9
+ 7b79214226a9441a\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a3d85b94407827f8aa761b2@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261209T133000
+DTEND;TZID=America/Los_Angeles:20261209T150000
+SUMMARY:English as a Second Language
+LOCATION:4S Ranch Branch Library\, 10433 Reserve Drive\, San Diego\, CA 921
+ 27
+DESCRIPTION:English as a Second Language Instructor led class for non-Engli
+ sh speakers. No registration necessary. Meets in the 4S Ranch community ro
+ om.\n\nMore info: https://sdcl.bibliocommons.com/events/6a3d85b94407827f8a
+ a761b2\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa9a1d4a433d308573baaca@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261209T133000
+DTEND;TZID=America/Los_Angeles:20261209T153000
+SUMMARY:ESL English Language Class: Beginning
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
+ nglish Language Class in partnership with the Laubach Literacy Council San
+  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa9a1d4a433d3
+ 08573baaca\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:55587
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261209T233000Z
+DTEND:20261210T003000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55587\nListed by: Oceanside Public Library
+SUMMARY:Cafecito: English Practice
+LOCATION:2855 Cedar Rd\, Oceanside\, CA\, 92056\, US
+ROOM:John Landes Community Center Study Room
+STATUS:CONFIRMED
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5a72e782c03c5c17d8b30c@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261210T090000
+DTEND;TZID=America/Los_Angeles:20261210T121500
+SUMMARY:ESL 122
+LOCATION:Potrero Branch Library\, 24883 Potrero Valley Road\, Potrero\, CA 
+ 91963
+DESCRIPTION:This class is provided by Cuyamaca College\, please contact the
+  general information line at (619) 660-4264 or email district.specialproje
+ cts@gcccd.edu\n\nMore info: https://sdcl.bibliocommons.com/events/6a5a72e7
+ 82c03c5c17d8b30c\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:e698ba2063f045d69aec@sd-immigration-calendar
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261210T093000
+DTEND;TZID=America/Los_Angeles:20261210T123500
+SUMMARY:English as a Second Language/Inglés como segunda idioma (Carlsbad 
+ Library Learning Center)
+LOCATION:Carlsbad City Library Learning Center / La Biblioteca de Carlsbad 
+ Centro de Aprendizaje\, 3368 Eureka Place Carlsbad\, California 92008
+DESCRIPTION:A free ESL program hosted by MiraCosta College that offers spec
+ ialized courses in English for non-native speakers. Apply online at miraco
+ sta.edu/ncapply or drop in early and apply in person before the session be
+ gins. ESL classes at the Library Learning Center will take place on the se
+ cond floor of …\n\nMore info: https://library.carlsbadca.gov/Home/Compon
+ ents/Calendar/Event/21643\nListed by: Carlsbad City Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6a8795e4be1482002988e7b8@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261210T120000
+DTEND;TZID=America/Los_Angeles:20261210T141500
+SUMMARY:Free English Class for Adults/¡Clase de inglés gratis para adulto
+ s!
+LOCATION:San Marcos Branch Library\, 2 Civic Center Drive\, San Marcos\, CA
+  92069
+DESCRIPTION:Improve your conversation\, listening\, writing\, and reading s
+ kills.Mejore sus habilidades de conversación\, escuchar\, escritura y lec
+ tura.\n\nMore info: https://sdcl.bibliocommons.com/events/6a8795e4be148200
+ 2988e7b8\nListed by: San Diego County Library
+CATEGORIES:Spanish,ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:6aa0882b4378382c2abf6785@sdcl.bibliocommons.com
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART;TZID=America/Los_Angeles:20261210T153000
+DTEND;TZID=America/Los_Angeles:20261210T173000
+SUMMARY:ESL English Language Class: Intermediate
+LOCATION:El Cajon Branch Library\, 201 E. Douglas\, El Cajon\, CA 92020
+DESCRIPTION:Please join us at the El Cajon Library for our recurring free E
+ nglish Language Class in partnership with the Laubach Literacy Council San
+  Diego.\n\nMore info: https://sdcl.bibliocommons.com/events/6aa0882b437838
+ 2c2abf6785\nListed by: San Diego County Library
+CATEGORIES:ESL
+END:VEVENT
+BEGIN:VEVENT
+UID:55610
+DTSTAMP:20261110T223443Z
+LAST-MODIFIED:20261110T223443Z
+SEQUENCE:982
+DTSTART:20261211T011500Z
+DTEND:20261211T020000Z
+DESCRIPTION:More info: https://oceansidepl.librarycalendar.com/event/cafeci
+ to-english-practice-55610\nListed by: Oceanside Public Library
+SUMMARY:Cafecito: English Practice
+LOCATION:330 North Coast Hwy\, Oceanside\, CA\, 92054\, US
+ROOM:Foundation Room
+STATUS:CONFIRMED
 CATEGORIES:ESL
 END:VEVENT
 END:VCALENDAR
