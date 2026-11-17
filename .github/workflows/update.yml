@@ -26,6 +26,8 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main   # always the newest state, even when runs queue up
       - uses: actions/setup-python@v5
         with:
           python-version: '3.13'
@@ -48,8 +50,7 @@ jobs:
           git add -A
           if git diff --cached --quiet; then echo "Nothing changed"; exit 0; fi
           git commit -m "Automated update $(date +%F): $(grep -c BEGIN:VEVENT all.ics) events"
-          git pull --rebase -q
-          git push
+          git push || (git pull --rebase -X theirs -q && git push)
       - name: Report problems
         if: steps.publish.outcome == 'failure'
         run: |
