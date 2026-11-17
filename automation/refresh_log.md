@@ -54,4 +54,7 @@
 - Daily run (.github/workflows/update.yml, about 5-6 am Pacific): collect.py -> build_batch.py -> evaluate.py -> make_feeds.py -> publish.py. Result in automation/status.md
 - First automated publish: 133 events (citizenship-legal 32, rights-civic 1, esl 81, tabling 4, possibly 15); live site checked
 - Fixed on the way: Python 3.13 needed; feed reader mishandled Windows line endings (one run briefly published 104 events, corrected within minutes); queued runs now start from the newest state
-- Not done yet: weekly Claude pass for new titles and review decisions; automated handout; the temporary "samples" branch could not be deleted from here
+- The temporary "samples" branch could not be deleted from here
+- Handout: built in the daily job on Monday mornings (or by hand, or when a commit message contains [handout]); published as handout.pdf with dated copies in handouts/. First build: two weeks from 2026-11-16, 17 entries, 2 pages
+- Weekly AI pass: scheduled Claude task, Sundays 7:43 pm Pacific; judges new titles, ingests review-page decisions, writes handout descriptions, refreshes the review page. First run 2026-11-22 (not yet tested end to end)
+- Universities: UCSD "Visitors" calendar looked at and left out (429 events a year, none relevant). UCSD and SDSU undocumented-student offices' Instagram accounts added to the monthly pass, public events only (MONTHLY_PASS.md)
