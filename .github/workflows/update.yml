@@ -3,6 +3,10 @@ on:
   schedule:
     - cron: '17 13 * * *'   # every day, about 5:17 or 6:17 am Pacific
   workflow_dispatch:
+    inputs:
+      handout:
+        description: 'Also rebuild the printable handout (yes/no)'
+        default: 'no'
   push:
     branches: [main]
     paths:
@@ -43,6 +47,25 @@ jobs:
         id: publish
         continue-on-error: true
         run: python automation/tools/publish.py
+      # The printable handout: every Monday morning, when asked for by hand, or when the newest
+      # commit message contains [handout].
+      - name: Decide whether to build the handout
+        id: handout
+        run: |
+          if { [ "${{ github.event_name }}" = "schedule" ] && [ "$(date +%u)" = "1" ]; } \
+             || [ "${{ github.event.inputs.handout }}" = "yes" ] \
+             || git log -1 --pretty=%B | grep -q '\[handout\]'; then
+            echo "build=yes" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Build the handout
+        if: steps.handout.outputs.build == 'yes' && steps.publish.outcome == 'success'
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq fonts-inter
+          pip install -q reportlab playwright pypdf
+          python -m playwright install --with-deps chromium
+          START=$(date +%F)
+          python automation/tools/make_print.py --start "$START" --pdf
+          python automation/tools/publish_handout.py "$START"
       - name: Save to the repository
         run: |
           git config user.name "github-actions[bot]"

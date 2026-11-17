@@ -52,6 +52,10 @@ def main():
           f"## Waiting for a decision: {len(queue)} new titles", "",
           "New titles are held back from the calendar until the weekly AI pass judges them.", ""]
     L += [f"- {json.loads(q)['source']}: {json.loads(q)['title']}" for q in queue[:60]]
+    h = state.get("last_handout")
+    if h:
+        L += ["", "## Handout", "", f"Newest: two weeks from {h['start']}, {h['entries']} entries, {h['pages']} page"
+              f"{'s' if h['pages'] != 1 else ''}. Permanent link: `handout.pdf`; dated copies in `handouts/`."]
     (ROOT / "status.md").write_text("\n".join(L) + "\n", encoding="utf-8")
     state["last_publish"] = {"when": now, "events": n_new, "held": held, "changed": changed}
     (ROOT / "state.json").write_text(json.dumps(state, indent=1) + "\n")

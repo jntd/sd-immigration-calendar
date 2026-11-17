@@ -28,4 +28,9 @@ Collected by hand about once a month, because the sites refuse automated visits 
 structure: Carlsbad, Chula Vista and National City libraries, Instagram, and some agency pages.
 Their data sits in `automation/raw/` as last collected.
 
+## Printable handout
+
+`handout.pdf` in this folder is always the newest two-week handout (rebuilt every Monday morning);
+dated copies are kept in `handouts/`.
+
 The relevance policy is in `automation/evaluation/criteria.md`.
