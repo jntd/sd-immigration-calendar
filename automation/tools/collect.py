@@ -62,7 +62,7 @@ def shorten(x, strip_trailing_backslash=False):
 # ---------- iCal feeds -> compact TSV (same columns as the FEED_TSV browser snippet) ----------
 def ical_to_tsv(text, a, b):
     """a, b: YYYYMMDD window. Returns (total events in feed, kept lines)."""
-    t = re.sub(r"\r?\n[ \t]", "", text)
+    t = re.sub(r"\n[ \t]", "", text.replace("\r\n", "\n").replace("\r", "\n"))
     events = re.findall(r"BEGIN:VEVENT.*?END:VEVENT", t, flags=re.S)
 
     def g(e, k):
@@ -290,6 +290,8 @@ def main():
             if "BEGIN:VCALENDAR" not in text:
                 raise RuntimeError("the address did not return a calendar feed")
             total, lines = ical_to_tsv(text, A, B)
+            if any(not l.split("\t")[1] or not l.split("\t")[3] for l in lines):
+                raise RuntimeError("events came back without a start time or title")
             head = (f"# Compact copy of {label} via tools/collect.py; columns UID DTSTART DTEND SUMMARY LOCATION ROOM URL "
                     f"CATEGORIES STATUS DESCRIPTION (collected {AISO}; {total} events in feed)")
             (RAW / f"{stem}.tsv").write_text(head + "\n" + "".join(l + "\n" for l in lines), encoding="utf-8")
