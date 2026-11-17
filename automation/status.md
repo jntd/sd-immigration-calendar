@@ -1,6 +1,6 @@
 # Calendar status
 
-Last automated run: 2026-11-16 22:51 Pacific
+Last automated run: 2026-11-16 23:25 Pacific
 
 Published: 133 events (no change since the last run)
 
@@ -34,3 +34,7 @@ Carlsbad, Chula Vista, National City, Instagram and the other agency pages come 
 
 New titles are held back from the calendar until the weekly AI pass judges them.
 
+
+## Handout
+
+Newest: two weeks from 2026-11-16, 17 entries, 2 pages. Permanent link: `handout.pdf`; dated copies in `handouts/`.

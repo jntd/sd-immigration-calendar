@@ -58,9 +58,14 @@
   }
  },
  "last_publish": {
-  "when": "2026-11-16 22:51",
+  "when": "2026-11-16 23:25",
   "events": 133,
   "held": false,
   "changed": []
+ },
+ "last_handout": {
+  "start": "2026-11-16",
+  "pages": 2,
+  "entries": 17
  }
 }
