@@ -46,3 +46,12 @@
 - After JTD's review (decisions ingested; examples.jsonl 521): relevant 129, possibly 19, not 1043; decided by rule 695, memory 270, ai 201, human 25
 - Feeds built: yes (all 143: citizenship-legal 38, rights-civic 1, esl 85, tabling 4, possibly 15), with build-time DTSTAMP/LAST-MODIFIED/SEQUENCE; published: pushed by Claude (commit 8b525c8)
 - Printout: print/handout_2026-11-16.pdf (2 pages, 18 QR codes; SDPL only through Nov 27)
+
+## 2026-11-16: automation set up
+- Source test from GitHub's servers: 10 of 14 sources reachable. Blocked: Chula Vista, Carlsbad, National City (403), Eventbrite (human-verification page)
+- JTD's decisions: Eventbrite dropped; Carlsbad, Chula Vista and National City join the monthly hand-run pass with Instagram and the unstructured agency pages; AI "relevant" labels publish without review; tools may be public
+- Tools, raw data and evaluation files moved into this repository under automation/. This repository is now the working copy; the Desktop folder is no longer updated by the daily run
+- Daily run (.github/workflows/update.yml, about 5-6 am Pacific): collect.py -> build_batch.py -> evaluate.py -> make_feeds.py -> publish.py. Result in automation/status.md
+- First automated publish: 133 events (citizenship-legal 32, rights-civic 1, esl 81, tabling 4, possibly 15); live site checked
+- Fixed on the way: Python 3.13 needed; feed reader mishandled Windows line endings (one run briefly published 104 events, corrected within minutes); queued runs now start from the newest state
+- Not done yet: weekly Claude pass for new titles and review decisions; automated handout; the temporary "samples" branch could not be deleted from here
