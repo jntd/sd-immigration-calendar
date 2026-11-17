@@ -1,2 +1,3 @@
-# Compact copy of sdvlp The Events Calendar feed (/events/list/?ical=1) via FEED_TSV (collected 2026-11-10)
-:69516-1794830400-1794834000@sdvlp.org	;TZID=America/Los_Angeles:20261116T120000	;TZID=America/Los_Angeles:20261116T130000	:Guardianship: Know Your Rights webinar			:https://sdvlp.org/event/guardianship-know-your-rights-webinar-6/			:Welcome! You are invited to join a webinar: Know Your Rights: Probate Guardianship Information for P…
+# Compact copy of sdvlp The Events Calendar feed via tools/collect.py; columns UID DTSTART DTEND SUMMARY LOCATION ROOM URL CATEGORIES STATUS DESCRIPTION (collected 2026-11-16; 2 events in feed)
+									
+									

@@ -1,0 +1,73 @@
+{
+ "consecutive_failures": {
+  "sdcl": 0,
+  "oceanside": 0,
+  "escondido": 0,
+  "coronado": 0,
+  "lassd": 0,
+  "sdvlp": 0,
+  "maac": 0,
+  "casafamiliar": 0,
+  "jfs": 0,
+  "alliancesd": 0
+ },
+ "last_collect": {
+  "date": "2026-11-16",
+  "window_end": "2026-12-17",
+  "sources": {
+   "sdcl": {
+    "ok": true,
+    "events": 114
+   },
+   "oceanside": {
+    "ok": true,
+    "events": 32
+   },
+   "escondido": {
+    "ok": true,
+    "events": 5
+   },
+   "coronado": {
+    "ok": true,
+    "events": 25
+   },
+   "lassd": {
+    "ok": true,
+    "events": 1
+   },
+   "sdvlp": {
+    "ok": true,
+    "events": 2
+   },
+   "maac": {
+    "ok": true,
+    "events": 11
+   },
+   "casafamiliar": {
+    "ok": true,
+    "events": 12
+   },
+   "jfs": {
+    "ok": true,
+    "events": 6
+   },
+   "alliancesd": {
+    "ok": true,
+    "events": 1
+   }
+  }
+ },
+ "last_publish": {
+  "when": "2026-11-16 22:49",
+  "events": 104,
+  "held": false,
+  "changed": [
+   "all",
+   "citizenship-legal",
+   "rights-civic",
+   "esl",
+   "tabling",
+   "possibly"
+  ]
+ }
+}

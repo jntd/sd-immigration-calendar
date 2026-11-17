@@ -21,18 +21,5 @@ DTSTART:19701101T020000
 RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VEVENT
-UID:69516-1794830400-1794834000@sdvlp.org
-DTSTAMP:20261110T223443Z
-LAST-MODIFIED:20261110T223443Z
-SEQUENCE:982
-DTSTART;TZID=America/Los_Angeles:20261116T120000
-DTEND;TZID=America/Los_Angeles:20261116T130000
-SUMMARY:Guardianship: Know Your Rights webinar
-DESCRIPTION:Welcome! You are invited to join a webinar: Know Your Rights: P
- robate Guardianship Information for P…\n\nMore info: https://sdvlp.org/e
- vent/guardianship-know-your-rights-webinar-6/\nListed by: San Diego Volunt
- eer Lawyer Program
-CATEGORIES:Online,Rights & civic
-END:VEVENT
+
 END:VCALENDAR
