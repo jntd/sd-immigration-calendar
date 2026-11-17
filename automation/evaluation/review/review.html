@@ -1,0 +1,155 @@
+<title>Immigration Calendar Review</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: one working column - sticky filter bar, then event rows grouped by series, each with a three-way label switch */
+:root{
+  --bg:#f4f6f5; --panel:#ffffff; --fg:#17211f; --muted:#5b6b67; --line:#d9e0dd;
+  --accent:#0d6b5d; --accent-soft:#e0efeb;
+  --rel:#1f7a3e; --rel-soft:#e3f2e7; --pos:#9a6200; --pos-soft:#fbefd6; --not:#5f6b70; --not-soft:#eceff0;
+  --font-body:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --font-mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#101615; --panel:#18201e; --fg:#e4ebe8; --muted:#97a6a1; --line:#2b3633;
+  --accent:#5cc2ae; --accent-soft:#183a33;
+  --rel:#6fcf8e; --rel-soft:#17301f; --pos:#f0b54a; --pos-soft:#3a2c10; --not:#a5b0b4; --not-soft:#262d2f; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#101615; --panel:#18201e; --fg:#e4ebe8; --muted:#97a6a1; --line:#2b3633;
+  --accent:#5cc2ae; --accent-soft:#183a33;
+  --rel:#6fcf8e; --rel-soft:#17301f; --pos:#f0b54a; --pos-soft:#3a2c10; --not:#a5b0b4; --not-soft:#262d2f; color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font-family:var(--font-body);font-size:15px;line-height:1.45}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+.wrap{max-width:980px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:20px 48px}
+header h1{font-size:1.5rem;margin:0;text-wrap:balance;letter-spacing:-.01em}
+header p{margin:.35rem 0 0;color:var(--muted);max-width:65ch}
+.status{font-size:.85rem;color:var(--muted);margin-top:.5rem}
+.status b{color:var(--fg)}
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);padding-block:12px;border-bottom:1px solid var(--line);display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-top:14px}
+.tabs{display:flex;flex-wrap:wrap;gap:6px}
+.tab{font:inherit;font-size:.85rem;border:1px solid var(--line);background:var(--panel);color:var(--fg);border-radius:999px;padding:5px 12px;cursor:pointer}
+.tab[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--bg)}
+.tab .n{font-family:var(--font-mono);font-size:.78rem;opacity:.8;margin-left:4px}
+#q{font:inherit;flex:1 1 200px;min-width:0;padding:6px 10px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--fg)}
+label.chk{font-size:.85rem;color:var(--muted);display:flex;gap:6px;align-items:center}
+.list{display:flex;flex-direction:column;gap:8px;margin-top:14px}
+.row{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px 14px;display:grid;grid-template-columns:minmax(0,1fr) auto;gap:8px 16px}
+.row.done{border-color:var(--accent)}
+/* Fixed-height text block so the label switch sits at the same height on every row */
+.main{min-width:0;height:168px;overflow:hidden;display:flex;flex-direction:column}
+.when{font-family:var(--font-mono);font-size:.8rem;color:var(--muted);font-variant-numeric:tabular-nums}
+.title{font-weight:600;margin:2px 0;overflow-wrap:anywhere;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;flex:none}
+.title a{color:inherit;text-decoration-color:var(--line)}
+.meta{font-size:.85rem;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;flex:none}
+.why{font-size:.85rem;margin-top:4px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;flex:none}
+.main .chips{flex-wrap:nowrap;overflow:hidden}
+.by{font-family:var(--font-mono);font-size:.72rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.chips{display:flex;flex-wrap:wrap;gap:4px;margin-top:6px}
+.chip{font-size:.75rem;padding:2px 8px;border-radius:999px;background:var(--accent-soft);color:var(--fg);border:1px solid transparent}
+button.chip{cursor:pointer;font-family:inherit;background:transparent;border-color:var(--line);color:var(--muted)}
+button.chip[aria-pressed="true"]{background:var(--accent-soft);color:var(--fg);border-color:var(--accent)}
+.flag{font-size:.78rem;color:var(--pos);margin-top:4px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;flex:none}
+.side{display:flex;flex-direction:column;gap:6px;align-items:flex-end}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.seg button{font:inherit;font-size:.8rem;padding:6px 10px;border:0;background:var(--panel);color:var(--muted);cursor:pointer}
+.seg button+button{border-left:1px solid var(--line)}
+.seg button[aria-pressed="true"][data-l="relevant"]{background:var(--rel-soft);color:var(--rel);font-weight:600}
+.seg button[aria-pressed="true"][data-l="possibly"]{background:var(--pos-soft);color:var(--pos);font-weight:600}
+.seg button[aria-pressed="true"][data-l="not"]{background:var(--not-soft);color:var(--not);font-weight:600}
+.saved{font-size:.75rem;color:var(--accent);min-height:1.1em}
+.note{font:inherit;font-size:.82rem;width:100%;max-width:260px;padding:4px 8px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--fg)}
+details.tagedit summary{font-size:.78rem;color:var(--accent);cursor:pointer}
+.empty{padding:28px;text-align:center;color:var(--muted);border:1px dashed var(--line);border-radius:10px}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+@media (max-width:640px){.row{grid-template-columns:minmax(0,1fr)}.side{align-items:flex-start}}
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Immigration Calendar Review</h1>
+    <p>Confirm or change each label. Your choices are saved and become the training examples for the next evaluation: an event series you decide once stays decided.</p>
+    <div class="status" id="status">Loading the latest batch…</div>
+  </header>
+  <div class="bar">
+    <div class="tabs" id="tabs"></div>
+    <input id="q" type="search" placeholder="Search title, place or source" aria-label="Search events">
+    <label class="chk"><input type="checkbox" id="showdup"> Show duplicates</label>
+  </div>
+  <div class="list" id="list"><div class="empty">Loading events…</div></div>
+</div>
+
+<script>
+const LABELS=[["relevant","Relevant"],["possibly","Possibly"],["not","Not"]];
+const TABS=[["look","Needs a look"],["relevant","Relevant"],["possibly","Possibly"],["not","Not relevant"],["reviewed","Reviewed"],["all","All"]];
+let data=null, groups=[], decisions={}, db=null, canWrite=true, tab="look";
+try{tab=localStorage.getItem("tab")||"look"}catch(e){}
+const $=s=>document.querySelector(s);
+const norm=s=>(s||"").toLowerCase().replace(/[^a-z0-9]+/g," ").trim();
+const docId=g=>("g_"+g.source+"_"+norm(g.title).replace(/ /g,"-")).replace(/[^A-Za-z0-9_\-.~:@+]/g,"_").slice(0,190);
+function el(t,a,...k){const e=document.createElement(t);for(const[x,v]of Object.entries(a||{})){if(x==="class")e.className=v;else if(x.startsWith("on"))e.addEventListener(x.slice(2),v);else if(v!=null)e.setAttribute(x,v)}for(const c of k.flat()){if(c==null)continue;e.append(c.nodeType?c:document.createTextNode(c))}return e}
+function fmt(s){if(!s)return"";const d=new Date(s.length===10?s+"T12:00":s.replace(" ","T"));const day=d.toLocaleDateString("en-US",{weekday:"short",month:"short",day:"numeric"});return s.length===10?day+" · time not given":day+" · "+d.toLocaleTimeString("en-US",{hour:"numeric",minute:"2-digit"})}
+
+function build(){
+  const m=new Map();
+  for(const e of data.events){const k=e.source+"|"+norm(e.title);if(!m.has(k))m.set(k,{key:k,source:e.source,source_name:e.source_name,title:e.title,events:[]});m.get(k).events.push(e)}
+  groups=[...m.values()].map(g=>{const f=g.events[0];return Object.assign(g,{label:f.label,tags:f.tags,reason:f.reason,decided_by:f.decided_by,first:f,dup:g.events.every(e=>e.duplicate_of),check:g.events.some(e=>e.needs_check)})});
+  groups.sort((a,b)=>a.first.start.localeCompare(b.first.start));
+}
+const cur=g=>decisions[docId(g)]||null;
+const labelOf=g=>(cur(g)||{}).label||g.label;
+function inTab(g){const l=labelOf(g),d=cur(g);
+  if(tab==="all")return true; if(tab==="reviewed")return !!d;
+  if(tab==="look")return !d&&(l==="possibly"||(g.check&&l!=="not")||g.decided_by==="ai");
+  return l===tab}
+function render(){
+  const q=norm($("#q").value), showdup=$("#showdup").checked;
+  const vis=groups.filter(g=>(showdup||!g.dup)&&(!q||norm(g.title+" "+g.source_name+" "+(g.first.location||"")).includes(q)));
+  $("#tabs").replaceChildren(...TABS.map(([k,n])=>el("button",{class:"tab","aria-pressed":String(k===tab),onclick:()=>{tab=k;try{localStorage.setItem("tab",k)}catch(e){}render()}},n,el("span",{class:"n"},String(vis.filter(g=>{const t=tab;tab=k;const r=inTab(g);tab=t;return r}).length)))));
+  const rows=vis.filter(inTab);
+  const list=$("#list");
+  if(!rows.length){list.replaceChildren(el("div",{class:"empty"},tab==="reviewed"?"Nothing reviewed yet. Labels you set in the other tabs appear here.":"Nothing in this view."));return}
+  list.replaceChildren(...rows.map(row));
+}
+function row(g){
+  const d=cur(g), l=labelOf(g), tags=(d&&d.tags)||g.tags, f=g.first;
+  const link=f.url||f.post;
+  const dates=g.events.length>1?` · ${g.events.length} dates`:"";
+  const seg=el("div",{class:"seg",role:"group","aria-label":"Label"},LABELS.map(([k,n])=>el("button",{"data-l":k,"aria-pressed":String(l===k),disabled:canWrite?null:"",onclick:()=>save(g,{label:k})},n)));
+  const tagBtns=el("div",{class:"chips"},data.tags.map(t=>el("button",{class:"chip","aria-pressed":String(tags.includes(t)),disabled:canWrite?null:"",onclick:()=>save(g,{tags:tags.includes(t)?tags.filter(x=>x!==t):[...tags,t]})},t)));
+  const note=el("input",{class:"note",id:"n-"+docId(g),placeholder:"Note (optional)",value:(d&&d.note)||"","aria-label":"Note"});
+  note.addEventListener("change",()=>save(g,{note:note.value.trim()}));
+  return el("div",{class:"row"+(d?" done":"")},
+    el("div",{class:"main"},
+      el("div",{class:"when"},fmt(f.start)+dates),
+      el("div",{class:"title",title:g.title},link?el("a",{href:link,target:"_blank",rel:"noopener"},g.title):g.title),
+      el("div",{class:"meta",title:g.source_name+(f.location?" · "+f.location:"")},g.source_name+(f.location?" · "+f.location:"")),
+      el("div",{class:"why"},el("span",{class:"by"},d?"you":g.decided_by.replace("rule:","rule · ")),"  ",d?(d.note||"Your decision"):g.reason),
+      g.check?el("div",{class:"flag"},"Check details: "+g.events.find(e=>e.needs_check).needs_check):null,
+      tags.length?el("div",{class:"chips"},tags.map(t=>el("span",{class:"chip"},t))):null),
+    el("div",{class:"side"},seg,note,el("span",{class:"saved"},d?"Saved "+(d.decided||""):"\u00a0"),el("details",{class:"tagedit"},el("summary",{},"Edit tags"),tagBtns)));
+}
+async function save(g,patch){
+  if(!db){setStatus("Saving needs the review store, which isn't available in this view.");return}
+  const prev=cur(g)||{label:g.label,tags:g.tags,note:""};
+  const body={uids:g.events.map(e=>e.uid),source:g.source,title:g.title,label:prev.label,tags:prev.tags,note:prev.note||"",...patch,decided:new Date().toISOString().slice(0,10)};
+  decisions[docId(g)]=body; render();
+  try{await db.collection("decisions").doc(docId(g)).set(body)}
+  catch(e){if(e&&e.code==="invalid_argument"){canWrite=false;setStatus("You can view this page but not change labels.");render()}else setStatus("Couldn't save that change. Try again in a moment.")}
+}
+function setStatus(t){$("#status").textContent=t}
+function summary(){
+  const c={relevant:0,possibly:0,not:0};let rev=0;
+  for(const g of groups){if(g.dup)continue;c[labelOf(g)]+=g.events.length;if(cur(g))rev++}
+  $("#status").replaceChildren("Batch of ",el("b",{},data.generated)," · ",el("b",{},String(c.relevant))," relevant · ",el("b",{},String(c.possibly))," possibly · ",el("b",{},String(c.not))," not (duplicates hidden) · ",el("b",{},String(rev))," series reviewed");
+}
+(async()=>{
+  try{data=await (await fetch("review_data.json")).json()}catch(e){$("#list").replaceChildren(el("div",{class:"empty"},"The event list didn't load. Reload the page.")) ;return}
+  build(); summary(); render();
+  $("#q").addEventListener("input",render); $("#showdup").addEventListener("change",render);
+  db=await claude.use("db");
+  const user=await claude.use("user");
+  if(user){const w=await user.can("data.write");if(w===false)canWrite=false}
+  if(!db){setStatus("Labels can't be saved in this view; you can still browse.");canWrite=false;render();return}
+  db.collection("decisions").onSnapshot(s=>{decisions={};for(const d of s.docs)decisions[d.id]=d.data();summary();render()},()=>setStatus("Live updates stopped. Reload to see the latest labels."));
+})();
+</script>

@@ -1,0 +1,57 @@
+name: Update calendar
+on:
+  schedule:
+    - cron: '17 13 * * *'   # every day, about 5:17 or 6:17 am Pacific
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/update.yml'
+      - 'automation/tools/**'
+      - 'automation/evaluation/**'
+      - 'automation/raw/page_events.json'
+      - 'automation/raw/carlsbad.tsv'
+      - 'automation/raw/chulavista.tsv'
+      - 'automation/raw/nationalcity.tsv'
+permissions:
+  contents: write
+concurrency:
+  group: update-calendar
+  cancel-in-progress: false
+env:
+  TZ: America/Los_Angeles
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Collect sources
+        run: python automation/tools/collect.py
+      - name: Build the batch
+        run: python automation/tools/build_batch.py
+      - name: Label events
+        run: python automation/tools/evaluate.py run
+      - name: Build feeds
+        run: python automation/tools/make_feeds.py
+      - name: Check and publish
+        id: publish
+        continue-on-error: true
+        run: python automation/tools/publish.py
+      - name: Save to the repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo "Nothing changed"; exit 0; fi
+          git commit -m "Automated update $(date +%F): $(grep -c BEGIN:VEVENT all.ics) events"
+          git pull --rebase -q
+          git push
+      - name: Report problems
+        if: steps.publish.outcome == 'failure'
+        run: |
+          echo "The publish step reported a problem. See automation/status.md."
+          exit 1

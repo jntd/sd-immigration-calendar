@@ -1,0 +1,296 @@
+{
+ "_about": "Keyword rules for evaluate.py. Rules run in order. Tags add up from every rule that matches; the label comes from the FIRST matching rule that has one. A rule with label null only adds tags. 'in' says what text is searched: title, categories, location, or text (title + categories + location). Patterns are case-insensitive regular expressions. 'sources' / 'not_sources' limit a rule to source groups below or source ids.",
+ "source_groups": {
+  "libraries": [
+   "sdcl",
+   "oceanside-pl",
+   "escondido-pl",
+   "coronado-pl",
+   "chulavista-pl",
+   "carlsbad-pl",
+   "nationalcity-pl",
+   "sandiego-pl"
+  ],
+  "agencies": [
+   "jfs",
+   "alliancesd",
+   "cair",
+   "ltf",
+   "borderangels",
+   "irc",
+   "uweast",
+   "casafamiliar",
+   "maac",
+   "lassd",
+   "sdvlp",
+   "majdal",
+   "oira",
+   "chicanofed",
+   "haitianbridge",
+   "pathways",
+   "survivors",
+   "casacornelia",
+   "espaciomigrante",
+   "interfaith",
+   "kosd",
+   "somali",
+   "refugeesd"
+  ],
+  "other_calendars": [
+   "eventbrite"
+  ]
+ },
+ "rules": [
+  {
+   "id": "cancelled",
+   "special": "cancelled",
+   "label": "not",
+   "reason": "Cancelled"
+  },
+  {
+   "id": "duplicate",
+   "special": "duplicate",
+   "label": "not",
+   "reason": "Duplicate of another listing in the batch"
+  },
+  {
+   "id": "tag-online",
+   "in": "location",
+   "pattern": "online|virtual|zoom|webinar",
+   "label": null,
+   "tags": [
+    "Online"
+   ]
+  },
+  {
+   "id": "tag-online-title",
+   "in": "title",
+   "pattern": "webinar|virtual",
+   "label": null,
+   "tags": [
+    "Online"
+   ]
+  },
+  {
+   "id": "tag-spanish",
+   "in": "text",
+   "pattern": "\\bspanish\\b|espa[ñn]ol|\\b(clases?|taller|ciudadan[ií]a|b[uú]squeda|para)\\b",
+   "label": null,
+   "tags": [
+    "Spanish"
+   ]
+  },
+  {
+   "id": "fundraiser",
+   "in": "title",
+   "pattern": "\\bgala\\b|soir[ée]e|brunch|taste of the|fundrais|\\bbenefit(ing)?\\b|luncheon",
+   "label": "not",
+   "reason": "Fundraiser or gala"
+  },
+  {
+   "id": "citizenship",
+   "in": "text",
+   "pattern": "citizenship|ciudadan|naturaliz|n-400",
+   "label": "relevant",
+   "tags": [
+    "Citizenship"
+   ],
+   "reason": "Citizenship preparation"
+  },
+  {
+   "id": "immigration",
+   "in": "title",
+   "pattern": "immigra|inmigra|refugee|asylum|\\bdaca\\b|\\btps\\b|deport|green card",
+   "label": "relevant",
+   "tags": [
+    "Immigration legal"
+   ],
+   "reason": "Immigration or refugee topic"
+  },
+  {
+   "id": "homeowner-rights",
+   "in": "title",
+   "pattern": "homeowner.?s? rights",
+   "label": "not",
+   "reason": "Homeowner topic, not a newcomer service"
+  },
+  {
+   "id": "tenants-rights",
+   "in": "title",
+   "pattern": "tenants.? rights",
+   "label": "possibly",
+   "tags": [
+    "Housing",
+    "Rights & civic"
+   ],
+   "reason": "Tenants' rights: useful, but general rather than for newcomers"
+  },
+  {
+   "id": "rights",
+   "in": "title",
+   "pattern": "know your rights|conozca sus derechos|derechos",
+   "label": "relevant",
+   "tags": [
+    "Rights & civic"
+   ],
+   "reason": "Rights education"
+  },
+  {
+   "id": "fair-housing",
+   "in": "title",
+   "pattern": "fair housing|affordable housing",
+   "label": "possibly",
+   "tags": [
+    "Housing",
+    "Rights & civic"
+   ],
+   "reason": "Housing rights or access: general rather than for newcomers"
+  },
+  {
+   "id": "civic",
+   "in": "title",
+   "pattern": "ballot|\\bvoter|\\bvote\\b|civic engagement|public comment",
+   "label": "possibly",
+   "tags": [
+    "Rights & civic"
+   ],
+   "reason": "Voter information or civic engagement: general rather than for newcomers"
+  },
+  {
+   "id": "esl",
+   "in": "text",
+   "pattern": "\\besl\\b|english as a second|english practice|english class|clases? de ingl|ingl[eé]s como|laubach|learn english|english conversation|english language conversation|english corner|basic english",
+   "label": "relevant",
+   "tags": [
+    "ESL"
+   ],
+   "reason": "English learning (ESL)"
+  },
+  {
+   "id": "health-awareness-table",
+   "in": "title",
+   "pattern": "dementia|alzheimer|air pollution|mobile outreach",
+   "sources": [
+    "libraries"
+   ],
+   "label": "not",
+   "reason": "Health-awareness table or talk, not a service aimed at immigrants"
+  },
+  {
+   "id": "legal-table",
+   "in": "title",
+   "pattern": "law library",
+   "label": "relevant",
+   "tags": [
+    "Tabling"
+   ],
+   "reason": "Free legal help table"
+  },
+  {
+   "id": "veterans",
+   "in": "title",
+   "pattern": "veteran|military",
+   "label": "not",
+   "reason": "Aimed at veterans, not newcomers"
+  },
+  {
+   "id": "senior-care-table",
+   "in": "title",
+   "pattern": "\\bpace\\b",
+   "sources": [
+    "libraries"
+   ],
+   "label": "not",
+   "reason": "Senior care program table, not a newcomer service"
+  },
+  {
+   "id": "tabling-category",
+   "in": "categories",
+   "pattern": "resource table",
+   "label": "not",
+   "tags": [
+    "Tabling"
+   ],
+   "reason": "Resource or information table for general services, not aimed at immigrants and refugees"
+  },
+  {
+   "id": "tabling-title",
+   "in": "title",
+   "pattern": "information(al)? table|info(rmation)? session|\\btabling\\b|resource table|mobile outreach|law library|information$|informaci[oó]n",
+   "label": "not",
+   "tags": [
+    "Tabling"
+   ],
+   "reason": "Resource or information table for general services, not aimed at immigrants and refugees"
+  },
+  {
+   "id": "edd-job-help",
+   "in": "title",
+   "pattern": "edd job help|job lab|b[uú]squeda de trabajo",
+   "label": "possibly",
+   "tags": [
+    "Tabling",
+    "Jobs & money"
+   ],
+   "reason": "Job help drop-in: general rather than for newcomers"
+  },
+  {
+   "id": "tag-health",
+   "in": "text",
+   "pattern": "health|dementia|alzheimer|medical",
+   "label": null,
+   "tags": [
+    "Health"
+   ]
+  },
+  {
+   "id": "tag-money",
+   "in": "title",
+   "pattern": "financ|money|tax|credit|bank|job|career|business|student loan",
+   "label": null,
+   "tags": [
+    "Jobs & money"
+   ]
+  },
+  {
+   "id": "learn-other-language",
+   "in": "title",
+   "pattern": "spanish conversation|h[aá]blame|learn spanish|caf[eé]-rencontre|\\bfrench\\b",
+   "label": "not",
+   "reason": "Learning a language other than English"
+  },
+  {
+   "id": "cultural-agency",
+   "in": "title",
+   "pattern": "d[ií]a de (los )?muertos|matsuri|festival|rhythms of|celebration|bazaar",
+   "sources": [
+    "agencies"
+   ],
+   "label": "possibly",
+   "tags": [
+    "Community & culture"
+   ],
+   "reason": "Cultural or community event hosted by an immigrant-serving agency"
+  },
+  {
+   "id": "cultural-other",
+   "in": "title",
+   "pattern": "d[ií]a de (los )?muertos|matsuri|festival|celebration",
+   "not_sources": [
+    "agencies"
+   ],
+   "label": "not",
+   "reason": "Cultural celebration not hosted by an immigrant-serving agency"
+  },
+  {
+   "id": "library-general",
+   "in": "title",
+   "pattern": "storytime|stories|lego|gamer|knit|crochet|book club|cinema club|reel wednesday|film|movie|craft|chess|\\btcg\\b|stay & play|steam|coding|tinkercad|genealogy|tool library|tool-ize|scribes|hamlet|macbeth|richard ii|mindfulness|pilates|sound bath|painting|embroider|punch needle|pumpkin|ghost portraits|booktacular|bookish|dracula|garden|unwind|friendship club|tech help|comic-con|author|book launch|lecture|performance|concert|courtyard|board of trustees|commission meeting|disabilities|holiday|spice it up|bike smart|kiku",
+   "sources": [
+    "libraries"
+   ],
+   "label": "not",
+   "reason": "General library programming"
+  }
+ ]
+}
