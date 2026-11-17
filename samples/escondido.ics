@@ -1,0 +1,983 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sabre//Sabre VObject 4.6.1//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:2595
+DTSTAMP:20261117T063810Z
+SUMMARY:Law Library Support
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/law-library-suppo
+ rt-2595
+STATUS:CONFIRMED
+CREATED:20261103T185608Z
+LAST-MODIFIED:20261103T185608Z
+CATEGORIES:Law & Government
+DTSTART:20261119T180000Z
+DTEND:20261119T220000Z
+LOCATION:239 S Kalmia St\, Escondido\, CA\, 92025\, US
+ROOM:Partner Table (1F)
+IMAGE;ALTREP=Graphic of two people standing in front of a law library.;DISP
+ LAY=FULLSIZE;VALUE=URI:https://escondido.librarycalendar.com/sites/default
+ /files/2026-06/Law%20Library.png
+END:VEVENT
+BEGIN:VEVENT
+UID:616
+DTSTAMP:20261117T063810Z
+SUMMARY:Genealogy Drop-In
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/genealogy-drop-61
+ 6
+STATUS:CONFIRMED
+CREATED:20260822T174847Z
+LAST-MODIFIED:20260822T174847Z
+DESCRIPTION:Discover your family history with the help of our knowledgeable
+  genealogy volunteers. Whether you're a beginner or have been researching 
+ for years\, our experts are here to assist you. Drop in anytime between 10
+ :00 AM and 12:00 PM to:\n\n- Get Personalized Assistance: Receive one-on-o
+ ne help from genealogy enthusiasts.\n- Learn Tips and Tricks: Discover eff
+ ective strategies for tracing your ancestors.\n- Use Powerful Tools: Get g
+ uidance on using Ancestry.com Library Edition and FamilySearch to enhance 
+ your research.\n\nJoin us at the Pioneer Room and uncover the stories of y
+ our past. No appointment necessary. Bring your questions\, your curiosity\
+ , and any information you already have about your family tree.\n\nCheck ou
+ t the Pioneer Room's Genealogy Page for more information!
+CATEGORIES:History & Culture,Games & Hobbies,Tech & Digital Skills
+CONTACT:Ashley Hays\, pioneer.room@escondidolibrary.org\, 7608394315
+DTSTART:20261120T180000Z
+DTEND:20261120T220000Z
+LOCATION:247 S Kalmia St\, Escondido\, CA\, 92025\, US
+IMAGE;ALTREP="Genealogy Drop-In Logo and Text. Text reads, ^'Genealogy drop
+ -in at the Pioneer Room archive.^'";DISPLAY=FULLSIZE;VALUE=URI:https://esc
+ ondido.librarycalendar.com/sites/default/files/2026-08/PR%20logo%20%28gene
+ alogy%29%20%282%29.png
+END:VEVENT
+BEGIN:VEVENT
+UID:2596
+DTSTAMP:20261117T063810Z
+SUMMARY:Law Library Support
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/law-library-suppo
+ rt-2596
+STATUS:CONFIRMED
+CREATED:20261103T185608Z
+LAST-MODIFIED:20261103T185608Z
+CATEGORIES:Law & Government
+DTSTART:20261203T180000Z
+DTEND:20261203T220000Z
+LOCATION:239 S Kalmia St\, Escondido\, CA\, 92025\, US
+ROOM:Partner Table (1F)
+IMAGE;ALTREP=Graphic of two people standing in front of a law library.;DISP
+ LAY=FULLSIZE;VALUE=URI:https://escondido.librarycalendar.com/sites/default
+ /files/2026-06/Law%20Library.png
+END:VEVENT
+BEGIN:VEVENT
+UID:617
+DTSTAMP:20261117T063810Z
+SUMMARY:Genealogy Drop-In
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/genealogy-drop-61
+ 7
+STATUS:CONFIRMED
+CREATED:20260822T174847Z
+LAST-MODIFIED:20260822T174847Z
+DESCRIPTION:Discover your family history with the help of our knowledgeable
+  genealogy volunteers. Whether you're a beginner or have been researching 
+ for years\, our experts are here to assist you. Drop in anytime between 10
+ :00 AM and 12:00 PM to:\n\n- Get Personalized Assistance: Receive one-on-o
+ ne help from genealogy enthusiasts.\n- Learn Tips and Tricks: Discover eff
+ ective strategies for tracing your ancestors.\n- Use Powerful Tools: Get g
+ uidance on using Ancestry.com Library Edition and FamilySearch to enhance 
+ your research.\n\nJoin us at the Pioneer Room and uncover the stories of y
+ our past. No appointment necessary. Bring your questions\, your curiosity\
+ , and any information you already have about your family tree.\n\nCheck ou
+ t the Pioneer Room's Genealogy Page for more information!
+CATEGORIES:History & Culture,Games & Hobbies,Tech & Digital Skills
+CONTACT:Ashley Hays\, pioneer.room@escondidolibrary.org\, 7608394315
+DTSTART:20261204T180000Z
+DTEND:20261204T220000Z
+LOCATION:247 S Kalmia St\, Escondido\, CA\, 92025\, US
+IMAGE;ALTREP="Genealogy Drop-In Logo and Text. Text reads, ^'Genealogy drop
+ -in at the Pioneer Room archive.^'";DISPLAY=FULLSIZE;VALUE=URI:https://esc
+ ondido.librarycalendar.com/sites/default/files/2026-08/PR%20logo%20%28gene
+ alogy%29%20%282%29.png
+END:VEVENT
+BEGIN:VEVENT
+UID:2597
+DTSTAMP:20261117T063810Z
+SUMMARY:Law Library Support
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/law-library-suppo
+ rt-2597
+STATUS:CONFIRMED
+CREATED:20261103T185608Z
+LAST-MODIFIED:20261103T185608Z
+CATEGORIES:Law & Government
+DTSTART:20261217T180000Z
+DTEND:20261217T220000Z
+LOCATION:239 S Kalmia St\, Escondido\, CA\, 92025\, US
+ROOM:Partner Table (1F)
+IMAGE;ALTREP=Graphic of two people standing in front of a law library.;DISP
+ LAY=FULLSIZE;VALUE=URI:https://escondido.librarycalendar.com/sites/default
+ /files/2026-06/Law%20Library.png
+END:VEVENT
+BEGIN:VEVENT
+UID:618
+DTSTAMP:20261117T063810Z
+SUMMARY:Genealogy Drop-In
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/genealogy-drop-61
+ 8
+STATUS:CONFIRMED
+CREATED:20260822T174847Z
+LAST-MODIFIED:20260822T174847Z
+DESCRIPTION:Discover your family history with the help of our knowledgeable
+  genealogy volunteers. Whether you're a beginner or have been researching 
+ for years\, our experts are here to assist you. Drop in anytime between 10
+ :00 AM and 12:00 PM to:\n\n- Get Personalized Assistance: Receive one-on-o
+ ne help from genealogy enthusiasts.\n- Learn Tips and Tricks: Discover eff
+ ective strategies for tracing your ancestors.\n- Use Powerful Tools: Get g
+ uidance on using Ancestry.com Library Edition and FamilySearch to enhance 
+ your research.\n\nJoin us at the Pioneer Room and uncover the stories of y
+ our past. No appointment necessary. Bring your questions\, your curiosity\
+ , and any information you already have about your family tree.\n\nCheck ou
+ t the Pioneer Room's Genealogy Page for more information!
+CATEGORIES:History & Culture,Games & Hobbies,Tech & Digital Skills
+CONTACT:Ashley Hays\, pioneer.room@escondidolibrary.org\, 7608394315
+DTSTART:20261218T180000Z
+DTEND:20261218T220000Z
+LOCATION:247 S Kalmia St\, Escondido\, CA\, 92025\, US
+IMAGE;ALTREP="Genealogy Drop-In Logo and Text. Text reads, ^'Genealogy drop
+ -in at the Pioneer Room archive.^'";DISPLAY=FULLSIZE;VALUE=URI:https://esc
+ ondido.librarycalendar.com/sites/default/files/2026-08/PR%20logo%20%28gene
+ alogy%29%20%282%29.png
+END:VEVENT
+BEGIN:VEVENT
+UID:2598
+DTSTAMP:20261117T063810Z
+SUMMARY:Law Library Support
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/law-library-suppo
+ rt-2598
+STATUS:CONFIRMED
+CREATED:20261103T185608Z
+LAST-MODIFIED:20261103T185608Z
+CATEGORIES:Law & Government
+DTSTART:20270107T180000Z
+DTEND:20270107T220000Z
+LOCATION:239 S Kalmia St\, Escondido\, CA\, 92025\, US
+ROOM:Partner Table (1F)
+IMAGE;ALTREP=Graphic of two people standing in front of a law library.;DISP
+ LAY=FULLSIZE;VALUE=URI:https://escondido.librarycalendar.com/sites/default
+ /files/2026-06/Law%20Library.png
+END:VEVENT
+BEGIN:VEVENT
+UID:619
+DTSTAMP:20261117T063810Z
+SUMMARY:Genealogy Drop-In
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/genealogy-drop-61
+ 9
+STATUS:CONFIRMED
+CREATED:20260822T174847Z
+LAST-MODIFIED:20260822T174847Z
+DESCRIPTION:Discover your family history with the help of our knowledgeable
+  genealogy volunteers. Whether you're a beginner or have been researching 
+ for years\, our experts are here to assist you. Drop in anytime between 10
+ :00 AM and 12:00 PM to:\n\n- Get Personalized Assistance: Receive one-on-o
+ ne help from genealogy enthusiasts.\n- Learn Tips and Tricks: Discover eff
+ ective strategies for tracing your ancestors.\n- Use Powerful Tools: Get g
+ uidance on using Ancestry.com Library Edition and FamilySearch to enhance 
+ your research.\n\nJoin us at the Pioneer Room and uncover the stories of y
+ our past. No appointment necessary. Bring your questions\, your curiosity\
+ , and any information you already have about your family tree.\n\nCheck ou
+ t the Pioneer Room's Genealogy Page for more information!
+CATEGORIES:History & Culture,Games & Hobbies,Tech & Digital Skills
+CONTACT:Ashley Hays\, pioneer.room@escondidolibrary.org\, 7608394315
+DTSTART:20270115T180000Z
+DTEND:20270115T220000Z
+LOCATION:247 S Kalmia St\, Escondido\, CA\, 92025\, US
+IMAGE;ALTREP="Genealogy Drop-In Logo and Text. Text reads, ^'Genealogy drop
+ -in at the Pioneer Room archive.^'";DISPLAY=FULLSIZE;VALUE=URI:https://esc
+ ondido.librarycalendar.com/sites/default/files/2026-08/PR%20logo%20%28gene
+ alogy%29%20%282%29.png
+END:VEVENT
+BEGIN:VEVENT
+UID:2599
+DTSTAMP:20261117T063810Z
+SUMMARY:Law Library Support
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/law-library-suppo
+ rt-2599
+STATUS:CONFIRMED
+CREATED:20261103T185608Z
+LAST-MODIFIED:20261103T185608Z
+CATEGORIES:Law & Government
+DTSTART:20270121T180000Z
+DTEND:20270121T220000Z
+LOCATION:239 S Kalmia St\, Escondido\, CA\, 92025\, US
+ROOM:Partner Table (1F)
+IMAGE;ALTREP=Graphic of two people standing in front of a law library.;DISP
+ LAY=FULLSIZE;VALUE=URI:https://escondido.librarycalendar.com/sites/default
+ /files/2026-06/Law%20Library.png
+END:VEVENT
+BEGIN:VEVENT
+UID:2600
+DTSTAMP:20261117T063810Z
+SUMMARY:Law Library Support
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/law-library-suppo
+ rt-2600
+STATUS:CONFIRMED
+CREATED:20261103T185608Z
+LAST-MODIFIED:20261103T185608Z
+CATEGORIES:Law & Government
+DTSTART:20270204T180000Z
+DTEND:20270204T220000Z
+LOCATION:239 S Kalmia St\, Escondido\, CA\, 92025\, US
+ROOM:Partner Table (1F)
+IMAGE;ALTREP=Graphic of two people standing in front of a law library.;DISP
+ LAY=FULLSIZE;VALUE=URI:https://escondido.librarycalendar.com/sites/default
+ /files/2026-06/Law%20Library.png
+END:VEVENT
+BEGIN:VEVENT
+UID:620
+DTSTAMP:20261117T063810Z
+SUMMARY:Genealogy Drop-In
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/genealogy-drop-62
+ 0
+STATUS:CONFIRMED
+CREATED:20260822T174847Z
+LAST-MODIFIED:20260822T174847Z
+DESCRIPTION:Discover your family history with the help of our knowledgeable
+  genealogy volunteers. Whether you're a beginner or have been researching 
+ for years\, our experts are here to assist you. Drop in anytime between 10
+ :00 AM and 12:00 PM to:\n\n- Get Personalized Assistance: Receive one-on-o
+ ne help from genealogy enthusiasts.\n- Learn Tips and Tricks: Discover eff
+ ective strategies for tracing your ancestors.\n- Use Powerful Tools: Get g
+ uidance on using Ancestry.com Library Edition and FamilySearch to enhance 
+ your research.\n\nJoin us at the Pioneer Room and uncover the stories of y
+ our past. No appointment necessary. Bring your questions\, your curiosity\
+ , and any information you already have about your family tree.\n\nCheck ou
+ t the Pioneer Room's Genealogy Page for more information!
+CATEGORIES:History & Culture,Games & Hobbies,Tech & Digital Skills
+CONTACT:Ashley Hays\, pioneer.room@escondidolibrary.org\, 7608394315
+DTSTART:20270205T180000Z
+DTEND:20270205T220000Z
+LOCATION:247 S Kalmia St\, Escondido\, CA\, 92025\, US
+IMAGE;ALTREP="Genealogy Drop-In Logo and Text. Text reads, ^'Genealogy drop
+ -in at the Pioneer Room archive.^'";DISPLAY=FULLSIZE;VALUE=URI:https://esc
+ ondido.librarycalendar.com/sites/default/files/2026-08/PR%20logo%20%28gene
+ alogy%29%20%282%29.png
+END:VEVENT
+BEGIN:VEVENT
+UID:2601
+DTSTAMP:20261117T063810Z
+SUMMARY:Law Library Support
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/law-library-suppo
+ rt-2601
+STATUS:CONFIRMED
+CREATED:20261103T185608Z
+LAST-MODIFIED:20261103T185608Z
+CATEGORIES:Law & Government
+DTSTART:20270218T180000Z
+DTEND:20270218T220000Z
+LOCATION:239 S Kalmia St\, Escondido\, CA\, 92025\, US
+ROOM:Partner Table (1F)
+IMAGE;ALTREP=Graphic of two people standing in front of a law library.;DISP
+ LAY=FULLSIZE;VALUE=URI:https://escondido.librarycalendar.com/sites/default
+ /files/2026-06/Law%20Library.png
+END:VEVENT
+BEGIN:VEVENT
+UID:621
+DTSTAMP:20261117T063810Z
+SUMMARY:Genealogy Drop-In
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/genealogy-drop-62
+ 1
+STATUS:CONFIRMED
+CREATED:20260822T174847Z
+LAST-MODIFIED:20260822T174847Z
+DESCRIPTION:Discover your family history with the help of our knowledgeable
+  genealogy volunteers. Whether you're a beginner or have been researching 
+ for years\, our experts are here to assist you. Drop in anytime between 10
+ :00 AM and 12:00 PM to:\n\n- Get Personalized Assistance: Receive one-on-o
+ ne help from genealogy enthusiasts.\n- Learn Tips and Tricks: Discover eff
+ ective strategies for tracing your ancestors.\n- Use Powerful Tools: Get g
+ uidance on using Ancestry.com Library Edition and FamilySearch to enhance 
+ your research.\n\nJoin us at the Pioneer Room and uncover the stories of y
+ our past. No appointment necessary. Bring your questions\, your curiosity\
+ , and any information you already have about your family tree.\n\nCheck ou
+ t the Pioneer Room's Genealogy Page for more information!
+CATEGORIES:History & Culture,Games & Hobbies,Tech & Digital Skills
+CONTACT:Ashley Hays\, pioneer.room@escondidolibrary.org\, 7608394315
+DTSTART:20270219T180000Z
+DTEND:20270219T220000Z
+LOCATION:247 S Kalmia St\, Escondido\, CA\, 92025\, US
+IMAGE;ALTREP="Genealogy Drop-In Logo and Text. Text reads, ^'Genealogy drop
+ -in at the Pioneer Room archive.^'";DISPLAY=FULLSIZE;VALUE=URI:https://esc
+ ondido.librarycalendar.com/sites/default/files/2026-08/PR%20logo%20%28gene
+ alogy%29%20%282%29.png
+END:VEVENT
+BEGIN:VEVENT
+UID:2602
+DTSTAMP:20261117T063810Z
+SUMMARY:Law Library Support
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/law-library-suppo
+ rt-2602
+STATUS:CONFIRMED
+CREATED:20261103T185608Z
+LAST-MODIFIED:20261103T185608Z
+CATEGORIES:Law & Government
+DTSTART:20270304T180000Z
+DTEND:20270304T220000Z
+LOCATION:239 S Kalmia St\, Escondido\, CA\, 92025\, US
+ROOM:Partner Table (1F)
+IMAGE;ALTREP=Graphic of two people standing in front of a law library.;DISP
+ LAY=FULLSIZE;VALUE=URI:https://escondido.librarycalendar.com/sites/default
+ /files/2026-06/Law%20Library.png
+END:VEVENT
+BEGIN:VEVENT
+UID:622
+DTSTAMP:20261117T063810Z
+SUMMARY:Genealogy Drop-In
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/genealogy-drop-62
+ 2
+STATUS:CONFIRMED
+CREATED:20260822T174847Z
+LAST-MODIFIED:20260822T174847Z
+DESCRIPTION:Discover your family history with the help of our knowledgeable
+  genealogy volunteers. Whether you're a beginner or have been researching 
+ for years\, our experts are here to assist you. Drop in anytime between 10
+ :00 AM and 12:00 PM to:\n\n- Get Personalized Assistance: Receive one-on-o
+ ne help from genealogy enthusiasts.\n- Learn Tips and Tricks: Discover eff
+ ective strategies for tracing your ancestors.\n- Use Powerful Tools: Get g
+ uidance on using Ancestry.com Library Edition and FamilySearch to enhance 
+ your research.\n\nJoin us at the Pioneer Room and uncover the stories of y
+ our past. No appointment necessary. Bring your questions\, your curiosity\
+ , and any information you already have about your family tree.\n\nCheck ou
+ t the Pioneer Room's Genealogy Page for more information!
+CATEGORIES:History & Culture,Games & Hobbies,Tech & Digital Skills
+CONTACT:Ashley Hays\, pioneer.room@escondidolibrary.org\, 7608394315
+DTSTART:20270305T180000Z
+DTEND:20270305T220000Z
+LOCATION:247 S Kalmia St\, Escondido\, CA\, 92025\, US
+IMAGE;ALTREP="Genealogy Drop-In Logo and Text. Text reads, ^'Genealogy drop
+ -in at the Pioneer Room archive.^'";DISPLAY=FULLSIZE;VALUE=URI:https://esc
+ ondido.librarycalendar.com/sites/default/files/2026-08/PR%20logo%20%28gene
+ alogy%29%20%282%29.png
+END:VEVENT
+BEGIN:VEVENT
+UID:2603
+DTSTAMP:20261117T063810Z
+SUMMARY:Law Library Support
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/law-library-suppo
+ rt-2603
+STATUS:CONFIRMED
+CREATED:20261103T185608Z
+LAST-MODIFIED:20261103T185608Z
+CATEGORIES:Law & Government
+DTSTART:20270318T170000Z
+DTEND:20270318T210000Z
+LOCATION:239 S Kalmia St\, Escondido\, CA\, 92025\, US
+ROOM:Partner Table (1F)
+IMAGE;ALTREP=Graphic of two people standing in front of a law library.;DISP
+ LAY=FULLSIZE;VALUE=URI:https://escondido.librarycalendar.com/sites/default
+ /files/2026-06/Law%20Library.png
+END:VEVENT
+BEGIN:VEVENT
+UID:623
+DTSTAMP:20261117T063810Z
+SUMMARY:Genealogy Drop-In
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/genealogy-drop-62
+ 3
+STATUS:CONFIRMED
+CREATED:20260822T174847Z
+LAST-MODIFIED:20260822T174847Z
+DESCRIPTION:Discover your family history with the help of our knowledgeable
+  genealogy volunteers. Whether you're a beginner or have been researching 
+ for years\, our experts are here to assist you. Drop in anytime between 10
+ :00 AM and 12:00 PM to:\n\n- Get Personalized Assistance: Receive one-on-o
+ ne help from genealogy enthusiasts.\n- Learn Tips and Tricks: Discover eff
+ ective strategies for tracing your ancestors.\n- Use Powerful Tools: Get g
+ uidance on using Ancestry.com Library Edition and FamilySearch to enhance 
+ your research.\n\nJoin us at the Pioneer Room and uncover the stories of y
+ our past. No appointment necessary. Bring your questions\, your curiosity\
+ , and any information you already have about your family tree.\n\nCheck ou
+ t the Pioneer Room's Genealogy Page for more information!
+CATEGORIES:History & Culture,Games & Hobbies,Tech & Digital Skills
+CONTACT:Ashley Hays\, pioneer.room@escondidolibrary.org\, 7608394315
+DTSTART:20270319T170000Z
+DTEND:20270319T210000Z
+LOCATION:247 S Kalmia St\, Escondido\, CA\, 92025\, US
+IMAGE;ALTREP="Genealogy Drop-In Logo and Text. Text reads, ^'Genealogy drop
+ -in at the Pioneer Room archive.^'";DISPLAY=FULLSIZE;VALUE=URI:https://esc
+ ondido.librarycalendar.com/sites/default/files/2026-08/PR%20logo%20%28gene
+ alogy%29%20%282%29.png
+END:VEVENT
+BEGIN:VEVENT
+UID:2604
+DTSTAMP:20261117T063810Z
+SUMMARY:Law Library Support
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/law-library-suppo
+ rt-2604
+STATUS:CONFIRMED
+CREATED:20261103T185608Z
+LAST-MODIFIED:20261103T185608Z
+CATEGORIES:Law & Government
+DTSTART:20270401T170000Z
+DTEND:20270401T210000Z
+LOCATION:239 S Kalmia St\, Escondido\, CA\, 92025\, US
+ROOM:Partner Table (1F)
+IMAGE;ALTREP=Graphic of two people standing in front of a law library.;DISP
+ LAY=FULLSIZE;VALUE=URI:https://escondido.librarycalendar.com/sites/default
+ /files/2026-06/Law%20Library.png
+END:VEVENT
+BEGIN:VEVENT
+UID:624
+DTSTAMP:20261117T063810Z
+SUMMARY:Genealogy Drop-In
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/genealogy-drop-62
+ 4
+STATUS:CONFIRMED
+CREATED:20260822T174847Z
+LAST-MODIFIED:20260822T174847Z
+DESCRIPTION:Discover your family history with the help of our knowledgeable
+  genealogy volunteers. Whether you're a beginner or have been researching 
+ for years\, our experts are here to assist you. Drop in anytime between 10
+ :00 AM and 12:00 PM to:\n\n- Get Personalized Assistance: Receive one-on-o
+ ne help from genealogy enthusiasts.\n- Learn Tips and Tricks: Discover eff
+ ective strategies for tracing your ancestors.\n- Use Powerful Tools: Get g
+ uidance on using Ancestry.com Library Edition and FamilySearch to enhance 
+ your research.\n\nJoin us at the Pioneer Room and uncover the stories of y
+ our past. No appointment necessary. Bring your questions\, your curiosity\
+ , and any information you already have about your family tree.\n\nCheck ou
+ t the Pioneer Room's Genealogy Page for more information!
+CATEGORIES:History & Culture,Games & Hobbies,Tech & Digital Skills
+CONTACT:Ashley Hays\, pioneer.room@escondidolibrary.org\, 7608394315
+DTSTART:20270402T170000Z
+DTEND:20270402T210000Z
+LOCATION:247 S Kalmia St\, Escondido\, CA\, 92025\, US
+IMAGE;ALTREP="Genealogy Drop-In Logo and Text. Text reads, ^'Genealogy drop
+ -in at the Pioneer Room archive.^'";DISPLAY=FULLSIZE;VALUE=URI:https://esc
+ ondido.librarycalendar.com/sites/default/files/2026-08/PR%20logo%20%28gene
+ alogy%29%20%282%29.png
+END:VEVENT
+BEGIN:VEVENT
+UID:2605
+DTSTAMP:20261117T063810Z
+SUMMARY:Law Library Support
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/law-library-suppo
+ rt-2605
+STATUS:CONFIRMED
+CREATED:20261103T185608Z
+LAST-MODIFIED:20261103T185608Z
+CATEGORIES:Law & Government
+DTSTART:20270415T170000Z
+DTEND:20270415T210000Z
+LOCATION:239 S Kalmia St\, Escondido\, CA\, 92025\, US
+ROOM:Partner Table (1F)
+IMAGE;ALTREP=Graphic of two people standing in front of a law library.;DISP
+ LAY=FULLSIZE;VALUE=URI:https://escondido.librarycalendar.com/sites/default
+ /files/2026-06/Law%20Library.png
+END:VEVENT
+BEGIN:VEVENT
+UID:625
+DTSTAMP:20261117T063810Z
+SUMMARY:Genealogy Drop-In
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/genealogy-drop-62
+ 5
+STATUS:CONFIRMED
+CREATED:20260822T174847Z
+LAST-MODIFIED:20260822T174847Z
+DESCRIPTION:Discover your family history with the help of our knowledgeable
+  genealogy volunteers. Whether you're a beginner or have been researching 
+ for years\, our experts are here to assist you. Drop in anytime between 10
+ :00 AM and 12:00 PM to:\n\n- Get Personalized Assistance: Receive one-on-o
+ ne help from genealogy enthusiasts.\n- Learn Tips and Tricks: Discover eff
+ ective strategies for tracing your ancestors.\n- Use Powerful Tools: Get g
+ uidance on using Ancestry.com Library Edition and FamilySearch to enhance 
+ your research.\n\nJoin us at the Pioneer Room and uncover the stories of y
+ our past. No appointment necessary. Bring your questions\, your curiosity\
+ , and any information you already have about your family tree.\n\nCheck ou
+ t the Pioneer Room's Genealogy Page for more information!
+CATEGORIES:History & Culture,Games & Hobbies,Tech & Digital Skills
+CONTACT:Ashley Hays\, pioneer.room@escondidolibrary.org\, 7608394315
+DTSTART:20270416T170000Z
+DTEND:20270416T210000Z
+LOCATION:247 S Kalmia St\, Escondido\, CA\, 92025\, US
+IMAGE;ALTREP="Genealogy Drop-In Logo and Text. Text reads, ^'Genealogy drop
+ -in at the Pioneer Room archive.^'";DISPLAY=FULLSIZE;VALUE=URI:https://esc
+ ondido.librarycalendar.com/sites/default/files/2026-08/PR%20logo%20%28gene
+ alogy%29%20%282%29.png
+END:VEVENT
+BEGIN:VEVENT
+UID:626
+DTSTAMP:20261117T063810Z
+SUMMARY:Genealogy Drop-In
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/genealogy-drop-62
+ 6
+STATUS:CONFIRMED
+CREATED:20260822T174847Z
+LAST-MODIFIED:20260822T174847Z
+DESCRIPTION:Discover your family history with the help of our knowledgeable
+  genealogy volunteers. Whether you're a beginner or have been researching 
+ for years\, our experts are here to assist you. Drop in anytime between 10
+ :00 AM and 12:00 PM to:\n\n- Get Personalized Assistance: Receive one-on-o
+ ne help from genealogy enthusiasts.\n- Learn Tips and Tricks: Discover eff
+ ective strategies for tracing your ancestors.\n- Use Powerful Tools: Get g
+ uidance on using Ancestry.com Library Edition and FamilySearch to enhance 
+ your research.\n\nJoin us at the Pioneer Room and uncover the stories of y
+ our past. No appointment necessary. Bring your questions\, your curiosity\
+ , and any information you already have about your family tree.\n\nCheck ou
+ t the Pioneer Room's Genealogy Page for more information!
+CATEGORIES:History & Culture,Games & Hobbies,Tech & Digital Skills
+CONTACT:Ashley Hays\, pioneer.room@escondidolibrary.org\, 7608394315
+DTSTART:20270507T170000Z
+DTEND:20270507T210000Z
+LOCATION:247 S Kalmia St\, Escondido\, CA\, 92025\, US
+IMAGE;ALTREP="Genealogy Drop-In Logo and Text. Text reads, ^'Genealogy drop
+ -in at the Pioneer Room archive.^'";DISPLAY=FULLSIZE;VALUE=URI:https://esc
+ ondido.librarycalendar.com/sites/default/files/2026-08/PR%20logo%20%28gene
+ alogy%29%20%282%29.png
+END:VEVENT
+BEGIN:VEVENT
+UID:627
+DTSTAMP:20261117T063810Z
+SUMMARY:Genealogy Drop-In
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/genealogy-drop-62
+ 7
+STATUS:CONFIRMED
+CREATED:20260822T174847Z
+LAST-MODIFIED:20260822T174847Z
+DESCRIPTION:Discover your family history with the help of our knowledgeable
+  genealogy volunteers. Whether you're a beginner or have been researching 
+ for years\, our experts are here to assist you. Drop in anytime between 10
+ :00 AM and 12:00 PM to:\n\n- Get Personalized Assistance: Receive one-on-o
+ ne help from genealogy enthusiasts.\n- Learn Tips and Tricks: Discover eff
+ ective strategies for tracing your ancestors.\n- Use Powerful Tools: Get g
+ uidance on using Ancestry.com Library Edition and FamilySearch to enhance 
+ your research.\n\nJoin us at the Pioneer Room and uncover the stories of y
+ our past. No appointment necessary. Bring your questions\, your curiosity\
+ , and any information you already have about your family tree.\n\nCheck ou
+ t the Pioneer Room's Genealogy Page for more information!
+CATEGORIES:History & Culture,Games & Hobbies,Tech & Digital Skills
+CONTACT:Ashley Hays\, pioneer.room@escondidolibrary.org\, 7608394315
+DTSTART:20270521T170000Z
+DTEND:20270521T210000Z
+LOCATION:247 S Kalmia St\, Escondido\, CA\, 92025\, US
+IMAGE;ALTREP="Genealogy Drop-In Logo and Text. Text reads, ^'Genealogy drop
+ -in at the Pioneer Room archive.^'";DISPLAY=FULLSIZE;VALUE=URI:https://esc
+ ondido.librarycalendar.com/sites/default/files/2026-08/PR%20logo%20%28gene
+ alogy%29%20%282%29.png
+END:VEVENT
+BEGIN:VEVENT
+UID:628
+DTSTAMP:20261117T063810Z
+SUMMARY:Genealogy Drop-In
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/genealogy-drop-62
+ 8
+STATUS:CONFIRMED
+CREATED:20260822T174847Z
+LAST-MODIFIED:20260822T174847Z
+DESCRIPTION:Discover your family history with the help of our knowledgeable
+  genealogy volunteers. Whether you're a beginner or have been researching 
+ for years\, our experts are here to assist you. Drop in anytime between 10
+ :00 AM and 12:00 PM to:\n\n- Get Personalized Assistance: Receive one-on-o
+ ne help from genealogy enthusiasts.\n- Learn Tips and Tricks: Discover eff
+ ective strategies for tracing your ancestors.\n- Use Powerful Tools: Get g
+ uidance on using Ancestry.com Library Edition and FamilySearch to enhance 
+ your research.\n\nJoin us at the Pioneer Room and uncover the stories of y
+ our past. No appointment necessary. Bring your questions\, your curiosity\
+ , and any information you already have about your family tree.\n\nCheck ou
+ t the Pioneer Room's Genealogy Page for more information!
+CATEGORIES:History & Culture,Games & Hobbies,Tech & Digital Skills
+CONTACT:Ashley Hays\, pioneer.room@escondidolibrary.org\, 7608394315
+DTSTART:20270604T170000Z
+DTEND:20270604T210000Z
+LOCATION:247 S Kalmia St\, Escondido\, CA\, 92025\, US
+IMAGE;ALTREP="Genealogy Drop-In Logo and Text. Text reads, ^'Genealogy drop
+ -in at the Pioneer Room archive.^'";DISPLAY=FULLSIZE;VALUE=URI:https://esc
+ ondido.librarycalendar.com/sites/default/files/2026-08/PR%20logo%20%28gene
+ alogy%29%20%282%29.png
+END:VEVENT
+BEGIN:VEVENT
+UID:629
+DTSTAMP:20261117T063810Z
+SUMMARY:Genealogy Drop-In
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/genealogy-drop-62
+ 9
+STATUS:CONFIRMED
+CREATED:20260822T174847Z
+LAST-MODIFIED:20260822T174847Z
+DESCRIPTION:Discover your family history with the help of our knowledgeable
+  genealogy volunteers. Whether you're a beginner or have been researching 
+ for years\, our experts are here to assist you. Drop in anytime between 10
+ :00 AM and 12:00 PM to:\n\n- Get Personalized Assistance: Receive one-on-o
+ ne help from genealogy enthusiasts.\n- Learn Tips and Tricks: Discover eff
+ ective strategies for tracing your ancestors.\n- Use Powerful Tools: Get g
+ uidance on using Ancestry.com Library Edition and FamilySearch to enhance 
+ your research.\n\nJoin us at the Pioneer Room and uncover the stories of y
+ our past. No appointment necessary. Bring your questions\, your curiosity\
+ , and any information you already have about your family tree.\n\nCheck ou
+ t the Pioneer Room's Genealogy Page for more information!
+CATEGORIES:History & Culture,Games & Hobbies,Tech & Digital Skills
+CONTACT:Ashley Hays\, pioneer.room@escondidolibrary.org\, 7608394315
+DTSTART:20270618T170000Z
+DTEND:20270618T210000Z
+LOCATION:247 S Kalmia St\, Escondido\, CA\, 92025\, US
+IMAGE;ALTREP="Genealogy Drop-In Logo and Text. Text reads, ^'Genealogy drop
+ -in at the Pioneer Room archive.^'";DISPLAY=FULLSIZE;VALUE=URI:https://esc
+ ondido.librarycalendar.com/sites/default/files/2026-08/PR%20logo%20%28gene
+ alogy%29%20%282%29.png
+END:VEVENT
+BEGIN:VEVENT
+UID:630
+DTSTAMP:20261117T063810Z
+SUMMARY:Genealogy Drop-In
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/genealogy-drop-63
+ 0
+STATUS:CONFIRMED
+CREATED:20260822T174847Z
+LAST-MODIFIED:20260822T174847Z
+DESCRIPTION:Discover your family history with the help of our knowledgeable
+  genealogy volunteers. Whether you're a beginner or have been researching 
+ for years\, our experts are here to assist you. Drop in anytime between 10
+ :00 AM and 12:00 PM to:\n\n- Get Personalized Assistance: Receive one-on-o
+ ne help from genealogy enthusiasts.\n- Learn Tips and Tricks: Discover eff
+ ective strategies for tracing your ancestors.\n- Use Powerful Tools: Get g
+ uidance on using Ancestry.com Library Edition and FamilySearch to enhance 
+ your research.\n\nJoin us at the Pioneer Room and uncover the stories of y
+ our past. No appointment necessary. Bring your questions\, your curiosity\
+ , and any information you already have about your family tree.\n\nCheck ou
+ t the Pioneer Room's Genealogy Page for more information!
+CATEGORIES:History & Culture,Games & Hobbies,Tech & Digital Skills
+CONTACT:Ashley Hays\, pioneer.room@escondidolibrary.org\, 7608394315
+DTSTART:20270702T170000Z
+DTEND:20270702T210000Z
+LOCATION:247 S Kalmia St\, Escondido\, CA\, 92025\, US
+IMAGE;ALTREP="Genealogy Drop-In Logo and Text. Text reads, ^'Genealogy drop
+ -in at the Pioneer Room archive.^'";DISPLAY=FULLSIZE;VALUE=URI:https://esc
+ ondido.librarycalendar.com/sites/default/files/2026-08/PR%20logo%20%28gene
+ alogy%29%20%282%29.png
+END:VEVENT
+BEGIN:VEVENT
+UID:631
+DTSTAMP:20261117T063810Z
+SUMMARY:Genealogy Drop-In
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/genealogy-drop-63
+ 1
+STATUS:CONFIRMED
+CREATED:20260822T174847Z
+LAST-MODIFIED:20260822T174847Z
+DESCRIPTION:Discover your family history with the help of our knowledgeable
+  genealogy volunteers. Whether you're a beginner or have been researching 
+ for years\, our experts are here to assist you. Drop in anytime between 10
+ :00 AM and 12:00 PM to:\n\n- Get Personalized Assistance: Receive one-on-o
+ ne help from genealogy enthusiasts.\n- Learn Tips and Tricks: Discover eff
+ ective strategies for tracing your ancestors.\n- Use Powerful Tools: Get g
+ uidance on using Ancestry.com Library Edition and FamilySearch to enhance 
+ your research.\n\nJoin us at the Pioneer Room and uncover the stories of y
+ our past. No appointment necessary. Bring your questions\, your curiosity\
+ , and any information you already have about your family tree.\n\nCheck ou
+ t the Pioneer Room's Genealogy Page for more information!
+CATEGORIES:History & Culture,Games & Hobbies,Tech & Digital Skills
+CONTACT:Ashley Hays\, pioneer.room@escondidolibrary.org\, 7608394315
+DTSTART:20270716T170000Z
+DTEND:20270716T210000Z
+LOCATION:247 S Kalmia St\, Escondido\, CA\, 92025\, US
+IMAGE;ALTREP="Genealogy Drop-In Logo and Text. Text reads, ^'Genealogy drop
+ -in at the Pioneer Room archive.^'";DISPLAY=FULLSIZE;VALUE=URI:https://esc
+ ondido.librarycalendar.com/sites/default/files/2026-08/PR%20logo%20%28gene
+ alogy%29%20%282%29.png
+END:VEVENT
+BEGIN:VEVENT
+UID:632
+DTSTAMP:20261117T063810Z
+SUMMARY:Genealogy Drop-In
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/genealogy-drop-63
+ 2
+STATUS:CONFIRMED
+CREATED:20260822T174847Z
+LAST-MODIFIED:20260822T174847Z
+DESCRIPTION:Discover your family history with the help of our knowledgeable
+  genealogy volunteers. Whether you're a beginner or have been researching 
+ for years\, our experts are here to assist you. Drop in anytime between 10
+ :00 AM and 12:00 PM to:\n\n- Get Personalized Assistance: Receive one-on-o
+ ne help from genealogy enthusiasts.\n- Learn Tips and Tricks: Discover eff
+ ective strategies for tracing your ancestors.\n- Use Powerful Tools: Get g
+ uidance on using Ancestry.com Library Edition and FamilySearch to enhance 
+ your research.\n\nJoin us at the Pioneer Room and uncover the stories of y
+ our past. No appointment necessary. Bring your questions\, your curiosity\
+ , and any information you already have about your family tree.\n\nCheck ou
+ t the Pioneer Room's Genealogy Page for more information!
+CATEGORIES:History & Culture,Games & Hobbies,Tech & Digital Skills
+CONTACT:Ashley Hays\, pioneer.room@escondidolibrary.org\, 7608394315
+DTSTART:20270806T170000Z
+DTEND:20270806T210000Z
+LOCATION:247 S Kalmia St\, Escondido\, CA\, 92025\, US
+IMAGE;ALTREP="Genealogy Drop-In Logo and Text. Text reads, ^'Genealogy drop
+ -in at the Pioneer Room archive.^'";DISPLAY=FULLSIZE;VALUE=URI:https://esc
+ ondido.librarycalendar.com/sites/default/files/2026-08/PR%20logo%20%28gene
+ alogy%29%20%282%29.png
+END:VEVENT
+BEGIN:VEVENT
+UID:633
+DTSTAMP:20261117T063810Z
+SUMMARY:Genealogy Drop-In
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/genealogy-drop-63
+ 3
+STATUS:CONFIRMED
+CREATED:20260822T174847Z
+LAST-MODIFIED:20260822T174847Z
+DESCRIPTION:Discover your family history with the help of our knowledgeable
+  genealogy volunteers. Whether you're a beginner or have been researching 
+ for years\, our experts are here to assist you. Drop in anytime between 10
+ :00 AM and 12:00 PM to:\n\n- Get Personalized Assistance: Receive one-on-o
+ ne help from genealogy enthusiasts.\n- Learn Tips and Tricks: Discover eff
+ ective strategies for tracing your ancestors.\n- Use Powerful Tools: Get g
+ uidance on using Ancestry.com Library Edition and FamilySearch to enhance 
+ your research.\n\nJoin us at the Pioneer Room and uncover the stories of y
+ our past. No appointment necessary. Bring your questions\, your curiosity\
+ , and any information you already have about your family tree.\n\nCheck ou
+ t the Pioneer Room's Genealogy Page for more information!
+CATEGORIES:History & Culture,Games & Hobbies,Tech & Digital Skills
+CONTACT:Ashley Hays\, pioneer.room@escondidolibrary.org\, 7608394315
+DTSTART:20270820T170000Z
+DTEND:20270820T210000Z
+LOCATION:247 S Kalmia St\, Escondido\, CA\, 92025\, US
+IMAGE;ALTREP="Genealogy Drop-In Logo and Text. Text reads, ^'Genealogy drop
+ -in at the Pioneer Room archive.^'";DISPLAY=FULLSIZE;VALUE=URI:https://esc
+ ondido.librarycalendar.com/sites/default/files/2026-08/PR%20logo%20%28gene
+ alogy%29%20%282%29.png
+END:VEVENT
+BEGIN:VEVENT
+UID:634
+DTSTAMP:20261117T063810Z
+SUMMARY:Genealogy Drop-In
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/genealogy-drop-63
+ 4
+STATUS:CONFIRMED
+CREATED:20260822T174847Z
+LAST-MODIFIED:20260822T174847Z
+DESCRIPTION:Discover your family history with the help of our knowledgeable
+  genealogy volunteers. Whether you're a beginner or have been researching 
+ for years\, our experts are here to assist you. Drop in anytime between 10
+ :00 AM and 12:00 PM to:\n\n- Get Personalized Assistance: Receive one-on-o
+ ne help from genealogy enthusiasts.\n- Learn Tips and Tricks: Discover eff
+ ective strategies for tracing your ancestors.\n- Use Powerful Tools: Get g
+ uidance on using Ancestry.com Library Edition and FamilySearch to enhance 
+ your research.\n\nJoin us at the Pioneer Room and uncover the stories of y
+ our past. No appointment necessary. Bring your questions\, your curiosity\
+ , and any information you already have about your family tree.\n\nCheck ou
+ t the Pioneer Room's Genealogy Page for more information!
+CATEGORIES:History & Culture,Games & Hobbies,Tech & Digital Skills
+CONTACT:Ashley Hays\, pioneer.room@escondidolibrary.org\, 7608394315
+DTSTART:20270903T170000Z
+DTEND:20270903T210000Z
+LOCATION:247 S Kalmia St\, Escondido\, CA\, 92025\, US
+IMAGE;ALTREP="Genealogy Drop-In Logo and Text. Text reads, ^'Genealogy drop
+ -in at the Pioneer Room archive.^'";DISPLAY=FULLSIZE;VALUE=URI:https://esc
+ ondido.librarycalendar.com/sites/default/files/2026-08/PR%20logo%20%28gene
+ alogy%29%20%282%29.png
+END:VEVENT
+BEGIN:VEVENT
+UID:635
+DTSTAMP:20261117T063810Z
+SUMMARY:Genealogy Drop-In
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/genealogy-drop-63
+ 5
+STATUS:CONFIRMED
+CREATED:20260822T174847Z
+LAST-MODIFIED:20260822T174847Z
+DESCRIPTION:Discover your family history with the help of our knowledgeable
+  genealogy volunteers. Whether you're a beginner or have been researching 
+ for years\, our experts are here to assist you. Drop in anytime between 10
+ :00 AM and 12:00 PM to:\n\n- Get Personalized Assistance: Receive one-on-o
+ ne help from genealogy enthusiasts.\n- Learn Tips and Tricks: Discover eff
+ ective strategies for tracing your ancestors.\n- Use Powerful Tools: Get g
+ uidance on using Ancestry.com Library Edition and FamilySearch to enhance 
+ your research.\n\nJoin us at the Pioneer Room and uncover the stories of y
+ our past. No appointment necessary. Bring your questions\, your curiosity\
+ , and any information you already have about your family tree.\n\nCheck ou
+ t the Pioneer Room's Genealogy Page for more information!
+CATEGORIES:History & Culture,Games & Hobbies,Tech & Digital Skills
+CONTACT:Ashley Hays\, pioneer.room@escondidolibrary.org\, 7608394315
+DTSTART:20270917T170000Z
+DTEND:20270917T210000Z
+LOCATION:247 S Kalmia St\, Escondido\, CA\, 92025\, US
+IMAGE;ALTREP="Genealogy Drop-In Logo and Text. Text reads, ^'Genealogy drop
+ -in at the Pioneer Room archive.^'";DISPLAY=FULLSIZE;VALUE=URI:https://esc
+ ondido.librarycalendar.com/sites/default/files/2026-08/PR%20logo%20%28gene
+ alogy%29%20%282%29.png
+END:VEVENT
+BEGIN:VEVENT
+UID:636
+DTSTAMP:20261117T063810Z
+SUMMARY:Genealogy Drop-In
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/genealogy-drop-63
+ 6
+STATUS:CONFIRMED
+CREATED:20260822T174847Z
+LAST-MODIFIED:20260822T174847Z
+DESCRIPTION:Discover your family history with the help of our knowledgeable
+  genealogy volunteers. Whether you're a beginner or have been researching 
+ for years\, our experts are here to assist you. Drop in anytime between 10
+ :00 AM and 12:00 PM to:\n\n- Get Personalized Assistance: Receive one-on-o
+ ne help from genealogy enthusiasts.\n- Learn Tips and Tricks: Discover eff
+ ective strategies for tracing your ancestors.\n- Use Powerful Tools: Get g
+ uidance on using Ancestry.com Library Edition and FamilySearch to enhance 
+ your research.\n\nJoin us at the Pioneer Room and uncover the stories of y
+ our past. No appointment necessary. Bring your questions\, your curiosity\
+ , and any information you already have about your family tree.\n\nCheck ou
+ t the Pioneer Room's Genealogy Page for more information!
+CATEGORIES:History & Culture,Games & Hobbies,Tech & Digital Skills
+CONTACT:Ashley Hays\, pioneer.room@escondidolibrary.org\, 7608394315
+DTSTART:20271001T170000Z
+DTEND:20271001T210000Z
+LOCATION:247 S Kalmia St\, Escondido\, CA\, 92025\, US
+IMAGE;ALTREP="Genealogy Drop-In Logo and Text. Text reads, ^'Genealogy drop
+ -in at the Pioneer Room archive.^'";DISPLAY=FULLSIZE;VALUE=URI:https://esc
+ ondido.librarycalendar.com/sites/default/files/2026-08/PR%20logo%20%28gene
+ alogy%29%20%282%29.png
+END:VEVENT
+BEGIN:VEVENT
+UID:637
+DTSTAMP:20261117T063810Z
+SUMMARY:Genealogy Drop-In
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/genealogy-drop-63
+ 7
+STATUS:CONFIRMED
+CREATED:20260822T174847Z
+LAST-MODIFIED:20260822T174847Z
+DESCRIPTION:Discover your family history with the help of our knowledgeable
+  genealogy volunteers. Whether you're a beginner or have been researching 
+ for years\, our experts are here to assist you. Drop in anytime between 10
+ :00 AM and 12:00 PM to:\n\n- Get Personalized Assistance: Receive one-on-o
+ ne help from genealogy enthusiasts.\n- Learn Tips and Tricks: Discover eff
+ ective strategies for tracing your ancestors.\n- Use Powerful Tools: Get g
+ uidance on using Ancestry.com Library Edition and FamilySearch to enhance 
+ your research.\n\nJoin us at the Pioneer Room and uncover the stories of y
+ our past. No appointment necessary. Bring your questions\, your curiosity\
+ , and any information you already have about your family tree.\n\nCheck ou
+ t the Pioneer Room's Genealogy Page for more information!
+CATEGORIES:History & Culture,Games & Hobbies,Tech & Digital Skills
+CONTACT:Ashley Hays\, pioneer.room@escondidolibrary.org\, 7608394315
+DTSTART:20271015T170000Z
+DTEND:20271015T210000Z
+LOCATION:247 S Kalmia St\, Escondido\, CA\, 92025\, US
+IMAGE;ALTREP="Genealogy Drop-In Logo and Text. Text reads, ^'Genealogy drop
+ -in at the Pioneer Room archive.^'";DISPLAY=FULLSIZE;VALUE=URI:https://esc
+ ondido.librarycalendar.com/sites/default/files/2026-08/PR%20logo%20%28gene
+ alogy%29%20%282%29.png
+END:VEVENT
+BEGIN:VEVENT
+UID:638
+DTSTAMP:20261117T063810Z
+SUMMARY:Genealogy Drop-In
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/genealogy-drop-63
+ 8
+STATUS:CONFIRMED
+CREATED:20260822T174847Z
+LAST-MODIFIED:20260822T174847Z
+DESCRIPTION:Discover your family history with the help of our knowledgeable
+  genealogy volunteers. Whether you're a beginner or have been researching 
+ for years\, our experts are here to assist you. Drop in anytime between 10
+ :00 AM and 12:00 PM to:\n\n- Get Personalized Assistance: Receive one-on-o
+ ne help from genealogy enthusiasts.\n- Learn Tips and Tricks: Discover eff
+ ective strategies for tracing your ancestors.\n- Use Powerful Tools: Get g
+ uidance on using Ancestry.com Library Edition and FamilySearch to enhance 
+ your research.\n\nJoin us at the Pioneer Room and uncover the stories of y
+ our past. No appointment necessary. Bring your questions\, your curiosity\
+ , and any information you already have about your family tree.\n\nCheck ou
+ t the Pioneer Room's Genealogy Page for more information!
+CATEGORIES:History & Culture,Games & Hobbies,Tech & Digital Skills
+CONTACT:Ashley Hays\, pioneer.room@escondidolibrary.org\, 7608394315
+DTSTART:20271105T170000Z
+DTEND:20271105T210000Z
+LOCATION:247 S Kalmia St\, Escondido\, CA\, 92025\, US
+IMAGE;ALTREP="Genealogy Drop-In Logo and Text. Text reads, ^'Genealogy drop
+ -in at the Pioneer Room archive.^'";DISPLAY=FULLSIZE;VALUE=URI:https://esc
+ ondido.librarycalendar.com/sites/default/files/2026-08/PR%20logo%20%28gene
+ alogy%29%20%282%29.png
+END:VEVENT
+BEGIN:VEVENT
+UID:639
+DTSTAMP:20261117T063810Z
+SUMMARY:Genealogy Drop-In
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/genealogy-drop-63
+ 9
+STATUS:CONFIRMED
+CREATED:20260822T174847Z
+LAST-MODIFIED:20260822T174847Z
+DESCRIPTION:Discover your family history with the help of our knowledgeable
+  genealogy volunteers. Whether you're a beginner or have been researching 
+ for years\, our experts are here to assist you. Drop in anytime between 10
+ :00 AM and 12:00 PM to:\n\n- Get Personalized Assistance: Receive one-on-o
+ ne help from genealogy enthusiasts.\n- Learn Tips and Tricks: Discover eff
+ ective strategies for tracing your ancestors.\n- Use Powerful Tools: Get g
+ uidance on using Ancestry.com Library Edition and FamilySearch to enhance 
+ your research.\n\nJoin us at the Pioneer Room and uncover the stories of y
+ our past. No appointment necessary. Bring your questions\, your curiosity\
+ , and any information you already have about your family tree.\n\nCheck ou
+ t the Pioneer Room's Genealogy Page for more information!
+CATEGORIES:History & Culture,Games & Hobbies,Tech & Digital Skills
+CONTACT:Ashley Hays\, pioneer.room@escondidolibrary.org\, 7608394315
+DTSTART:20271119T180000Z
+DTEND:20271119T220000Z
+LOCATION:247 S Kalmia St\, Escondido\, CA\, 92025\, US
+IMAGE;ALTREP="Genealogy Drop-In Logo and Text. Text reads, ^'Genealogy drop
+ -in at the Pioneer Room archive.^'";DISPLAY=FULLSIZE;VALUE=URI:https://esc
+ ondido.librarycalendar.com/sites/default/files/2026-08/PR%20logo%20%28gene
+ alogy%29%20%282%29.png
+END:VEVENT
+BEGIN:VEVENT
+UID:640
+DTSTAMP:20261117T063810Z
+SUMMARY:Genealogy Drop-In
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/genealogy-drop-64
+ 0
+STATUS:CONFIRMED
+CREATED:20260822T174847Z
+LAST-MODIFIED:20260822T174847Z
+DESCRIPTION:Discover your family history with the help of our knowledgeable
+  genealogy volunteers. Whether you're a beginner or have been researching 
+ for years\, our experts are here to assist you. Drop in anytime between 10
+ :00 AM and 12:00 PM to:\n\n- Get Personalized Assistance: Receive one-on-o
+ ne help from genealogy enthusiasts.\n- Learn Tips and Tricks: Discover eff
+ ective strategies for tracing your ancestors.\n- Use Powerful Tools: Get g
+ uidance on using Ancestry.com Library Edition and FamilySearch to enhance 
+ your research.\n\nJoin us at the Pioneer Room and uncover the stories of y
+ our past. No appointment necessary. Bring your questions\, your curiosity\
+ , and any information you already have about your family tree.\n\nCheck ou
+ t the Pioneer Room's Genealogy Page for more information!
+CATEGORIES:History & Culture,Games & Hobbies,Tech & Digital Skills
+CONTACT:Ashley Hays\, pioneer.room@escondidolibrary.org\, 7608394315
+DTSTART:20271203T180000Z
+DTEND:20271203T220000Z
+LOCATION:247 S Kalmia St\, Escondido\, CA\, 92025\, US
+IMAGE;ALTREP="Genealogy Drop-In Logo and Text. Text reads, ^'Genealogy drop
+ -in at the Pioneer Room archive.^'";DISPLAY=FULLSIZE;VALUE=URI:https://esc
+ ondido.librarycalendar.com/sites/default/files/2026-08/PR%20logo%20%28gene
+ alogy%29%20%282%29.png
+END:VEVENT
+BEGIN:VEVENT
+UID:641
+DTSTAMP:20261117T063810Z
+SUMMARY:Genealogy Drop-In
+URL;VALUE=URI:https://escondido.librarycalendar.com/event/genealogy-drop-64
+ 1
+STATUS:CONFIRMED
+CREATED:20260822T174847Z
+LAST-MODIFIED:20260822T174847Z
+DESCRIPTION:Discover your family history with the help of our knowledgeable
+  genealogy volunteers. Whether you're a beginner or have been researching 
+ for years\, our experts are here to assist you. Drop in anytime between 10
+ :00 AM and 12:00 PM to:\n\n- Get Personalized Assistance: Receive one-on-o
+ ne help from genealogy enthusiasts.\n- Learn Tips and Tricks: Discover eff
+ ective strategies for tracing your ancestors.\n- Use Powerful Tools: Get g
+ uidance on using Ancestry.com Library Edition and FamilySearch to enhance 
+ your research.\n\nJoin us at the Pioneer Room and uncover the stories of y
+ our past. No appointment necessary. Bring your questions\, your curiosity\
+ , and any information you already have about your family tree.\n\nCheck ou
+ t the Pioneer Room's Genealogy Page for more information!
+CATEGORIES:History & Culture,Games & Hobbies,Tech & Digital Skills
+CONTACT:Ashley Hays\, pioneer.room@escondidolibrary.org\, 7608394315
+DTSTART:20271217T180000Z
+DTEND:20271217T220000Z
+LOCATION:247 S Kalmia St\, Escondido\, CA\, 92025\, US
+IMAGE;ALTREP="Genealogy Drop-In Logo and Text. Text reads, ^'Genealogy drop
+ -in at the Pioneer Room archive.^'";DISPLAY=FULLSIZE;VALUE=URI:https://esc
+ ondido.librarycalendar.com/sites/default/files/2026-08/PR%20logo%20%28gene
+ alogy%29%20%282%29.png
+END:VEVENT
+END:VCALENDAR

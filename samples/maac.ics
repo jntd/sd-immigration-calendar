@@ -1,0 +1,327 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MAAC - ECPv6.18.0//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MAAC
+X-ORIGINAL-URL:https://maacproject.org
+X-WR-CALDESC:Events for MAAC
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20260308T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20261101T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20270314T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20271107T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20280312T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20281105T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261117T070000
+DTEND;TZID=America/Los_Angeles:20261117T070000
+DTSTAMP:20261112T181811Z
+CREATED:20261112T181811Z
+LAST-MODIFIED:20261112T181811Z
+UID:6984-1794898800-1794898800@maacproject.org
+SUMMARY:Food Bank – 3rd Tuesday of the Month
+DESCRIPTION:10AM San Martin de Porres\n@ Grace Covenant Church\n9140 Akard Street\, Spring Valley\, CA 91977\nDrive-thru services only. \n1:30PM Laurel Tree\n1307 Laurel Tree Lane\, Carlsbad\, CA 92011\nWalk-up services only\, please bring a cart \n& reusable bag. \nFor more information\, go here.
+URL:https://maacproject.org/event/food-bank-3rd-tuesday-of-the-month-23/
+LOCATION:Laurel Tree Apartments\, 1307 Laurel Tree Lane\, Carlsbad\, CA\, 92011\, United States
+CATEGORIES:Food Bank
+ATTACH;FMTTYPE=image/jpeg:https://maacproject.org/wp-content/uploads/2024/06/IMG_9426-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261118T160000
+DTEND;TZID=America/Los_Angeles:20261118T180000
+DTSTAMP:20261112T183743Z
+CREATED:20261112T182004Z
+LAST-MODIFIED:20261112T183743Z
+UID:6986-1795017600-1795024800@maacproject.org
+SUMMARY:Diaper Distribution – 3rd Wednesday of the Month
+DESCRIPTION:DIAPER DISTRIBUTION /DISTRIBUCIÓN DE PAÑALES \nWALK up for services / Servicios en persona\nEvery 3rd Wednesday of the Month / Cada tercer miércoles \nFor more info\, go here.
+URL:https://maacproject.org/event/diaper-distribution-3rd-wednesday-of-the-month-9/
+LOCATION:MAAC North Campus\, 956 Vale Terrace Drive\, Vista\, CA\, 92084\, United States
+CATEGORIES:Bi-Monthly Diaper Distribution
+ATTACH;FMTTYPE=image/jpeg:https://maacproject.org/wp-content/uploads/2024/06/GettyImages-1167721346_lr.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261119T083000
+DTEND;TZID=America/Los_Angeles:20261119T083000
+DTSTAMP:20261112T182231Z
+CREATED:20261112T182231Z
+LAST-MODIFIED:20261112T182231Z
+UID:6988-1795077000-1795077000@maacproject.org
+SUMMARY:Food Bank – 3rd Thursday of the Month
+DESCRIPTION:8:30AM MAAC Community Center\n1385 Third Avenue\, Chula Vista\, CA 91911\nDrive-thru option preferred\nor walk up for services: If walking up\, please bring a cart & reusable bag. \nFor more information\, click here.
+URL:https://maacproject.org/event/food-bank-3rd-thursday-of-the-month-27/
+LOCATION:MAAC Community Center\, 1387 Third Avenue\, Chula Vista\, 91911\, United States
+CATEGORIES:Food Bank
+ATTACH;FMTTYPE=image/jpeg:https://maacproject.org/wp-content/uploads/2024/06/IMG_9426-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261120T090000
+DTEND;TZID=America/Los_Angeles:20261120T090000
+DTSTAMP:20261112T182558Z
+CREATED:20261112T182500Z
+LAST-MODIFIED:20261112T182558Z
+UID:6990-1795165200-1795165200@maacproject.org
+SUMMARY:Food Bank – 4th Friday of the Month (Holiday Adjusted)
+DESCRIPTION:9AM Senior Food Program\n@ MAAC Community Center\n1387 Third Avenue\, Chula Vista\, CA 91911 \nDrive-thru pick-up only \nFor more information\, go here
+URL:https://maacproject.org/event/food-bank-4th-friday-of-the-month-28/
+LOCATION:MAAC Community Center\, 1387 Third Avenue\, Chula Vista\, 91911\, United States
+CATEGORIES:Food Bank
+ATTACH;FMTTYPE=image/jpeg:https://maacproject.org/wp-content/uploads/2024/06/IMG_9426-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261202T073000
+DTEND;TZID=America/Los_Angeles:20261202T093000
+DTSTAMP:20261112T182904Z
+CREATED:20261112T182904Z
+LAST-MODIFIED:20261112T182904Z
+UID:6993-1796196600-1796203800@maacproject.org
+SUMMARY:Diaper Distribution – 1st Wednesday of the Month
+DESCRIPTION:DIAPER DISTRIBUTION /DISTRIBUCIÓN DE PAÑALES \nWALK up for services / Servicios en persona\nEvery 1st Wednesday of the Month / Cada primer miércoles \nFor more info\, go here.
+URL:https://maacproject.org/event/diaper-distribution-1st-wednesday-of-the-month-10/
+LOCATION:MAAC North Campus\, 956 Vale Terrace Drive\, Vista\, CA\, 92084\, United States
+CATEGORIES:Bi-Monthly Diaper Distribution
+ATTACH;FMTTYPE=image/jpeg:https://maacproject.org/wp-content/uploads/2024/06/GettyImages-1167721346_lr.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261203T090000
+DTEND;TZID=America/Los_Angeles:20261203T090000
+DTSTAMP:20261112T183057Z
+CREATED:20261112T183057Z
+LAST-MODIFIED:20261112T183057Z
+UID:6995-1796288400-1796288400@maacproject.org
+SUMMARY:Food Bank – 1st Thursday of the Month
+DESCRIPTION:9AM Mercado \n2001 Newton Avenue\, San Diego\, CA 92113 \nWalk up for services only \nFor more information\, go here.
+URL:https://maacproject.org/event/food-bank-1st-thursday-of-the-month-32/
+LOCATION:Mercado Apartments\, 2001 Newton Avenue\, San Diego\, CA\, 92113\, United States
+CATEGORIES:Food Bank
+ATTACH;FMTTYPE=image/jpeg:https://maacproject.org/wp-content/uploads/2024/06/IMG_9426-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261203T170000
+DTEND;TZID=America/Los_Angeles:20261203T193000
+DTSTAMP:20261112T144018Z
+CREATED:20261112T144018Z
+LAST-MODIFIED:20261112T144018Z
+UID:6970-1796317200-1796326200@maacproject.org
+SUMMARY:FREE Family Financial Education Resource Fair
+DESCRIPTION:Join us to build financial confidence\, learn practical skills\, and\nconnect with resources for a stronger financial future. \nThursday\, December 3\, 2026\n5:00 PM – 7:30 PM \nSan Martin de Porres Apartments\n9119 Jamacha Rd\, Spring Valley\, CA 91977 \nTo Register Visit:\nbit.ly/build-financial-confidence \nDownload the flyer.
+URL:https://maacproject.org/event/free-family-financial-education-resource-fair/
+LOCATION:San Martin de Porres Apartments\, 9119 Jamacha Road\, Spring Valley\, CA\, 91977\, United States
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261208T090000
+DTEND;TZID=America/Los_Angeles:20261208T090000
+DTSTAMP:20261112T183251Z
+CREATED:20261112T183251Z
+LAST-MODIFIED:20261112T183251Z
+UID:6997-1796720400-1796720400@maacproject.org
+SUMMARY:Food Bank – 2nd Tuesday of the Month
+DESCRIPTION:9AM Villa Lakeshore\n@ Lakeside Community Center\n9841 Vine Street\, Lakeside\, CA 92040 \nDrive-thru option preferred\nor walk up for services\nFor more information\, go here.d
+URL:https://maacproject.org/event/food-bank-2nd-tuesday-of-the-month-31/
+LOCATION:Lakeside Community Center (Villa Lakeshore Temp Location)\, 9841 Vine Street\, Lakeside\, CA\, 92040\, United States
+CATEGORIES:Food Bank
+ATTACH;FMTTYPE=image/jpeg:https://maacproject.org/wp-content/uploads/2024/06/IMG_9426-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261215T070000
+DTEND;TZID=America/Los_Angeles:20261215T070000
+DTSTAMP:20261112T183602Z
+CREATED:20261112T183602Z
+LAST-MODIFIED:20261112T183602Z
+UID:6999-1797318000-1797318000@maacproject.org
+SUMMARY:Food Bank – 3rd Tuesday of the Month
+DESCRIPTION:10AM San Martin de Porres\n@ Grace Covenant Church\n9140 Akard Street\, Spring Valley\, CA 91977\nDrive-thru services only. \n1:30PM Laurel Tree\n1307 Laurel Tree Lane\, Carlsbad\, CA 92011\nWalk-up services only\, please bring a cart \n& reusable bag. \nFor more information\, go here.
+URL:https://maacproject.org/event/food-bank-3rd-tuesday-of-the-month-24/
+LOCATION:Laurel Tree Apartments\, 1307 Laurel Tree Lane\, Carlsbad\, CA\, 92011\, United States
+CATEGORIES:Food Bank
+ATTACH;FMTTYPE=image/jpeg:https://maacproject.org/wp-content/uploads/2024/06/IMG_9426-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261216T160000
+DTEND;TZID=America/Los_Angeles:20261216T180000
+DTSTAMP:20261112T183816Z
+CREATED:20261112T183816Z
+LAST-MODIFIED:20261112T183816Z
+UID:7001-1797436800-1797444000@maacproject.org
+SUMMARY:Diaper Distribution – 3rd Wednesday of the Month
+DESCRIPTION:DIAPER DISTRIBUTION /DISTRIBUCIÓN DE PAÑALES \nWALK up for services / Servicios en persona\nEvery 3rd Wednesday of the Month / Cada tercer miércoles \nFor more info\, go here.
+URL:https://maacproject.org/event/diaper-distribution-3rd-wednesday-of-the-month-10/
+LOCATION:MAAC North Campus\, 956 Vale Terrace Drive\, Vista\, CA\, 92084\, United States
+CATEGORIES:Bi-Monthly Diaper Distribution
+ATTACH;FMTTYPE=image/jpeg:https://maacproject.org/wp-content/uploads/2024/06/GettyImages-1167721346_lr.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261217T083000
+DTEND;TZID=America/Los_Angeles:20261217T083000
+DTSTAMP:20261112T184035Z
+CREATED:20261112T184035Z
+LAST-MODIFIED:20261112T184035Z
+UID:7003-1797496200-1797496200@maacproject.org
+SUMMARY:Food Bank – 3rd Thursday of the Month
+DESCRIPTION:8:30AM MAAC Community Center\n1385 Third Avenue\, Chula Vista\, CA 91911\nDrive-thru option preferred\nor walk up for services: If walking up\, please bring a cart & reusable bag. \nFor more information\, click here.
+URL:https://maacproject.org/event/food-bank-3rd-thursday-of-the-month-28/
+LOCATION:MAAC Community Center\, 1387 Third Avenue\, Chula Vista\, 91911\, United States
+CATEGORIES:Food Bank
+ATTACH;FMTTYPE=image/jpeg:https://maacproject.org/wp-content/uploads/2024/06/IMG_9426-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261218T090000
+DTEND;TZID=America/Los_Angeles:20261218T090000
+DTSTAMP:20261112T184258Z
+CREATED:20261112T184258Z
+LAST-MODIFIED:20261112T184258Z
+UID:7005-1797584400-1797584400@maacproject.org
+SUMMARY:Food Bank – 4th Friday of the Month (Holiday Adjusted)
+DESCRIPTION:9AM Senior Food Program\n@ MAAC Community Center\n1387 Third Avenue\, Chula Vista\, CA 91911 \nDrive-thru pick-up only \nFor more information\, go here
+URL:https://maacproject.org/event/food-bank-4th-friday-of-the-month-holiday-adjusted/
+LOCATION:MAAC Community Center\, 1387 Third Avenue\, Chula Vista\, 91911\, United States
+CATEGORIES:Food Bank
+ATTACH;FMTTYPE=image/jpeg:https://maacproject.org/wp-content/uploads/2024/06/IMG_9426-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20270106T073000
+DTEND;TZID=America/Los_Angeles:20270106T093000
+DTSTAMP:20261112T184545Z
+CREATED:20261112T184545Z
+LAST-MODIFIED:20261112T184545Z
+UID:7007-1799220600-1799227800@maacproject.org
+SUMMARY:Diaper Distribution – 1st Wednesday of the Month
+DESCRIPTION:DIAPER DISTRIBUTION /DISTRIBUCIÓN DE PAÑALES \nWALK up for services / Servicios en persona\nEvery 1st Wednesday of the Month / Cada primer miércoles \nFor more info\, go here.
+URL:https://maacproject.org/event/diaper-distribution-1st-wednesday-of-the-month-11/
+LOCATION:MAAC North Campus\, 956 Vale Terrace Drive\, Vista\, CA\, 92084\, United States
+CATEGORIES:Bi-Monthly Diaper Distribution
+ATTACH;FMTTYPE=image/jpeg:https://maacproject.org/wp-content/uploads/2024/06/GettyImages-1167721346_lr.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20270107T090000
+DTEND;TZID=America/Los_Angeles:20270107T090000
+DTSTAMP:20261112T184722Z
+CREATED:20261112T184722Z
+LAST-MODIFIED:20261112T184722Z
+UID:7009-1799312400-1799312400@maacproject.org
+SUMMARY:Food Bank – 1st Thursday of the Month
+DESCRIPTION:9AM Mercado \n2001 Newton Avenue\, San Diego\, CA 92113 \nWalk up for services only \nFor more information\, go here.
+URL:https://maacproject.org/event/food-bank-1st-thursday-of-the-month-33/
+LOCATION:Mercado Apartments\, 2001 Newton Avenue\, San Diego\, CA\, 92113\, United States
+CATEGORIES:Food Bank
+ATTACH;FMTTYPE=image/jpeg:https://maacproject.org/wp-content/uploads/2024/06/IMG_9426-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20270112T090000
+DTEND;TZID=America/Los_Angeles:20270112T090000
+DTSTAMP:20261112T184909Z
+CREATED:20261112T184909Z
+LAST-MODIFIED:20261112T184909Z
+UID:7011-1799744400-1799744400@maacproject.org
+SUMMARY:Food Bank – 2nd Tuesday of the Month
+DESCRIPTION:9AM Villa Lakeshore\n@ Lakeside Community Center\n9841 Vine Street\, Lakeside\, CA 92040 \nDrive-thru option preferred\nor walk up for services\nFor more information\, go here.d
+URL:https://maacproject.org/event/food-bank-2nd-tuesday-of-the-month-32/
+LOCATION:Lakeside Community Center (Villa Lakeshore Temp Location)\, 9841 Vine Street\, Lakeside\, CA\, 92040\, United States
+CATEGORIES:Food Bank
+ATTACH;FMTTYPE=image/jpeg:https://maacproject.org/wp-content/uploads/2024/06/IMG_9426-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20270119T070000
+DTEND;TZID=America/Los_Angeles:20270119T070000
+DTSTAMP:20261112T185049Z
+CREATED:20261112T185049Z
+LAST-MODIFIED:20261112T185049Z
+UID:7013-1800342000-1800342000@maacproject.org
+SUMMARY:Food Bank – 3rd Tuesday of the Month
+DESCRIPTION:10AM San Martin de Porres\n@ Grace Covenant Church\n9140 Akard Street\, Spring Valley\, CA 91977\nDrive-thru services only. \n1:30PM Laurel Tree\n1307 Laurel Tree Lane\, Carlsbad\, CA 92011\nWalk-up services only\, please bring a cart \n& reusable bag. \nFor more information\, go here.
+URL:https://maacproject.org/event/food-bank-3rd-tuesday-of-the-month-25/
+LOCATION:Laurel Tree Apartments\, 1307 Laurel Tree Lane\, Carlsbad\, CA\, 92011\, United States
+CATEGORIES:Food Bank
+ATTACH;FMTTYPE=image/jpeg:https://maacproject.org/wp-content/uploads/2024/06/IMG_9426-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20270120T160000
+DTEND;TZID=America/Los_Angeles:20270120T180000
+DTSTAMP:20261112T185230Z
+CREATED:20261112T185230Z
+LAST-MODIFIED:20261112T185230Z
+UID:7015-1800460800-1800468000@maacproject.org
+SUMMARY:Diaper Distribution – 3rd Wednesday of the Month
+DESCRIPTION:DIAPER DISTRIBUTION /DISTRIBUCIÓN DE PAÑALES \nWALK up for services / Servicios en persona\nEvery 3rd Wednesday of the Month / Cada tercer miércoles \nFor more info\, go here.
+URL:https://maacproject.org/event/diaper-distribution-3rd-wednesday-of-the-month-11/
+LOCATION:MAAC North Campus\, 956 Vale Terrace Drive\, Vista\, CA\, 92084\, United States
+CATEGORIES:Bi-Monthly Diaper Distribution
+ATTACH;FMTTYPE=image/jpeg:https://maacproject.org/wp-content/uploads/2024/06/GettyImages-1167721346_lr.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20270121T083000
+DTEND;TZID=America/Los_Angeles:20270121T083000
+DTSTAMP:20261112T185430Z
+CREATED:20261112T185430Z
+LAST-MODIFIED:20261112T185430Z
+UID:7017-1800520200-1800520200@maacproject.org
+SUMMARY:Food Bank – 3rd Thursday of the Month
+DESCRIPTION:8:30AM MAAC Community Center\n1385 Third Avenue\, Chula Vista\, CA 91911\nDrive-thru option preferred\nor walk up for services: If walking up\, please bring a cart & reusable bag. \nFor more information\, click here.
+URL:https://maacproject.org/event/food-bank-3rd-thursday-of-the-month-29/
+LOCATION:MAAC Community Center\, 1387 Third Avenue\, Chula Vista\, 91911\, United States
+CATEGORIES:Food Bank
+ATTACH;FMTTYPE=image/jpeg:https://maacproject.org/wp-content/uploads/2024/06/IMG_9426-scaled.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20270122T090000
+DTEND;TZID=America/Los_Angeles:20270122T090000
+DTSTAMP:20261112T185605Z
+CREATED:20261112T185605Z
+LAST-MODIFIED:20261112T185605Z
+UID:7019-1800608400-1800608400@maacproject.org
+SUMMARY:Food Bank – 4th Friday of the Month
+DESCRIPTION:9AM Senior Food Program\n@ MAAC Community Center\n1387 Third Avenue\, Chula Vista\, CA 91911 \nDrive-thru pick-up only \nFor more information\, go here
+URL:https://maacproject.org/event/food-bank-4th-friday-of-the-month-29/
+LOCATION:MAAC Community Center\, 1387 Third Avenue\, Chula Vista\, 91911\, United States
+CATEGORIES:Food Bank
+ATTACH;FMTTYPE=image/jpeg:https://maacproject.org/wp-content/uploads/2024/06/IMG_9426-scaled.jpg
+END:VEVENT
+END:VCALENDAR

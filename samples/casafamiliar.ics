@@ -1,0 +1,228 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Casa Familiar - ECPv6.18.4//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Casa Familiar
+X-ORIGINAL-URL:https://www.casafamiliar.org
+X-WR-CALDESC:Events for Casa Familiar
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20260308T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20261101T090000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20270314T100000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20271107T090000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261117T101500
+DTEND;TZID=America/Los_Angeles:20261117T110000
+DTSTAMP:20261114T032505Z
+CREATED:20261114T032505Z
+LAST-MODIFIED:20261114T032505Z
+UID:10330-1794910500-1794913200@www.casafamiliar.org
+SUMMARY:Protegiéndose de las Estafas Financieras
+DESCRIPTION:Taller Comunitario Gratuito \nAprende a reconocer\, resistir y reportar la explotación financiera. \nTaller en español. Habrá pan dulce. \nPresentado por
+URL:https://www.casafamiliar.org/event/protegiendose-de-las-estafas-financieras/
+LOCATION:El Salón\, 114 West Hall Avenue\, San Ysidro\, California\, 92173\, United States
+CATEGORIES:Workshop
+ATTACH;FMTTYPE=image/png:https://www.casafamiliar.org/wp-content/uploads/2026/11/California-Western-School-of-Law-Nov-17-Workshop.png
+ORGANIZER;CN="Casa Familiar":MAILTO:info@casafamiliar.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261117T163000
+DTEND;TZID=America/Los_Angeles:20261117T173000
+DTSTAMP:20261114T034607Z
+CREATED:20261114T034537Z
+LAST-MODIFIED:20261114T034607Z
+UID:10336-1794933000-1794936600@www.casafamiliar.org
+SUMMARY:CSU  Application 101
+DESCRIPTION:Join us to learn about application requirements and get ready to apply! \nWhat You Will Learn: \n\n\n\n\n\n\n\nLearn about CSU application requirements\nKnow important application deadlines\nFind out what materials you’ll need\n\n\n\nFree Food Provided \n  \nRegister
+URL:https://www.casafamiliar.org/event/csu-application-101/
+LOCATION:Casa Familiar Youth Center\, 3604 Beyer Boulevard\, San Ysidro\, 92173\, United States
+CATEGORIES:Workshop
+ATTACH;FMTTYPE=image/png:https://www.casafamiliar.org/wp-content/uploads/2026/11/CSU-APPLICATION-101-1.png
+ORGANIZER;CN="Casa Familiar":MAILTO:info@casafamiliar.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261119T100000
+DTEND;TZID=America/Los_Angeles:20261119T110000
+DTSTAMP:20261114T033226Z
+CREATED:20261114T033226Z
+LAST-MODIFIED:20261114T033226Z
+UID:10334-1795082400-1795086000@www.casafamiliar.org
+SUMMARY:Financial Literacy Workshops with Cal Coast Credit Union
+DESCRIPTION:Join us for our free financial education workshops; open to anyone interested in improving their financial skills. \nLearn about: \n\n\n\nBudgeting\nSaving\nCredit Management\nand more!\n\n\n\nPresented by Cal Coast Credit Union
+URL:https://www.casafamiliar.org/event/financial-literacy-workshop/
+LOCATION:El Salón\, 114 West Hall Avenue\, San Ysidro\, California\, 92173\, United States
+CATEGORIES:Workshop
+ATTACH;FMTTYPE=image/jpeg:https://www.casafamiliar.org/wp-content/uploads/2026/07/Financial-Workshop-scaled.jpg
+ORGANIZER;CN="Casa Familiar":MAILTO:info@casafamiliar.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261119T110000
+DTEND;TZID=America/Los_Angeles:20261119T120000
+DTSTAMP:20261110T152942Z
+CREATED:20261110T152744Z
+LAST-MODIFIED:20261110T152942Z
+UID:10285-1795086000-1795089600@www.casafamiliar.org
+SUMMARY:How to Apply to Affordable Housing
+DESCRIPTION:Join us for a FREE workshop designed to help residents better understand the Affordable Housing application process. \nWhat we will cover: \n\n\n\n\n\nWhat is Affordable Housing\nEligibility and Income Limits\nOverview of the application process\nReview the required documentation for your application\n\n\n\nChildcare and light snacks will be provided. For questions\, contact our Financial Opportunity Center 619-428-1115 option 4 FOC@casafamiliar.org \n  \nRegister \nIn partnership with:\n\n 
+URL:https://www.casafamiliar.org/event/how-to-apply-to-affordable-housing-san-ysidro/
+LOCATION:San Ysidro Library\, 4235 Beyer Boulevard San Diego\, CA\, San Diego\, 92173\, United States
+CATEGORIES:Workshop
+ATTACH;FMTTYPE=image/png:https://www.casafamiliar.org/wp-content/uploads/2026/09/Eventbrite-Banner-4.png
+ORGANIZER;CN="Casa Familiar":MAILTO:info@casafamiliar.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261120T170000
+DTEND;TZID=America/Los_Angeles:20261120T190000
+DTSTAMP:20261106T012812Z
+CREATED:20261106T012812Z
+LAST-MODIFIED:20261106T012812Z
+UID:10252-1795194000-1795201200@www.casafamiliar.org
+SUMMARY:Toy Drive for Día de Reyes
+DESCRIPTION:Give Back and Celebrate with Casa Familiar\nJoin us for a special evening of giving back in support of Casa Familiar’s Día de Reyes Celebration. \nBring a new\, unwrapped toy for a child ages 0–13 to help make the holiday season brighter for local families.  Stay for a fun-filled karaoke night and the chance to win raffle prizes! \nPlease note: This is a 21+ event.  \nMonetary donations are also welcome. Scan the QR code to make a contribution and help us bring holiday joy to children in our community.
+URL:https://www.casafamiliar.org/event/toy-drive/
+LOCATION:Brewjería Taproom & Kitchen\, 241 3rd Ave C\, Chula Vista\, 91910\, United States
+CATEGORIES:Signature Event
+ATTACH;FMTTYPE=image/png:https://www.casafamiliar.org/wp-content/uploads/2026/11/Dia-de-Reyes-Toy-Drive.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261123T140000
+DTEND;TZID=America/Los_Angeles:20261123T160000
+DTSTAMP:20261012T222303Z
+CREATED:20261012T222303Z
+LAST-MODIFIED:20261012T222303Z
+UID:10182-1795442400-1795449600@www.casafamiliar.org
+SUMMARY:Food Distribution with San Diego Food Bank
+DESCRIPTION:Casa Familiar is partnering with the San Diego Food Bank to host a free Food Distribution. Everyone is welcome; no advance registration required. \nDetails: \n\n\n\nWalk-up only\nPlease bring your own bags or food carts to transport your own food\nThe event is on the EAST side of the building
+URL:https://www.casafamiliar.org/event/food-distribution-with-san-diego-food-bank-nov/
+LOCATION:San Ysidro Civic Center\, 212 W Park Ave. San Ysidro\, CA 92173\, San Ysidro\, CA\, 92173\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.casafamiliar.org/wp-content/uploads/2026/07/FoodDist-02-photo-Feeding-San-Diego-e1784647197976.jpg
+ORGANIZER;CN="Casa Familiar":MAILTO:info@casafamiliar.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261123T170000
+DTEND;TZID=America/Los_Angeles:20261123T180000
+DTSTAMP:20261110T153548Z
+CREATED:20261110T152244Z
+LAST-MODIFIED:20261110T153548Z
+UID:10279-1795453200-1795456800@www.casafamiliar.org
+SUMMARY:How to Apply to Affordable Housing
+DESCRIPTION:Join us for a FREE workshop designed to help residents better understand the Affordable Housing application process. \nWhat we will cover: \n\n\n\nWhat is Affordable Housing\nEligibility and Income Limits\nOverview of the application process\nReview the required documentation for your application\nChildcare and light snacks will be provided. For questions\, contact our Financial Opportunity Center 619-428-1115 option 4 FOC@casafamiliar.org \n  \nRegister \n  \nIn partnership with:
+URL:https://www.casafamiliar.org/event/how-to-apply-to-affordable-housing-logan-heights/
+LOCATION:Logan Heights Library\, 567 South 28th Street\, San Diego\, 92113\, United States
+CATEGORIES:Workshop
+ATTACH;FMTTYPE=image/png:https://www.casafamiliar.org/wp-content/uploads/2026/09/Eventbrite-Banner-4.png
+ORGANIZER;CN="Casa Familiar":MAILTO:info@casafamiliar.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261201T170000
+DTEND;TZID=America/Los_Angeles:20261201T190000
+DTSTAMP:20260904T215336Z
+CREATED:20260904T215336Z
+LAST-MODIFIED:20260904T215336Z
+UID:10057-1796144400-1796151600@www.casafamiliar.org
+SUMMARY:How to Apply to Affordable Housing
+DESCRIPTION:Join us for a FREE workshop designed to help residents better understand the Affordable Housing application process. \nWhat we will cover: \n\n\n\nWhat is Affordable Housing\nEligibility and Income Limits\nOverview of the application process\nReview the required documentation for your application\n\nChoose a date that works for you: \n\nSept 9\, 2026 | 5 – 7 PM\nOct 1\, 2026 | 5 – 7 PM\nNov 5\, 2026 | 5 – 7 PM\nDec 1\, 2026 | 5 – 7 PM\n\nChildcare and light snacks will be provided. For questions\, contact our Financial Opportunity Center 619-428-1115 option 4 FOC@casafamiliar.org \n  \nRegister \n 
+URL:https://www.casafamiliar.org/event/how-to-apply-to-affordable-housing-dec-1/
+LOCATION:El Salón\, 114 West Hall Avenue\, San Ysidro\, California\, 92173\, United States
+CATEGORIES:Workshop
+ATTACH;FMTTYPE=image/png:https://www.casafamiliar.org/wp-content/uploads/2026/09/Eventbrite-Banner-4.png
+ORGANIZER;CN="Casa Familiar":MAILTO:info@casafamiliar.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261202T110000
+DTEND;TZID=America/Los_Angeles:20261202T120000
+DTSTAMP:20261110T153539Z
+CREATED:20261110T152041Z
+LAST-MODIFIED:20261110T153539Z
+UID:10277-1796209200-1796212800@www.casafamiliar.org
+SUMMARY:How to Apply to Affordable Housing
+DESCRIPTION:Join us for a FREE workshop designed to help residents better understand the Affordable Housing application process. \nWhat we will cover: \n\n\n\nWhat is Affordable Housing\nEligibility and Income Limits\nOverview of the application process\nReview the required documentation for your application\nChildcare and light snacks will be provided. For questions\, contact our Financial Opportunity Center 619-428-1115 option 4 FOC@casafamiliar.org \n  \nRegister \n  \nIn partnership with:
+URL:https://www.casafamiliar.org/event/how-to-apply-to-affordable-housing-otay-mesa-2/
+LOCATION:Otay Mesa-Nestor Branch Library\, 3003 Coronado Avenue\, San Diego\, CA\, 92154\, United States
+CATEGORIES:Workshop
+ATTACH;FMTTYPE=image/png:https://www.casafamiliar.org/wp-content/uploads/2026/09/Eventbrite-Banner-4.png
+ORGANIZER;CN="Casa Familiar":MAILTO:info@casafamiliar.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261207T170000
+DTEND;TZID=America/Los_Angeles:20261207T180000
+DTSTAMP:20261110T153423Z
+CREATED:20261110T152505Z
+LAST-MODIFIED:20261110T153423Z
+UID:10283-1796662800-1796666400@www.casafamiliar.org
+SUMMARY:How to Apply to Affordable Housing
+DESCRIPTION:Join us for a FREE workshop designed to help residents better understand the Affordable Housing application process. \nWhat we will cover: \n\n\n\nWhat is Affordable Housing\nEligibility and Income Limits\nOverview of the application process\nReview the required documentation for your application\nChildcare and light snacks will be provided. For questions\, contact our Financial Opportunity Center 619-428-1115 option 4 FOC@casafamiliar.org \n  \nRegister \n  \nIn partnership with:
+URL:https://www.casafamiliar.org/event/how-to-apply-to-affordable-housing-logan-heights-2/
+LOCATION:Logan Heights Library\, 567 South 28th Street\, San Diego\, 92113\, United States
+CATEGORIES:Workshop
+ATTACH;FMTTYPE=image/png:https://www.casafamiliar.org/wp-content/uploads/2026/09/Eventbrite-Banner-4.png
+ORGANIZER;CN="Casa Familiar":MAILTO:info@casafamiliar.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261214T140000
+DTEND;TZID=America/Los_Angeles:20261214T160000
+DTSTAMP:20261012T222535Z
+CREATED:20261012T222535Z
+LAST-MODIFIED:20261012T222535Z
+UID:10184-1797256800-1797264000@www.casafamiliar.org
+SUMMARY:Food Distribution with San Diego Food Bank
+DESCRIPTION:Casa Familiar is partnering with the San Diego Food Bank to host a free Food Distribution. Everyone is welcome; no advance registration required. \nDetails: \n\n\n\nWalk-up only\nPlease bring your own bags or food carts to transport your own food\nThe event is on the EAST side of the building
+URL:https://www.casafamiliar.org/event/food-distribution-with-san-diego-food-bank-dec/
+LOCATION:San Ysidro Civic Center\, 212 W Park Ave. San Ysidro\, CA 92173\, San Ysidro\, CA\, 92173\, United States
+ATTACH;FMTTYPE=image/jpeg:https://www.casafamiliar.org/wp-content/uploads/2026/07/FoodDist-02-photo-Feeding-San-Diego-e1784647197976.jpg
+ORGANIZER;CN="Casa Familiar":MAILTO:info@casafamiliar.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20261215T170000
+DTEND;TZID=America/Los_Angeles:20261215T180000
+DTSTAMP:20261110T153447Z
+CREATED:20261110T153247Z
+LAST-MODIFIED:20261110T153447Z
+UID:10291-1797354000-1797357600@www.casafamiliar.org
+SUMMARY:How to Apply to Affordable Housing
+DESCRIPTION:Join us for a FREE workshop designed to help residents better understand the Affordable Housing application process. \nWhat we will cover: \n\n\n\n\n\n\n\nWhat is Affordable Housing\nEligibility and Income Limits\nOverview of the application process\nReview the required documentation for your application\n\n\n\nChildcare and light snacks will be provided. For questions\, contact our Financial Opportunity Center 619-428-1115 option 4 FOC@casafamiliar.org \n  \nRegister \nIn partnership with:
+URL:https://www.casafamiliar.org/event/how-to-apply-to-affordable-housing-san-ysidro-2/
+LOCATION:San Ysidro Library\, 4235 Beyer Boulevard San Diego\, CA\, San Diego\, 92173\, United States
+CATEGORIES:Workshop
+ATTACH;FMTTYPE=image/png:https://www.casafamiliar.org/wp-content/uploads/2026/09/Eventbrite-Banner-4.png
+ORGANIZER;CN="Casa Familiar":MAILTO:info@casafamiliar.org
+END:VEVENT
+END:VCALENDAR
