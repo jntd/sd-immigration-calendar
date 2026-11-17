@@ -58,12 +58,11 @@
   }
  },
  "last_publish": {
-  "when": "2026-11-16 22:49",
-  "events": 104,
+  "when": "2026-11-16 22:50",
+  "events": 133,
   "held": false,
   "changed": [
    "all",
-   "citizenship-legal",
    "rights-civic",
    "esl",
    "tabling",
