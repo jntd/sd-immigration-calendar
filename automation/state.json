@@ -58,15 +58,9 @@
   }
  },
  "last_publish": {
-  "when": "2026-11-16 22:50",
+  "when": "2026-11-16 22:51",
   "events": 133,
   "held": false,
-  "changed": [
-   "all",
-   "rights-civic",
-   "esl",
-   "tabling",
-   "possibly"
-  ]
+  "changed": []
  }
 }

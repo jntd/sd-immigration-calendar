@@ -1,8 +1,8 @@
 # Calendar status
 
-Last automated run: 2026-11-16 22:50 Pacific
+Last automated run: 2026-11-16 22:51 Pacific
 
-Published: 133 events (feeds changed: all, rights-civic, esl, tabling, possibly)
+Published: 133 events (no change since the last run)
 
 | Feed | Events |
 |---|---|
@@ -30,9 +30,7 @@ Published: 133 events (feeds changed: all, rights-civic, esl, tabling, possibly)
 
 Carlsbad, Chula Vista, National City, Instagram and the other agency pages come from the monthly hand-run pass.
 
-## Waiting for a decision: 2 new titles
+## Waiting for a decision: 0 new titles
 
 New titles are held back from the calendar until the weekly AI pass judges them.
 
-- sdvlp: 26th Annual Family Law Paralegal Training
-- coronado-pl: San Diego Shakespeare Society Staged Reading: Antony and Cleopatra (Part Two)
