@@ -1,32 +1,32 @@
 # Calendar status
 
-Last automated run: 2026-11-18 13:28 Pacific
+Last automated run: 2026-11-19 13:38 Pacific
 
-Published: 123 events (feeds changed: all, citizenship-legal, esl, possibly)
+Published: 114 events (feeds changed: all, citizenship-legal, esl, possibly)
 
 | Feed | Events |
 |---|---|
-| all | 123 |
-| citizenship-legal | 28 |
+| all | 114 |
+| citizenship-legal | 25 |
 | rights-civic | 1 |
-| esl | 75 |
+| esl | 71 |
 | tabling | 5 |
-| possibly | 14 |
+| possibly | 12 |
 
 ## Sources collected automatically
 
 | Source | Result | Events in window |
 |---|---|---|
-| sdcl | ok | 102 |
-| oceanside | ok | 28 |
+| sdcl | ok | 97 |
+| oceanside | ok | 27 |
 | escondido | ok | 6 |
-| coronado | ok | 27 |
+| coronado | ok | 24 |
 | lassd | ok | 1 |
 | sdvlp | ok | 2 |
-| maac | ok | 11 |
-| casafamiliar | ok | 10 |
+| maac | ok | 9 |
+| casafamiliar | ok | 8 |
 | jfs | ok | 6 |
-| alliancesd | ok | 1 |
+| alliancesd | ok | 0 |
 
 Carlsbad, Chula Vista, National City, Instagram and the other agency pages come from the monthly hand-run pass.
 
