@@ -12,8 +12,8 @@
   "alliancesd": 0
  },
  "last_collect": {
-  "date": "2026-11-23",
-  "window_end": "2026-12-24",
+  "date": "2026-11-24",
+  "window_end": "2026-12-25",
   "sources": {
    "sdcl": {
     "ok": true,
@@ -21,7 +21,7 @@
    },
    "oceanside": {
     "ok": true,
-    "events": 27
+    "events": 28
    },
    "escondido": {
     "ok": true,
@@ -45,7 +45,7 @@
    },
    "casafamiliar": {
     "ok": true,
-    "events": 6
+    "events": 5
    },
    "jfs": {
     "ok": true,
@@ -58,14 +58,14 @@
   }
  },
  "last_publish": {
-  "when": "2026-11-23 16:55",
-  "events": 108,
+  "when": "2026-11-24 15:02",
+  "events": 105,
   "held": false,
   "changed": [
    "all",
    "citizenship-legal",
    "esl",
-   "tabling"
+   "possibly"
   ]
  },
  "last_handout": {
