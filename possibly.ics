@@ -22,27 +22,10 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:6a0e2d88fab4ff0f649a84a2@sdcl.bibliocommons.com
-DTSTAMP:20261124T230237Z
-LAST-MODIFIED:20261124T230237Z
-SEQUENCE:1319
-DTSTART;TZID=America/Los_Angeles:20261124T150000
-DTEND;TZID=America/Los_Angeles:20261124T170000
-SUMMARY:TABLE: EDD Job Help--Búsqueda de Trabajo por EDD
-LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
-DESCRIPTION:Employee Development Department will be in the library providin
- g job leads\, coaching\, and resources in English and Spanish.El Departame
- nto de Desarrollo de Empleados estará en el vestíbulo brindando pistas l
- aborales\, entrenamiento y recursos en inglés y español.\n\nMore info: h
- ttps://sdcl.bibliocommons.com/events/6a0e2d88fab4ff0f649a84a2\nListed by: 
- San Diego County Library
-CATEGORIES:Spanish,Tabling,Jobs & money,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
 UID:6a8b864d29a7dd0d67460c9f@sdcl.bibliocommons.com
-DTSTAMP:20261124T230237Z
-LAST-MODIFIED:20261124T230237Z
-SEQUENCE:1319
+DTSTAMP:20261125T223456Z
+LAST-MODIFIED:20261125T223456Z
+SEQUENCE:1342
 DTSTART;TZID=America/Los_Angeles:20261201T150000
 DTEND;TZID=America/Los_Angeles:20261201T170000
 SUMMARY:TABLE: EDD Job Help--Búsqueda de Trabajo por EDD
@@ -57,9 +40,9 @@ CATEGORIES:Spanish,Tabling,Jobs & money,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:10057-1796144400-1796151600@www.casafamiliar.org
-DTSTAMP:20261124T230237Z
-LAST-MODIFIED:20261124T230237Z
-SEQUENCE:1319
+DTSTAMP:20261125T223456Z
+LAST-MODIFIED:20261125T223456Z
+SEQUENCE:1342
 DTSTART;TZID=America/Los_Angeles:20261201T170000
 DTEND;TZID=America/Los_Angeles:20261201T190000
 SUMMARY:How to Apply to Affordable Housing
@@ -75,9 +58,9 @@ CATEGORIES:Housing,Rights & civic,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:10277-1796209200-1796212800@www.casafamiliar.org
-DTSTAMP:20261124T230237Z
-LAST-MODIFIED:20261124T230237Z
-SEQUENCE:1319
+DTSTAMP:20261125T223456Z
+LAST-MODIFIED:20261125T223456Z
+SEQUENCE:1342
 DTSTART;TZID=America/Los_Angeles:20261202T110000
 DTEND;TZID=America/Los_Angeles:20261202T120000
 SUMMARY:How to Apply to Affordable Housing
@@ -92,10 +75,28 @@ DESCRIPTION:Join us for a FREE workshop designed to help residents better u
 CATEGORIES:Housing,Rights & civic,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
+UID:10347-1796230800-1796234400@www.casafamiliar.org
+DTSTAMP:20261125T223456Z
+LAST-MODIFIED:20261125T223456Z
+SEQUENCE:1342
+DTSTART;TZID=America/Los_Angeles:20261202T170000
+DTEND;TZID=America/Los_Angeles:20261202T180000
+SUMMARY:How to Apply to Affordable Housing
+LOCATION:A Reason to Survive (ARTS)\, 200 E 12th St\, National City\, CA\, 
+ 91950\, United States
+DESCRIPTION:Join us for a FREE workshop designed to help residents better u
+ nderstand the Affordable Housing application process. What we will cover: 
+ What is Affordable Housing Eligibility and Income Limits Overview of the a
+ pplication process Review the required documentation for your application 
+ Childcare and …\n\nMore info: https://www.casafamiliar.org/event/how-to-
+ apply-to-affordable-housing-arts/\nListed by: Casa Familiar
+CATEGORIES:Housing,Rights & civic,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
 UID:69a23460491b809c6f1d0cfd@sdcl.bibliocommons.com
-DTSTAMP:20261124T230237Z
-LAST-MODIFIED:20261124T230237Z
-SEQUENCE:1319
+DTSTAMP:20261125T223456Z
+LAST-MODIFIED:20261125T223456Z
+SEQUENCE:1342
 DTSTART;TZID=America/Los_Angeles:20261204T130000
 DTEND;TZID=America/Los_Angeles:20261204T150000
 SUMMARY:CSA San Diego - Fair Housing Table Information Table
@@ -110,9 +111,9 @@ CATEGORIES:Housing,Rights & civic,Tabling,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:10283-1796662800-1796666400@www.casafamiliar.org
-DTSTAMP:20261124T230237Z
-LAST-MODIFIED:20261124T230237Z
-SEQUENCE:1319
+DTSTAMP:20261125T223456Z
+LAST-MODIFIED:20261125T223456Z
+SEQUENCE:1342
 DTSTART;TZID=America/Los_Angeles:20261207T170000
 DTEND;TZID=America/Los_Angeles:20261207T180000
 SUMMARY:How to Apply to Affordable Housing
@@ -128,9 +129,9 @@ CATEGORIES:Housing,Rights & civic,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:4720-1796724000-1796727600@www.lassd.org
-DTSTAMP:20261124T230237Z
-LAST-MODIFIED:20261124T230237Z
-SEQUENCE:1319
+DTSTAMP:20261125T223456Z
+LAST-MODIFIED:20261125T223456Z
+SEQUENCE:1342
 DTSTART;TZID=America/Los_Angeles:20261208T100000
 DTEND;TZID=America/Los_Angeles:20261208T110000
 SUMMARY:Fair Housing Basics
@@ -144,10 +145,28 @@ DESCRIPTION:Fair Housing Basics on Dec 8\, 2026\, 10:00 AM – 11:00 AM at:
 CATEGORIES:Housing,Rights & civic,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
+UID:10353-1796749200-1796752800@www.casafamiliar.org
+DTSTAMP:20261125T223456Z
+LAST-MODIFIED:20261125T223456Z
+SEQUENCE:1342
+DTSTART;TZID=America/Los_Angeles:20261208T170000
+DTEND;TZID=America/Los_Angeles:20261208T180000
+SUMMARY:How to Apply to Affordable Housing
+LOCATION:A Reason to Survive (ARTS)\, 200 E 12th St\, National City\, CA\, 
+ 91950\, United States
+DESCRIPTION:Join us for a FREE workshop designed to help residents better u
+ nderstand the Affordable Housing application process. What we will cover: 
+ What is Affordable Housing Eligibility and Income Limits Overview of the a
+ pplication process Review the required documentation for your application 
+ Childcare and …\n\nMore info: https://www.casafamiliar.org/event/how-to-
+ apply-to-affordable-housing-arts-2/\nListed by: Casa Familiar
+CATEGORIES:Housing,Rights & civic,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
 UID:3600886054377bb0dc02@sd-immigration-calendar
-DTSTAMP:20261124T230237Z
-LAST-MODIFIED:20261124T230237Z
-SEQUENCE:1319
+DTSTAMP:20261125T223456Z
+LAST-MODIFIED:20261125T223456Z
+SEQUENCE:1342
 DTSTART;TZID=America/Los_Angeles:20261209T180000
 SUMMARY:We the People: Claim Our Collective Power – Virtual Civic Engagem
  ent Training (Spanish session)
@@ -159,27 +178,10 @@ DESCRIPTION:Module 5 of the free five-part virtual civic engagement trainin
 CATEGORIES:Online,Spanish,Rights & civic,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
-UID:6a8b864d29a7dd0d67460ca0@sdcl.bibliocommons.com
-DTSTAMP:20261124T230237Z
-LAST-MODIFIED:20261124T230237Z
-SEQUENCE:1319
-DTSTART;TZID=America/Los_Angeles:20261215T150000
-DTEND;TZID=America/Los_Angeles:20261215T170000
-SUMMARY:TABLE: EDD Job Help--Búsqueda de Trabajo por EDD
-LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
-DESCRIPTION:Employee Development Department will be in the library providin
- g job leads\, coaching\, and resources in English and Spanish.El Departame
- nto de Desarrollo de Empleados estará en el vestíbulo brindando pistas l
- aborales\, entrenamiento y recursos en inglés y español.\n\nMore info: h
- ttps://sdcl.bibliocommons.com/events/6a8b864d29a7dd0d67460ca0\nListed by: 
- San Diego County Library
-CATEGORIES:Spanish,Tabling,Jobs & money,Possibly relevant
-END:VEVENT
-BEGIN:VEVENT
 UID:10291-1797354000-1797357600@www.casafamiliar.org
-DTSTAMP:20261124T230237Z
-LAST-MODIFIED:20261124T230237Z
-SEQUENCE:1319
+DTSTAMP:20261125T223456Z
+LAST-MODIFIED:20261125T223456Z
+SEQUENCE:1342
 DTSTART;TZID=America/Los_Angeles:20261215T170000
 DTEND;TZID=America/Los_Angeles:20261215T180000
 SUMMARY:How to Apply to Affordable Housing
@@ -195,9 +197,9 @@ CATEGORIES:Housing,Rights & civic,Possibly relevant
 END:VEVENT
 BEGIN:VEVENT
 UID:69a23460491b809c6f1d0cfe@sdcl.bibliocommons.com
-DTSTAMP:20261124T230237Z
-LAST-MODIFIED:20261124T230237Z
-SEQUENCE:1319
+DTSTAMP:20261125T223456Z
+LAST-MODIFIED:20261125T223456Z
+SEQUENCE:1342
 DTSTART;TZID=America/Los_Angeles:20261216T130000
 DTEND;TZID=America/Los_Angeles:20261216T150000
 SUMMARY:CSA San Diego - Fair Housing Table Information Table
@@ -209,5 +211,22 @@ DESCRIPTION:CSA San Diego County is a 501(c)(3) nonprofit organization whos
  equal housing …\n\nMore info: https://sdcl.bibliocommons.com/events/69a2
  3460491b809c6f1d0cfe\nListed by: San Diego County Library
 CATEGORIES:Housing,Rights & civic,Tabling,Possibly relevant
+END:VEVENT
+BEGIN:VEVENT
+UID:6a8b864d29a7dd0d67460ca0@sdcl.bibliocommons.com
+DTSTAMP:20261125T223456Z
+LAST-MODIFIED:20261125T223456Z
+SEQUENCE:1342
+DTSTART;TZID=America/Los_Angeles:20261222T150000
+DTEND;TZID=America/Los_Angeles:20261222T170000
+SUMMARY:TABLE: EDD Job Help--Búsqueda de Trabajo por EDD
+LOCATION:Vista Branch Library\, 700 Eucalyptus Avenue\, Vista\, CA 92084
+DESCRIPTION:Employee Development Department will be in the library providin
+ g job leads\, coaching\, and resources in English and Spanish.El Departame
+ nto de Desarrollo de Empleados estará en el vestíbulo brindando pistas l
+ aborales\, entrenamiento y recursos en inglés y español.\n\nMore info: h
+ ttps://sdcl.bibliocommons.com/events/6a8b864d29a7dd0d67460ca0\nListed by: 
+ San Diego County Library
+CATEGORIES:Spanish,Tabling,Jobs & money,Possibly relevant
 END:VEVENT
 END:VCALENDAR
