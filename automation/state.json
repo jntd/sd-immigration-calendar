@@ -12,12 +12,12 @@
   "alliancesd": 0
  },
  "last_collect": {
-  "date": "2026-11-25",
-  "window_end": "2026-12-26",
+  "date": "2026-11-26",
+  "window_end": "2026-12-27",
   "sources": {
    "sdcl": {
     "ok": true,
-    "events": 90
+    "events": 87
    },
    "oceanside": {
     "ok": true,
@@ -45,7 +45,7 @@
    },
    "casafamiliar": {
     "ok": true,
-    "events": 7
+    "events": 8
    },
    "jfs": {
     "ok": true,
@@ -58,14 +58,14 @@
   }
  },
  "last_publish": {
-  "when": "2026-11-25 14:34",
-  "events": 97,
+  "when": "2026-11-26 14:22",
+  "events": 91,
   "held": false,
   "changed": [
    "all",
    "citizenship-legal",
    "esl",
-   "possibly"
+   "tabling"
   ]
  },
  "last_handout": {

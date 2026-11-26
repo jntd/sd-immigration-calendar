@@ -1,30 +1,30 @@
 # Calendar status
 
-Last automated run: 2026-11-25 14:34 Pacific
+Last automated run: 2026-11-26 14:22 Pacific
 
-Published: 97 events (feeds changed: all, citizenship-legal, esl, possibly)
+Published: 91 events (feeds changed: all, citizenship-legal, esl, tabling)
 
 | Feed | Events |
 |---|---|
-| all | 97 |
-| citizenship-legal | 21 |
+| all | 91 |
+| citizenship-legal | 18 |
 | rights-civic | 1 |
-| esl | 58 |
-| tabling | 5 |
+| esl | 56 |
+| tabling | 4 |
 | possibly | 12 |
 
 ## Sources collected automatically
 
 | Source | Result | Events in window |
 |---|---|---|
-| sdcl | ok | 90 |
+| sdcl | ok | 87 |
 | oceanside | ok | 27 |
 | escondido | ok | 4 |
 | coronado | ok | 22 |
 | lassd | ok | 1 |
 | sdvlp | ok | 2 |
 | maac | ok | 8 |
-| casafamiliar | ok | 7 |
+| casafamiliar | ok | 8 |
 | jfs | ok | 5 |
 | alliancesd | ok | 0 |
 

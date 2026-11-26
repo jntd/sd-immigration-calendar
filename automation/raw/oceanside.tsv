@@ -1,4 +1,4 @@
-# Compact copy of oceanside LibraryCalendar iCal feed via tools/collect.py; columns UID DTSTART DTEND SUMMARY LOCATION ROOM URL CATEGORIES STATUS DESCRIPTION (collected 2026-11-25; 90 events in feed)
+# Compact copy of oceanside LibraryCalendar iCal feed via tools/collect.py; columns UID DTSTART DTEND SUMMARY LOCATION ROOM URL CATEGORIES STATUS DESCRIPTION (collected 2026-11-26; 90 events in feed)
 :45774	:20261126T080000Z	:20261127T080000Z	:Thanksgiving Holiday			;VALUE=URI:https://oceansidepl.librarycalendar.com/event/thanksgiving-holiday-45774			
 :55495	:20261201T013000Z	:20261201T023000Z	:Cafecito: English Practice	:4700 N River Rd\, Oceanside\, CA\, 92057\, US		;VALUE=URI:https://oceansidepl.librarycalendar.com/event/cafecito-english-practice-55495	:Adult Education,Conversation Group,READS Learning Center	:CONFIRMED	
 :55518	:20261201T180000Z	:20261201T190000Z	:Cafecito: English Practice	:804 Pier View Wy\, Oceanside\, CA\, 92054\, US	:READS Program Space	;VALUE=URI:https://oceansidepl.librarycalendar.com/event/cafecito-english-practice-55518	:Adult Education,Conversation Group,READS Learning Center	:CONFIRMED	
