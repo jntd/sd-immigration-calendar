@@ -1,8 +1,8 @@
 # Calendar status
 
-Last automated run: 2026-11-26 14:22 Pacific
+Last automated run: 2026-11-27 13:59 Pacific
 
-Published: 91 events (feeds changed: all, citizenship-legal, esl, tabling)
+Published: 91 events (no change since the last run)
 
 | Feed | Events |
 |---|---|
@@ -17,8 +17,8 @@ Published: 91 events (feeds changed: all, citizenship-legal, esl, tabling)
 
 | Source | Result | Events in window |
 |---|---|---|
-| sdcl | ok | 87 |
-| oceanside | ok | 27 |
+| sdcl | ok | 89 |
+| oceanside | ok | 26 |
 | escondido | ok | 4 |
 | coronado | ok | 22 |
 | lassd | ok | 1 |

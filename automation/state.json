@@ -12,16 +12,16 @@
   "alliancesd": 0
  },
  "last_collect": {
-  "date": "2026-11-26",
-  "window_end": "2026-12-27",
+  "date": "2026-11-27",
+  "window_end": "2026-12-28",
   "sources": {
    "sdcl": {
     "ok": true,
-    "events": 87
+    "events": 89
    },
    "oceanside": {
     "ok": true,
-    "events": 27
+    "events": 26
    },
    "escondido": {
     "ok": true,
@@ -58,15 +58,10 @@
   }
  },
  "last_publish": {
-  "when": "2026-11-26 14:22",
+  "when": "2026-11-27 13:59",
   "events": 91,
   "held": false,
-  "changed": [
-   "all",
-   "citizenship-legal",
-   "esl",
-   "tabling"
-  ]
+  "changed": []
  },
  "last_handout": {
   "start": "2026-11-23",
